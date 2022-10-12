@@ -1,0 +1,453 @@
+[
+  {
+    "name": "Border Collapse",
+    "table": [
+      {
+        "Class": "border-collapse",
+        "Properties": "border-collapse: collapse;\n"
+      },
+      {
+        "Class": "border-separate",
+        "Properties": "border-collapse: separate;\n"
+      }
+    ]
+  },
+  {
+    "name": "Border Spacing",
+    "table": [
+      {
+        "Class": "border-spacing-0",
+        "Properties": "border-spacing: 0px 0px;\n"
+      },
+      {
+        "Class": "border-spacing-x-0",
+        "Properties": "border-spacing: 0px var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-0",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 0px;\n"
+      },
+      {
+        "Class": "border-spacing-px",
+        "Properties": "border-spacing: 1px 1px;\n"
+      },
+      {
+        "Class": "border-spacing-x-px",
+        "Properties": "border-spacing: 1px var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-px",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 1px;\n"
+      },
+      {
+        "Class": "border-spacing-0.5",
+        "Properties": "border-spacing: 0.125rem 0.125rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-0.5",
+        "Properties": "border-spacing: 0.125rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-0.5",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 0.125rem;\n"
+      },
+      {
+        "Class": "border-spacing-1",
+        "Properties": "border-spacing: 0.25rem 0.25rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-1",
+        "Properties": "border-spacing: 0.25rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-1",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 0.25rem;\n"
+      },
+      {
+        "Class": "border-spacing-1.5",
+        "Properties": "border-spacing: 0.375rem 0.375rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-1.5",
+        "Properties": "border-spacing: 0.375rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-1.5",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 0.375rem;\n"
+      },
+      {
+        "Class": "border-spacing-2",
+        "Properties": "border-spacing: 0.5rem 0.5rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-2",
+        "Properties": "border-spacing: 0.5rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-2",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 0.5rem;\n"
+      },
+      {
+        "Class": "border-spacing-2.5",
+        "Properties": "border-spacing: 0.625rem 0.625rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-2.5",
+        "Properties": "border-spacing: 0.625rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-2.5",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 0.625rem;\n"
+      },
+      {
+        "Class": "border-spacing-3",
+        "Properties": "border-spacing: 0.75rem 0.75rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-3",
+        "Properties": "border-spacing: 0.75rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-3",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 0.75rem;\n"
+      },
+      {
+        "Class": "border-spacing-3.5",
+        "Properties": "border-spacing: 0.875rem 0.875rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-3.5",
+        "Properties": "border-spacing: 0.875rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-3.5",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 0.875rem;\n"
+      },
+      {
+        "Class": "border-spacing-4",
+        "Properties": "border-spacing: 1rem 1rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-4",
+        "Properties": "border-spacing: 1rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-4",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 1rem;\n"
+      },
+      {
+        "Class": "border-spacing-5",
+        "Properties": "border-spacing: 1.25rem 1.25rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-5",
+        "Properties": "border-spacing: 1.25rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-5",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 1.25rem;\n"
+      },
+      {
+        "Class": "border-spacing-6",
+        "Properties": "border-spacing: 1.5rem 1.5rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-6",
+        "Properties": "border-spacing: 1.5rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-6",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 1.5rem;\n"
+      },
+      {
+        "Class": "border-spacing-7",
+        "Properties": "border-spacing: 1.75rem 1.75rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-7",
+        "Properties": "border-spacing: 1.75rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-7",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 1.75rem;\n"
+      },
+      {
+        "Class": "border-spacing-8",
+        "Properties": "border-spacing: 2rem 2rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-8",
+        "Properties": "border-spacing: 2rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-8",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 2rem;\n"
+      },
+      {
+        "Class": "border-spacing-9",
+        "Properties": "border-spacing: 2.25rem 2.25rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-9",
+        "Properties": "border-spacing: 2.25rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-9",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 2.25rem;\n"
+      },
+      {
+        "Class": "border-spacing-10",
+        "Properties": "border-spacing: 2.5rem 2.5rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-10",
+        "Properties": "border-spacing: 2.5rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-10",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 2.5rem;\n"
+      },
+      {
+        "Class": "border-spacing-11",
+        "Properties": "border-spacing: 2.75rem 2.75rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-11",
+        "Properties": "border-spacing: 2.75rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-11",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 2.75rem;\n"
+      },
+      {
+        "Class": "border-spacing-12",
+        "Properties": "border-spacing: 3rem 3rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-12",
+        "Properties": "border-spacing: 3rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-12",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 3rem;\n"
+      },
+      {
+        "Class": "border-spacing-14",
+        "Properties": "border-spacing: 3.5rem 3.5rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-14",
+        "Properties": "border-spacing: 3.5rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-14",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 3.5rem;\n"
+      },
+      {
+        "Class": "border-spacing-16",
+        "Properties": "border-spacing: 4rem 4rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-16",
+        "Properties": "border-spacing: 4rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-16",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 4rem;\n"
+      },
+      {
+        "Class": "border-spacing-20",
+        "Properties": "border-spacing: 5rem 5rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-20",
+        "Properties": "border-spacing: 5rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-20",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 5rem;\n"
+      },
+      {
+        "Class": "border-spacing-24",
+        "Properties": "border-spacing: 6rem 6rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-24",
+        "Properties": "border-spacing: 6rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-24",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 6rem;\n"
+      },
+      {
+        "Class": "border-spacing-28",
+        "Properties": "border-spacing: 7rem 7rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-28",
+        "Properties": "border-spacing: 7rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-28",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 7rem;\n"
+      },
+      {
+        "Class": "border-spacing-32",
+        "Properties": "border-spacing: 8rem 8rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-32",
+        "Properties": "border-spacing: 8rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-32",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 8rem;\n"
+      },
+      {
+        "Class": "border-spacing-36",
+        "Properties": "border-spacing: 9rem 9rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-36",
+        "Properties": "border-spacing: 9rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-36",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 9rem;\n"
+      },
+      {
+        "Class": "border-spacing-40",
+        "Properties": "border-spacing: 10rem 10rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-40",
+        "Properties": "border-spacing: 10rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-40",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 10rem;\n"
+      },
+      {
+        "Class": "border-spacing-44",
+        "Properties": "border-spacing: 11rem 11rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-44",
+        "Properties": "border-spacing: 11rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-44",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 11rem;\n"
+      },
+      {
+        "Class": "border-spacing-48",
+        "Properties": "border-spacing: 12rem 12rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-48",
+        "Properties": "border-spacing: 12rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-48",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 12rem;\n"
+      },
+      {
+        "Class": "border-spacing-52",
+        "Properties": "border-spacing: 13rem 13rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-52",
+        "Properties": "border-spacing: 13rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-52",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 13rem;\n"
+      },
+      {
+        "Class": "border-spacing-56",
+        "Properties": "border-spacing: 14rem 14rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-56",
+        "Properties": "border-spacing: 14rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-56",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 14rem;\n"
+      },
+      {
+        "Class": "border-spacing-60",
+        "Properties": "border-spacing: 15rem 15rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-60",
+        "Properties": "border-spacing: 15rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-60",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 15rem;\n"
+      },
+      {
+        "Class": "border-spacing-64",
+        "Properties": "border-spacing: 16rem 16rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-64",
+        "Properties": "border-spacing: 16rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-64",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 16rem;\n"
+      },
+      {
+        "Class": "border-spacing-72",
+        "Properties": "border-spacing: 18rem 18rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-72",
+        "Properties": "border-spacing: 18rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-72",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 18rem;\n"
+      },
+      {
+        "Class": "border-spacing-80",
+        "Properties": "border-spacing: 20rem 20rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-80",
+        "Properties": "border-spacing: 20rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-80",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 20rem;\n"
+      },
+      {
+        "Class": "border-spacing-96",
+        "Properties": "border-spacing: 24rem 24rem;\n"
+      },
+      {
+        "Class": "border-spacing-x-96",
+        "Properties": "border-spacing: 24rem var(--tw-border-spacing-y);\n"
+      },
+      {
+        "Class": "border-spacing-y-96",
+        "Properties": "border-spacing: var(--tw-border-spacing-x) 24rem;\n"
+      }
+    ]
+  },
+  {
+    "name": "Table Layout",
+    "table": [
+      {
+        "Class": "table-auto",
+        "Properties": "table-layout: auto;\n"
+      },
+      {
+        "Class": "table-fixed",
+        "Properties": "table-layout: fixed;\n"
+      }
+    ]
+  }
+]

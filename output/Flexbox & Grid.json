@@ -1,0 +1,1502 @@
+[
+  {
+    "name": "Flex Basis",
+    "table": [
+      {
+        "Class": "basis-0",
+        "Properties": "flex-basis: 0px;\n"
+      },
+      {
+        "Class": "basis-1",
+        "Properties": "flex-basis: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "basis-2",
+        "Properties": "flex-basis: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "basis-3",
+        "Properties": "flex-basis: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "basis-4",
+        "Properties": "flex-basis: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "basis-5",
+        "Properties": "flex-basis: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "basis-6",
+        "Properties": "flex-basis: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "basis-7",
+        "Properties": "flex-basis: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "basis-8",
+        "Properties": "flex-basis: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "basis-9",
+        "Properties": "flex-basis: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "basis-10",
+        "Properties": "flex-basis: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "basis-11",
+        "Properties": "flex-basis: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "basis-12",
+        "Properties": "flex-basis: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "basis-14",
+        "Properties": "flex-basis: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "basis-16",
+        "Properties": "flex-basis: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "basis-20",
+        "Properties": "flex-basis: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "basis-24",
+        "Properties": "flex-basis: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "basis-28",
+        "Properties": "flex-basis: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "basis-32",
+        "Properties": "flex-basis: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "basis-36",
+        "Properties": "flex-basis: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "basis-40",
+        "Properties": "flex-basis: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "basis-44",
+        "Properties": "flex-basis: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "basis-48",
+        "Properties": "flex-basis: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "basis-52",
+        "Properties": "flex-basis: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "basis-56",
+        "Properties": "flex-basis: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "basis-60",
+        "Properties": "flex-basis: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "basis-64",
+        "Properties": "flex-basis: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "basis-72",
+        "Properties": "flex-basis: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "basis-80",
+        "Properties": "flex-basis: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "basis-96",
+        "Properties": "flex-basis: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "basis-auto",
+        "Properties": "flex-basis: auto;\n"
+      },
+      {
+        "Class": "basis-px",
+        "Properties": "flex-basis: 1px;\n"
+      },
+      {
+        "Class": "basis-0.5",
+        "Properties": "flex-basis: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "basis-1.5",
+        "Properties": "flex-basis: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "basis-2.5",
+        "Properties": "flex-basis: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "basis-3.5",
+        "Properties": "flex-basis: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "basis-1/2",
+        "Properties": "flex-basis: 50%;\n"
+      },
+      {
+        "Class": "basis-1/3",
+        "Properties": "flex-basis: 33.333333%;\n"
+      },
+      {
+        "Class": "basis-2/3",
+        "Properties": "flex-basis: 66.666667%;\n"
+      },
+      {
+        "Class": "basis-1/4",
+        "Properties": "flex-basis: 25%;\n"
+      },
+      {
+        "Class": "basis-2/4",
+        "Properties": "flex-basis: 50%;\n"
+      },
+      {
+        "Class": "basis-3/4",
+        "Properties": "flex-basis: 75%;\n"
+      },
+      {
+        "Class": "basis-1/5",
+        "Properties": "flex-basis: 20%;\n"
+      },
+      {
+        "Class": "basis-2/5",
+        "Properties": "flex-basis: 40%;\n"
+      },
+      {
+        "Class": "basis-3/5",
+        "Properties": "flex-basis: 60%;\n"
+      },
+      {
+        "Class": "basis-4/5",
+        "Properties": "flex-basis: 80%;\n"
+      },
+      {
+        "Class": "basis-1/6",
+        "Properties": "flex-basis: 16.666667%;\n"
+      },
+      {
+        "Class": "basis-2/6",
+        "Properties": "flex-basis: 33.333333%;\n"
+      },
+      {
+        "Class": "basis-3/6",
+        "Properties": "flex-basis: 50%;\n"
+      },
+      {
+        "Class": "basis-4/6",
+        "Properties": "flex-basis: 66.666667%;\n"
+      },
+      {
+        "Class": "basis-5/6",
+        "Properties": "flex-basis: 83.333333%;\n"
+      },
+      {
+        "Class": "basis-1/12",
+        "Properties": "flex-basis: 8.333333%;\n"
+      },
+      {
+        "Class": "basis-2/12",
+        "Properties": "flex-basis: 16.666667%;\n"
+      },
+      {
+        "Class": "basis-3/12",
+        "Properties": "flex-basis: 25%;\n"
+      },
+      {
+        "Class": "basis-4/12",
+        "Properties": "flex-basis: 33.333333%;\n"
+      },
+      {
+        "Class": "basis-5/12",
+        "Properties": "flex-basis: 41.666667%;\n"
+      },
+      {
+        "Class": "basis-6/12",
+        "Properties": "flex-basis: 50%;\n"
+      },
+      {
+        "Class": "basis-7/12",
+        "Properties": "flex-basis: 58.333333%;\n"
+      },
+      {
+        "Class": "basis-8/12",
+        "Properties": "flex-basis: 66.666667%;\n"
+      },
+      {
+        "Class": "basis-9/12",
+        "Properties": "flex-basis: 75%;\n"
+      },
+      {
+        "Class": "basis-10/12",
+        "Properties": "flex-basis: 83.333333%;\n"
+      },
+      {
+        "Class": "basis-11/12",
+        "Properties": "flex-basis: 91.666667%;\n"
+      },
+      {
+        "Class": "basis-full",
+        "Properties": "flex-basis: 100%;\n"
+      }
+    ]
+  },
+  {
+    "name": "Flex Direction",
+    "table": [
+      {
+        "Class": "flex-row",
+        "Properties": "flex-direction: row;\n"
+      },
+      {
+        "Class": "flex-row-reverse",
+        "Properties": "flex-direction: row-reverse;\n"
+      },
+      {
+        "Class": "flex-col",
+        "Properties": "flex-direction: column;\n"
+      },
+      {
+        "Class": "flex-col-reverse",
+        "Properties": "flex-direction: column-reverse;\n"
+      }
+    ]
+  },
+  {
+    "name": "Flex Wrap",
+    "table": [
+      {
+        "Class": "flex-wrap",
+        "Properties": "flex-wrap: wrap;\n"
+      },
+      {
+        "Class": "flex-wrap-reverse",
+        "Properties": "flex-wrap: wrap-reverse;\n"
+      },
+      {
+        "Class": "flex-nowrap",
+        "Properties": "flex-wrap: nowrap;\n"
+      }
+    ]
+  },
+  {
+    "name": "Flex",
+    "table": [
+      {
+        "Class": "flex-1",
+        "Properties": "flex: 1 1 0%;\n"
+      },
+      {
+        "Class": "flex-auto",
+        "Properties": "flex: 1 1 auto;\n"
+      },
+      {
+        "Class": "flex-initial",
+        "Properties": "flex: 0 1 auto;\n"
+      },
+      {
+        "Class": "flex-none",
+        "Properties": "flex: none;\n"
+      }
+    ]
+  },
+  {
+    "name": "Flex Grow",
+    "table": [
+      {
+        "Class": "grow",
+        "Properties": "flex-grow: 1;\n"
+      },
+      {
+        "Class": "grow-0",
+        "Properties": "flex-grow: 0;\n"
+      }
+    ]
+  },
+  {
+    "name": "Flex Shrink",
+    "table": [
+      {
+        "Class": "shrink",
+        "Properties": "flex-shrink: 1;\n"
+      },
+      {
+        "Class": "shrink-0",
+        "Properties": "flex-shrink: 0;\n"
+      }
+    ]
+  },
+  {
+    "name": "Order",
+    "table": [
+      {
+        "Class": "order-1",
+        "Properties": "order: 1;\n"
+      },
+      {
+        "Class": "order-2",
+        "Properties": "order: 2;\n"
+      },
+      {
+        "Class": "order-3",
+        "Properties": "order: 3;\n"
+      },
+      {
+        "Class": "order-4",
+        "Properties": "order: 4;\n"
+      },
+      {
+        "Class": "order-5",
+        "Properties": "order: 5;\n"
+      },
+      {
+        "Class": "order-6",
+        "Properties": "order: 6;\n"
+      },
+      {
+        "Class": "order-7",
+        "Properties": "order: 7;\n"
+      },
+      {
+        "Class": "order-8",
+        "Properties": "order: 8;\n"
+      },
+      {
+        "Class": "order-9",
+        "Properties": "order: 9;\n"
+      },
+      {
+        "Class": "order-10",
+        "Properties": "order: 10;\n"
+      },
+      {
+        "Class": "order-11",
+        "Properties": "order: 11;\n"
+      },
+      {
+        "Class": "order-12",
+        "Properties": "order: 12;\n"
+      },
+      {
+        "Class": "order-first",
+        "Properties": "order: -9999;\n"
+      },
+      {
+        "Class": "order-last",
+        "Properties": "order: 9999;\n"
+      },
+      {
+        "Class": "order-none",
+        "Properties": "order: 0;\n"
+      }
+    ]
+  },
+  {
+    "name": "Grid Template Columns",
+    "table": [
+      {
+        "Class": "grid-cols-1",
+        "Properties": "grid-template-columns: repeat(1, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-cols-2",
+        "Properties": "grid-template-columns: repeat(2, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-cols-3",
+        "Properties": "grid-template-columns: repeat(3, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-cols-4",
+        "Properties": "grid-template-columns: repeat(4, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-cols-5",
+        "Properties": "grid-template-columns: repeat(5, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-cols-6",
+        "Properties": "grid-template-columns: repeat(6, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-cols-7",
+        "Properties": "grid-template-columns: repeat(7, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-cols-8",
+        "Properties": "grid-template-columns: repeat(8, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-cols-9",
+        "Properties": "grid-template-columns: repeat(9, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-cols-10",
+        "Properties": "grid-template-columns: repeat(10, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-cols-11",
+        "Properties": "grid-template-columns: repeat(11, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-cols-12",
+        "Properties": "grid-template-columns: repeat(12, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-cols-none",
+        "Properties": "grid-template-columns: none;\n"
+      }
+    ]
+  },
+  {
+    "name": "Grid Column Start / End",
+    "table": [
+      {
+        "Class": "col-auto",
+        "Properties": "grid-column: auto;\n"
+      },
+      {
+        "Class": "col-span-1",
+        "Properties": "grid-column: span 1 / span 1;\n"
+      },
+      {
+        "Class": "col-span-2",
+        "Properties": "grid-column: span 2 / span 2;\n"
+      },
+      {
+        "Class": "col-span-3",
+        "Properties": "grid-column: span 3 / span 3;\n"
+      },
+      {
+        "Class": "col-span-4",
+        "Properties": "grid-column: span 4 / span 4;\n"
+      },
+      {
+        "Class": "col-span-5",
+        "Properties": "grid-column: span 5 / span 5;\n"
+      },
+      {
+        "Class": "col-span-6",
+        "Properties": "grid-column: span 6 / span 6;\n"
+      },
+      {
+        "Class": "col-span-7",
+        "Properties": "grid-column: span 7 / span 7;\n"
+      },
+      {
+        "Class": "col-span-8",
+        "Properties": "grid-column: span 8 / span 8;\n"
+      },
+      {
+        "Class": "col-span-9",
+        "Properties": "grid-column: span 9 / span 9;\n"
+      },
+      {
+        "Class": "col-span-10",
+        "Properties": "grid-column: span 10 / span 10;\n"
+      },
+      {
+        "Class": "col-span-11",
+        "Properties": "grid-column: span 11 / span 11;\n"
+      },
+      {
+        "Class": "col-span-12",
+        "Properties": "grid-column: span 12 / span 12;\n"
+      },
+      {
+        "Class": "col-span-full",
+        "Properties": "grid-column: 1 / -1;\n"
+      },
+      {
+        "Class": "col-start-1",
+        "Properties": "grid-column-start: 1;\n"
+      },
+      {
+        "Class": "col-start-2",
+        "Properties": "grid-column-start: 2;\n"
+      },
+      {
+        "Class": "col-start-3",
+        "Properties": "grid-column-start: 3;\n"
+      },
+      {
+        "Class": "col-start-4",
+        "Properties": "grid-column-start: 4;\n"
+      },
+      {
+        "Class": "col-start-5",
+        "Properties": "grid-column-start: 5;\n"
+      },
+      {
+        "Class": "col-start-6",
+        "Properties": "grid-column-start: 6;\n"
+      },
+      {
+        "Class": "col-start-7",
+        "Properties": "grid-column-start: 7;\n"
+      },
+      {
+        "Class": "col-start-8",
+        "Properties": "grid-column-start: 8;\n"
+      },
+      {
+        "Class": "col-start-9",
+        "Properties": "grid-column-start: 9;\n"
+      },
+      {
+        "Class": "col-start-10",
+        "Properties": "grid-column-start: 10;\n"
+      },
+      {
+        "Class": "col-start-11",
+        "Properties": "grid-column-start: 11;\n"
+      },
+      {
+        "Class": "col-start-12",
+        "Properties": "grid-column-start: 12;\n"
+      },
+      {
+        "Class": "col-start-13",
+        "Properties": "grid-column-start: 13;\n"
+      },
+      {
+        "Class": "col-start-auto",
+        "Properties": "grid-column-start: auto;\n"
+      },
+      {
+        "Class": "col-end-1",
+        "Properties": "grid-column-end: 1;\n"
+      },
+      {
+        "Class": "col-end-2",
+        "Properties": "grid-column-end: 2;\n"
+      },
+      {
+        "Class": "col-end-3",
+        "Properties": "grid-column-end: 3;\n"
+      },
+      {
+        "Class": "col-end-4",
+        "Properties": "grid-column-end: 4;\n"
+      },
+      {
+        "Class": "col-end-5",
+        "Properties": "grid-column-end: 5;\n"
+      },
+      {
+        "Class": "col-end-6",
+        "Properties": "grid-column-end: 6;\n"
+      },
+      {
+        "Class": "col-end-7",
+        "Properties": "grid-column-end: 7;\n"
+      },
+      {
+        "Class": "col-end-8",
+        "Properties": "grid-column-end: 8;\n"
+      },
+      {
+        "Class": "col-end-9",
+        "Properties": "grid-column-end: 9;\n"
+      },
+      {
+        "Class": "col-end-10",
+        "Properties": "grid-column-end: 10;\n"
+      },
+      {
+        "Class": "col-end-11",
+        "Properties": "grid-column-end: 11;\n"
+      },
+      {
+        "Class": "col-end-12",
+        "Properties": "grid-column-end: 12;\n"
+      },
+      {
+        "Class": "col-end-13",
+        "Properties": "grid-column-end: 13;\n"
+      },
+      {
+        "Class": "col-end-auto",
+        "Properties": "grid-column-end: auto;\n"
+      }
+    ]
+  },
+  {
+    "name": "Grid Template Rows",
+    "table": [
+      {
+        "Class": "grid-rows-1",
+        "Properties": "grid-template-rows: repeat(1, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-rows-2",
+        "Properties": "grid-template-rows: repeat(2, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-rows-3",
+        "Properties": "grid-template-rows: repeat(3, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-rows-4",
+        "Properties": "grid-template-rows: repeat(4, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-rows-5",
+        "Properties": "grid-template-rows: repeat(5, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-rows-6",
+        "Properties": "grid-template-rows: repeat(6, minmax(0, 1fr));\n"
+      },
+      {
+        "Class": "grid-rows-none",
+        "Properties": "grid-template-rows: none;\n"
+      }
+    ]
+  },
+  {
+    "name": "Grid Row Start / End",
+    "table": [
+      {
+        "Class": "row-auto",
+        "Properties": "grid-row: auto;\n"
+      },
+      {
+        "Class": "row-span-1",
+        "Properties": "grid-row: span 1 / span 1;\n"
+      },
+      {
+        "Class": "row-span-2",
+        "Properties": "grid-row: span 2 / span 2;\n"
+      },
+      {
+        "Class": "row-span-3",
+        "Properties": "grid-row: span 3 / span 3;\n"
+      },
+      {
+        "Class": "row-span-4",
+        "Properties": "grid-row: span 4 / span 4;\n"
+      },
+      {
+        "Class": "row-span-5",
+        "Properties": "grid-row: span 5 / span 5;\n"
+      },
+      {
+        "Class": "row-span-6",
+        "Properties": "grid-row: span 6 / span 6;\n"
+      },
+      {
+        "Class": "row-span-full",
+        "Properties": "grid-row: 1 / -1;\n"
+      },
+      {
+        "Class": "row-start-1",
+        "Properties": "grid-row-start: 1;\n"
+      },
+      {
+        "Class": "row-start-2",
+        "Properties": "grid-row-start: 2;\n"
+      },
+      {
+        "Class": "row-start-3",
+        "Properties": "grid-row-start: 3;\n"
+      },
+      {
+        "Class": "row-start-4",
+        "Properties": "grid-row-start: 4;\n"
+      },
+      {
+        "Class": "row-start-5",
+        "Properties": "grid-row-start: 5;\n"
+      },
+      {
+        "Class": "row-start-6",
+        "Properties": "grid-row-start: 6;\n"
+      },
+      {
+        "Class": "row-start-7",
+        "Properties": "grid-row-start: 7;\n"
+      },
+      {
+        "Class": "row-start-auto",
+        "Properties": "grid-row-start: auto;\n"
+      },
+      {
+        "Class": "row-end-1",
+        "Properties": "grid-row-end: 1;\n"
+      },
+      {
+        "Class": "row-end-2",
+        "Properties": "grid-row-end: 2;\n"
+      },
+      {
+        "Class": "row-end-3",
+        "Properties": "grid-row-end: 3;\n"
+      },
+      {
+        "Class": "row-end-4",
+        "Properties": "grid-row-end: 4;\n"
+      },
+      {
+        "Class": "row-end-5",
+        "Properties": "grid-row-end: 5;\n"
+      },
+      {
+        "Class": "row-end-6",
+        "Properties": "grid-row-end: 6;\n"
+      },
+      {
+        "Class": "row-end-7",
+        "Properties": "grid-row-end: 7;\n"
+      },
+      {
+        "Class": "row-end-auto",
+        "Properties": "grid-row-end: auto;\n"
+      }
+    ]
+  },
+  {
+    "name": "Grid Auto Flow",
+    "table": [
+      {
+        "Class": "grid-flow-row",
+        "Properties": "grid-auto-flow: row;\n"
+      },
+      {
+        "Class": "grid-flow-col",
+        "Properties": "grid-auto-flow: column;\n"
+      },
+      {
+        "Class": "grid-flow-dense",
+        "Properties": "grid-auto-flow: dense;\n"
+      },
+      {
+        "Class": "grid-flow-row-dense",
+        "Properties": "grid-auto-flow: row dense;\n"
+      },
+      {
+        "Class": "grid-flow-col-dense",
+        "Properties": "grid-auto-flow: column dense;\n"
+      }
+    ]
+  },
+  {
+    "name": "Grid Auto Columns",
+    "table": [
+      {
+        "Class": "auto-cols-auto",
+        "Properties": "grid-auto-columns: auto;\n"
+      },
+      {
+        "Class": "auto-cols-min",
+        "Properties": "grid-auto-columns: min-content;\n"
+      },
+      {
+        "Class": "auto-cols-max",
+        "Properties": "grid-auto-columns: max-content;\n"
+      },
+      {
+        "Class": "auto-cols-fr",
+        "Properties": "grid-auto-columns: minmax(0, 1fr);\n"
+      }
+    ]
+  },
+  {
+    "name": "Grid Auto Rows",
+    "table": [
+      {
+        "Class": "auto-rows-auto",
+        "Properties": "grid-auto-rows: auto;\n"
+      },
+      {
+        "Class": "auto-rows-min",
+        "Properties": "grid-auto-rows: min-content;\n"
+      },
+      {
+        "Class": "auto-rows-max",
+        "Properties": "grid-auto-rows: max-content;\n"
+      },
+      {
+        "Class": "auto-rows-fr",
+        "Properties": "grid-auto-rows: minmax(0, 1fr);\n"
+      }
+    ]
+  },
+  {
+    "name": "Gap",
+    "table": [
+      {
+        "Class": "gap-0",
+        "Properties": "gap: 0px;\n"
+      },
+      {
+        "Class": "gap-x-0",
+        "Properties": "column-gap: 0px;\n"
+      },
+      {
+        "Class": "gap-y-0",
+        "Properties": "row-gap: 0px;\n"
+      },
+      {
+        "Class": "gap-px",
+        "Properties": "gap: 1px;\n"
+      },
+      {
+        "Class": "gap-x-px",
+        "Properties": "column-gap: 1px;\n"
+      },
+      {
+        "Class": "gap-y-px",
+        "Properties": "row-gap: 1px;\n"
+      },
+      {
+        "Class": "gap-0.5",
+        "Properties": "gap: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "gap-x-0.5",
+        "Properties": "column-gap: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "gap-y-0.5",
+        "Properties": "row-gap: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "gap-1",
+        "Properties": "gap: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "gap-x-1",
+        "Properties": "column-gap: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "gap-y-1",
+        "Properties": "row-gap: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "gap-1.5",
+        "Properties": "gap: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "gap-x-1.5",
+        "Properties": "column-gap: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "gap-y-1.5",
+        "Properties": "row-gap: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "gap-2",
+        "Properties": "gap: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "gap-x-2",
+        "Properties": "column-gap: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "gap-y-2",
+        "Properties": "row-gap: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "gap-2.5",
+        "Properties": "gap: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "gap-x-2.5",
+        "Properties": "column-gap: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "gap-y-2.5",
+        "Properties": "row-gap: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "gap-3",
+        "Properties": "gap: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "gap-x-3",
+        "Properties": "column-gap: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "gap-y-3",
+        "Properties": "row-gap: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "gap-3.5",
+        "Properties": "gap: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "gap-x-3.5",
+        "Properties": "column-gap: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "gap-y-3.5",
+        "Properties": "row-gap: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "gap-4",
+        "Properties": "gap: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "gap-x-4",
+        "Properties": "column-gap: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "gap-y-4",
+        "Properties": "row-gap: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "gap-5",
+        "Properties": "gap: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "gap-x-5",
+        "Properties": "column-gap: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "gap-y-5",
+        "Properties": "row-gap: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "gap-6",
+        "Properties": "gap: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "gap-x-6",
+        "Properties": "column-gap: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "gap-y-6",
+        "Properties": "row-gap: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "gap-7",
+        "Properties": "gap: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "gap-x-7",
+        "Properties": "column-gap: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "gap-y-7",
+        "Properties": "row-gap: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "gap-8",
+        "Properties": "gap: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "gap-x-8",
+        "Properties": "column-gap: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "gap-y-8",
+        "Properties": "row-gap: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "gap-9",
+        "Properties": "gap: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "gap-x-9",
+        "Properties": "column-gap: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "gap-y-9",
+        "Properties": "row-gap: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "gap-10",
+        "Properties": "gap: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "gap-x-10",
+        "Properties": "column-gap: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "gap-y-10",
+        "Properties": "row-gap: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "gap-11",
+        "Properties": "gap: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "gap-x-11",
+        "Properties": "column-gap: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "gap-y-11",
+        "Properties": "row-gap: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "gap-12",
+        "Properties": "gap: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "gap-x-12",
+        "Properties": "column-gap: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "gap-y-12",
+        "Properties": "row-gap: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "gap-14",
+        "Properties": "gap: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "gap-x-14",
+        "Properties": "column-gap: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "gap-y-14",
+        "Properties": "row-gap: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "gap-16",
+        "Properties": "gap: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "gap-x-16",
+        "Properties": "column-gap: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "gap-y-16",
+        "Properties": "row-gap: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "gap-20",
+        "Properties": "gap: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "gap-x-20",
+        "Properties": "column-gap: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "gap-y-20",
+        "Properties": "row-gap: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "gap-24",
+        "Properties": "gap: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "gap-x-24",
+        "Properties": "column-gap: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "gap-y-24",
+        "Properties": "row-gap: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "gap-28",
+        "Properties": "gap: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "gap-x-28",
+        "Properties": "column-gap: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "gap-y-28",
+        "Properties": "row-gap: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "gap-32",
+        "Properties": "gap: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "gap-x-32",
+        "Properties": "column-gap: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "gap-y-32",
+        "Properties": "row-gap: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "gap-36",
+        "Properties": "gap: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "gap-x-36",
+        "Properties": "column-gap: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "gap-y-36",
+        "Properties": "row-gap: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "gap-40",
+        "Properties": "gap: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "gap-x-40",
+        "Properties": "column-gap: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "gap-y-40",
+        "Properties": "row-gap: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "gap-44",
+        "Properties": "gap: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "gap-x-44",
+        "Properties": "column-gap: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "gap-y-44",
+        "Properties": "row-gap: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "gap-48",
+        "Properties": "gap: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "gap-x-48",
+        "Properties": "column-gap: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "gap-y-48",
+        "Properties": "row-gap: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "gap-52",
+        "Properties": "gap: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "gap-x-52",
+        "Properties": "column-gap: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "gap-y-52",
+        "Properties": "row-gap: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "gap-56",
+        "Properties": "gap: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "gap-x-56",
+        "Properties": "column-gap: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "gap-y-56",
+        "Properties": "row-gap: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "gap-60",
+        "Properties": "gap: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "gap-x-60",
+        "Properties": "column-gap: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "gap-y-60",
+        "Properties": "row-gap: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "gap-64",
+        "Properties": "gap: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "gap-x-64",
+        "Properties": "column-gap: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "gap-y-64",
+        "Properties": "row-gap: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "gap-72",
+        "Properties": "gap: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "gap-x-72",
+        "Properties": "column-gap: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "gap-y-72",
+        "Properties": "row-gap: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "gap-80",
+        "Properties": "gap: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "gap-x-80",
+        "Properties": "column-gap: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "gap-y-80",
+        "Properties": "row-gap: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "gap-96",
+        "Properties": "gap: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "gap-x-96",
+        "Properties": "column-gap: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "gap-y-96",
+        "Properties": "row-gap: 24rem; /* 384px */\n"
+      }
+    ]
+  },
+  {
+    "name": "Justify Content",
+    "table": [
+      {
+        "Class": "justify-start",
+        "Properties": "justify-content: flex-start;\n"
+      },
+      {
+        "Class": "justify-end",
+        "Properties": "justify-content: flex-end;\n"
+      },
+      {
+        "Class": "justify-center",
+        "Properties": "justify-content: center;\n"
+      },
+      {
+        "Class": "justify-between",
+        "Properties": "justify-content: space-between;\n"
+      },
+      {
+        "Class": "justify-around",
+        "Properties": "justify-content: space-around;\n"
+      },
+      {
+        "Class": "justify-evenly",
+        "Properties": "justify-content: space-evenly;\n"
+      }
+    ]
+  },
+  {
+    "name": "Justify Items",
+    "table": [
+      {
+        "Class": "justify-items-start",
+        "Properties": "justify-items: start;\n"
+      },
+      {
+        "Class": "justify-items-end",
+        "Properties": "justify-items: end;\n"
+      },
+      {
+        "Class": "justify-items-center",
+        "Properties": "justify-items: center;\n"
+      },
+      {
+        "Class": "justify-items-stretch",
+        "Properties": "justify-items: stretch;\n"
+      }
+    ]
+  },
+  {
+    "name": "Justify Self",
+    "table": [
+      {
+        "Class": "justify-self-auto",
+        "Properties": "justify-self: auto;\n"
+      },
+      {
+        "Class": "justify-self-start",
+        "Properties": "justify-self: start;\n"
+      },
+      {
+        "Class": "justify-self-end",
+        "Properties": "justify-self: end;\n"
+      },
+      {
+        "Class": "justify-self-center",
+        "Properties": "justify-self: center;\n"
+      },
+      {
+        "Class": "justify-self-stretch",
+        "Properties": "justify-self: stretch;\n"
+      }
+    ]
+  },
+  {
+    "name": "Align Content",
+    "table": [
+      {
+        "Class": "content-center",
+        "Properties": "align-content: center;\n"
+      },
+      {
+        "Class": "content-start",
+        "Properties": "align-content: flex-start;\n"
+      },
+      {
+        "Class": "content-end",
+        "Properties": "align-content: flex-end;\n"
+      },
+      {
+        "Class": "content-between",
+        "Properties": "align-content: space-between;\n"
+      },
+      {
+        "Class": "content-around",
+        "Properties": "align-content: space-around;\n"
+      },
+      {
+        "Class": "content-evenly",
+        "Properties": "align-content: space-evenly;\n"
+      }
+    ]
+  },
+  {
+    "name": "Align Items",
+    "table": [
+      {
+        "Class": "items-start",
+        "Properties": "align-items: flex-start;\n"
+      },
+      {
+        "Class": "items-end",
+        "Properties": "align-items: flex-end;\n"
+      },
+      {
+        "Class": "items-center",
+        "Properties": "align-items: center;\n"
+      },
+      {
+        "Class": "items-baseline",
+        "Properties": "align-items: baseline;\n"
+      },
+      {
+        "Class": "items-stretch",
+        "Properties": "align-items: stretch;\n"
+      }
+    ]
+  },
+  {
+    "name": "Align Self",
+    "table": [
+      {
+        "Class": "self-auto",
+        "Properties": "align-self: auto;\n"
+      },
+      {
+        "Class": "self-start",
+        "Properties": "align-self: flex-start;\n"
+      },
+      {
+        "Class": "self-end",
+        "Properties": "align-self: flex-end;\n"
+      },
+      {
+        "Class": "self-center",
+        "Properties": "align-self: center;\n"
+      },
+      {
+        "Class": "self-stretch",
+        "Properties": "align-self: stretch;\n"
+      },
+      {
+        "Class": "self-baseline",
+        "Properties": "align-self: baseline;\n"
+      }
+    ]
+  },
+  {
+    "name": "Place Content",
+    "table": [
+      {
+        "Class": "place-content-center",
+        "Properties": "place-content: center;\n"
+      },
+      {
+        "Class": "place-content-start",
+        "Properties": "place-content: start;\n"
+      },
+      {
+        "Class": "place-content-end",
+        "Properties": "place-content: end;\n"
+      },
+      {
+        "Class": "place-content-between",
+        "Properties": "place-content: space-between;\n"
+      },
+      {
+        "Class": "place-content-around",
+        "Properties": "place-content: space-around;\n"
+      },
+      {
+        "Class": "place-content-evenly",
+        "Properties": "place-content: space-evenly;\n"
+      },
+      {
+        "Class": "place-content-stretch",
+        "Properties": "place-content: stretch;\n"
+      }
+    ]
+  },
+  {
+    "name": "Place Items",
+    "table": [
+      {
+        "Class": "place-items-start",
+        "Properties": "place-items: start;\n"
+      },
+      {
+        "Class": "place-items-end",
+        "Properties": "place-items: end;\n"
+      },
+      {
+        "Class": "place-items-center",
+        "Properties": "place-items: center;\n"
+      },
+      {
+        "Class": "place-items-stretch",
+        "Properties": "place-items: stretch;\n"
+      }
+    ]
+  },
+  {
+    "name": "Place Self",
+    "table": [
+      {
+        "Class": "place-self-auto",
+        "Properties": "place-self: auto;\n"
+      },
+      {
+        "Class": "place-self-start",
+        "Properties": "place-self: start;\n"
+      },
+      {
+        "Class": "place-self-end",
+        "Properties": "place-self: end;\n"
+      },
+      {
+        "Class": "place-self-center",
+        "Properties": "place-self: center;\n"
+      },
+      {
+        "Class": "place-self-stretch",
+        "Properties": "place-self: stretch;\n"
+      }
+    ]
+  }
+]

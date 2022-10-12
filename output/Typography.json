@@ -1,0 +1,2747 @@
+[
+  {
+    "name": "Font Family",
+    "table": [
+      {
+        "Class": "font-sans",
+        "Properties": "font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";\n"
+      },
+      {
+        "Class": "font-serif",
+        "Properties": "font-family: ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif;\n"
+      },
+      {
+        "Class": "font-mono",
+        "Properties": "font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n"
+      }
+    ]
+  },
+  {
+    "name": "Font Size",
+    "table": [
+      {
+        "Class": "text-xs",
+        "Properties": "font-size: 0.75rem; /* 12px */\nline-height: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "text-sm",
+        "Properties": "font-size: 0.875rem; /* 14px */\nline-height: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "text-base",
+        "Properties": "font-size: 1rem; /* 16px */\nline-height: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "text-lg",
+        "Properties": "font-size: 1.125rem; /* 18px */\nline-height: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "text-xl",
+        "Properties": "font-size: 1.25rem; /* 20px */\nline-height: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "text-2xl",
+        "Properties": "font-size: 1.5rem; /* 24px */\nline-height: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "text-3xl",
+        "Properties": "font-size: 1.875rem; /* 30px */\nline-height: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "text-4xl",
+        "Properties": "font-size: 2.25rem; /* 36px */\nline-height: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "text-5xl",
+        "Properties": "font-size: 3rem; /* 48px */\nline-height: 1;\n"
+      },
+      {
+        "Class": "text-6xl",
+        "Properties": "font-size: 3.75rem; /* 60px */\nline-height: 1;\n"
+      },
+      {
+        "Class": "text-7xl",
+        "Properties": "font-size: 4.5rem; /* 72px */\nline-height: 1;\n"
+      },
+      {
+        "Class": "text-8xl",
+        "Properties": "font-size: 6rem; /* 96px */\nline-height: 1;\n"
+      },
+      {
+        "Class": "text-9xl",
+        "Properties": "font-size: 8rem; /* 128px */\nline-height: 1;\n"
+      }
+    ]
+  },
+  {
+    "name": "Font Smoothing",
+    "table": [
+      {
+        "Class": "antialiased",
+        "Properties": "-webkit-font-smoothing: antialiased;\n-moz-osx-font-smoothing: grayscale;\n"
+      },
+      {
+        "Class": "subpixel-antialiased",
+        "Properties": "-webkit-font-smoothing: auto;\n-moz-osx-font-smoothing: auto;\n"
+      }
+    ]
+  },
+  {
+    "name": "Font Style",
+    "table": [
+      {
+        "Class": "italic",
+        "Properties": "font-style: italic;\n"
+      },
+      {
+        "Class": "not-italic",
+        "Properties": "font-style: normal;\n"
+      }
+    ]
+  },
+  {
+    "name": "Font Weight",
+    "table": [
+      {
+        "Class": "font-thin",
+        "Properties": "font-weight: 100;\n"
+      },
+      {
+        "Class": "font-extralight",
+        "Properties": "font-weight: 200;\n"
+      },
+      {
+        "Class": "font-light",
+        "Properties": "font-weight: 300;\n"
+      },
+      {
+        "Class": "font-normal",
+        "Properties": "font-weight: 400;\n"
+      },
+      {
+        "Class": "font-medium",
+        "Properties": "font-weight: 500;\n"
+      },
+      {
+        "Class": "font-semibold",
+        "Properties": "font-weight: 600;\n"
+      },
+      {
+        "Class": "font-bold",
+        "Properties": "font-weight: 700;\n"
+      },
+      {
+        "Class": "font-extrabold",
+        "Properties": "font-weight: 800;\n"
+      },
+      {
+        "Class": "font-black",
+        "Properties": "font-weight: 900;\n"
+      }
+    ]
+  },
+  {
+    "name": "Font Variant Numeric",
+    "table": [
+      {
+        "Class": "normal-nums",
+        "Properties": "font-variant-numeric: normal;\n"
+      },
+      {
+        "Class": "ordinal",
+        "Properties": "font-variant-numeric: ordinal;\n"
+      },
+      {
+        "Class": "slashed-zero",
+        "Properties": "font-variant-numeric: slashed-zero;\n"
+      },
+      {
+        "Class": "lining-nums",
+        "Properties": "font-variant-numeric: lining-nums;\n"
+      },
+      {
+        "Class": "oldstyle-nums",
+        "Properties": "font-variant-numeric: oldstyle-nums;\n"
+      },
+      {
+        "Class": "proportional-nums",
+        "Properties": "font-variant-numeric: proportional-nums;\n"
+      },
+      {
+        "Class": "tabular-nums",
+        "Properties": "font-variant-numeric: tabular-nums;\n"
+      },
+      {
+        "Class": "diagonal-fractions",
+        "Properties": "font-variant-numeric: diagonal-fractions;\n"
+      },
+      {
+        "Class": "stacked-fractions",
+        "Properties": "font-variant-numeric: stacked-fractions;\n"
+      }
+    ]
+  },
+  {
+    "name": "Letter Spacing",
+    "table": [
+      {
+        "Class": "tracking-tighter",
+        "Properties": "letter-spacing: -0.05em;\n"
+      },
+      {
+        "Class": "tracking-tight",
+        "Properties": "letter-spacing: -0.025em;\n"
+      },
+      {
+        "Class": "tracking-normal",
+        "Properties": "letter-spacing: 0em;\n"
+      },
+      {
+        "Class": "tracking-wide",
+        "Properties": "letter-spacing: 0.025em;\n"
+      },
+      {
+        "Class": "tracking-wider",
+        "Properties": "letter-spacing: 0.05em;\n"
+      },
+      {
+        "Class": "tracking-widest",
+        "Properties": "letter-spacing: 0.1em;\n"
+      }
+    ]
+  },
+  {
+    "name": "Line Height",
+    "table": [
+      {
+        "Class": "leading-3",
+        "Properties": "line-height: .75rem; /* 12px */\n"
+      },
+      {
+        "Class": "leading-4",
+        "Properties": "line-height: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "leading-5",
+        "Properties": "line-height: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "leading-6",
+        "Properties": "line-height: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "leading-7",
+        "Properties": "line-height: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "leading-8",
+        "Properties": "line-height: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "leading-9",
+        "Properties": "line-height: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "leading-10",
+        "Properties": "line-height: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "leading-none",
+        "Properties": "line-height: 1;\n"
+      },
+      {
+        "Class": "leading-tight",
+        "Properties": "line-height: 1.25;\n"
+      },
+      {
+        "Class": "leading-snug",
+        "Properties": "line-height: 1.375;\n"
+      },
+      {
+        "Class": "leading-normal",
+        "Properties": "line-height: 1.5;\n"
+      },
+      {
+        "Class": "leading-relaxed",
+        "Properties": "line-height: 1.625;\n"
+      },
+      {
+        "Class": "leading-loose",
+        "Properties": "line-height: 2;\n"
+      }
+    ]
+  },
+  {
+    "name": "List Style Type",
+    "table": [
+      {
+        "Class": "list-none",
+        "Properties": "list-style-type: none;\n"
+      },
+      {
+        "Class": "list-disc",
+        "Properties": "list-style-type: disc;\n"
+      },
+      {
+        "Class": "list-decimal",
+        "Properties": "list-style-type: decimal;\n"
+      }
+    ]
+  },
+  {
+    "name": "List Style Position",
+    "table": [
+      {
+        "Class": "list-inside",
+        "Properties": "list-style-position: inside;\n"
+      },
+      {
+        "Class": "list-outside",
+        "Properties": "list-style-position: outside;\n"
+      }
+    ]
+  },
+  {
+    "name": "Text Align",
+    "table": [
+      {
+        "Class": "text-left",
+        "Properties": "text-align: left;\n"
+      },
+      {
+        "Class": "text-center",
+        "Properties": "text-align: center;\n"
+      },
+      {
+        "Class": "text-right",
+        "Properties": "text-align: right;\n"
+      },
+      {
+        "Class": "text-justify",
+        "Properties": "text-align: justify;\n"
+      },
+      {
+        "Class": "text-start",
+        "Properties": "text-align: start;\n"
+      },
+      {
+        "Class": "text-end",
+        "Properties": "text-align: end;\n"
+      }
+    ]
+  },
+  {
+    "name": "Text Color",
+    "table": [
+      {
+        "Class": "text-inherit",
+        "Properties": "color: inherit;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-current",
+        "Properties": "color: currentColor;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-transparent",
+        "Properties": "color: transparent;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-black",
+        "Properties": "color: rgb(0 0 0);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-white",
+        "Properties": "color: rgb(255 255 255);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-slate-50",
+        "Properties": "color: rgb(248 250 252);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-slate-100",
+        "Properties": "color: rgb(241 245 249);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-slate-200",
+        "Properties": "color: rgb(226 232 240);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-slate-300",
+        "Properties": "color: rgb(203 213 225);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-slate-400",
+        "Properties": "color: rgb(148 163 184);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-slate-500",
+        "Properties": "color: rgb(100 116 139);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-slate-600",
+        "Properties": "color: rgb(71 85 105);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-slate-700",
+        "Properties": "color: rgb(51 65 85);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-slate-800",
+        "Properties": "color: rgb(30 41 59);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-slate-900",
+        "Properties": "color: rgb(15 23 42);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-gray-50",
+        "Properties": "color: rgb(249 250 251);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-gray-100",
+        "Properties": "color: rgb(243 244 246);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-gray-200",
+        "Properties": "color: rgb(229 231 235);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-gray-300",
+        "Properties": "color: rgb(209 213 219);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-gray-400",
+        "Properties": "color: rgb(156 163 175);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-gray-500",
+        "Properties": "color: rgb(107 114 128);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-gray-600",
+        "Properties": "color: rgb(75 85 99);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-gray-700",
+        "Properties": "color: rgb(55 65 81);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-gray-800",
+        "Properties": "color: rgb(31 41 55);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-gray-900",
+        "Properties": "color: rgb(17 24 39);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-zinc-50",
+        "Properties": "color: rgb(250 250 250);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-zinc-100",
+        "Properties": "color: rgb(244 244 245);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-zinc-200",
+        "Properties": "color: rgb(228 228 231);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-zinc-300",
+        "Properties": "color: rgb(212 212 216);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-zinc-400",
+        "Properties": "color: rgb(161 161 170);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-zinc-500",
+        "Properties": "color: rgb(113 113 122);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-zinc-600",
+        "Properties": "color: rgb(82 82 91);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-zinc-700",
+        "Properties": "color: rgb(63 63 70);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-zinc-800",
+        "Properties": "color: rgb(39 39 42);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-zinc-900",
+        "Properties": "color: rgb(24 24 27);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-neutral-50",
+        "Properties": "color: rgb(250 250 250);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-neutral-100",
+        "Properties": "color: rgb(245 245 245);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-neutral-200",
+        "Properties": "color: rgb(229 229 229);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-neutral-300",
+        "Properties": "color: rgb(212 212 212);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-neutral-400",
+        "Properties": "color: rgb(163 163 163);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-neutral-500",
+        "Properties": "color: rgb(115 115 115);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-neutral-600",
+        "Properties": "color: rgb(82 82 82);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-neutral-700",
+        "Properties": "color: rgb(64 64 64);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-neutral-800",
+        "Properties": "color: rgb(38 38 38);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-neutral-900",
+        "Properties": "color: rgb(23 23 23);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-stone-50",
+        "Properties": "color: rgb(250 250 249);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-stone-100",
+        "Properties": "color: rgb(245 245 244);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-stone-200",
+        "Properties": "color: rgb(231 229 228);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-stone-300",
+        "Properties": "color: rgb(214 211 209);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-stone-400",
+        "Properties": "color: rgb(168 162 158);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-stone-500",
+        "Properties": "color: rgb(120 113 108);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-stone-600",
+        "Properties": "color: rgb(87 83 78);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-stone-700",
+        "Properties": "color: rgb(68 64 60);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-stone-800",
+        "Properties": "color: rgb(41 37 36);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-stone-900",
+        "Properties": "color: rgb(28 25 23);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-red-50",
+        "Properties": "color: rgb(254 242 242);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-red-100",
+        "Properties": "color: rgb(254 226 226);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-red-200",
+        "Properties": "color: rgb(254 202 202);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-red-300",
+        "Properties": "color: rgb(252 165 165);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-red-400",
+        "Properties": "color: rgb(248 113 113);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-red-500",
+        "Properties": "color: rgb(239 68 68);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-red-600",
+        "Properties": "color: rgb(220 38 38);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-red-700",
+        "Properties": "color: rgb(185 28 28);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-red-800",
+        "Properties": "color: rgb(153 27 27);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-red-900",
+        "Properties": "color: rgb(127 29 29);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-orange-50",
+        "Properties": "color: rgb(255 247 237);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-orange-100",
+        "Properties": "color: rgb(255 237 213);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-orange-200",
+        "Properties": "color: rgb(254 215 170);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-orange-300",
+        "Properties": "color: rgb(253 186 116);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-orange-400",
+        "Properties": "color: rgb(251 146 60);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-orange-500",
+        "Properties": "color: rgb(249 115 22);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-orange-600",
+        "Properties": "color: rgb(234 88 12);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-orange-700",
+        "Properties": "color: rgb(194 65 12);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-orange-800",
+        "Properties": "color: rgb(154 52 18);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-orange-900",
+        "Properties": "color: rgb(124 45 18);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-amber-50",
+        "Properties": "color: rgb(255 251 235);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-amber-100",
+        "Properties": "color: rgb(254 243 199);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-amber-200",
+        "Properties": "color: rgb(253 230 138);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-amber-300",
+        "Properties": "color: rgb(252 211 77);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-amber-400",
+        "Properties": "color: rgb(251 191 36);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-amber-500",
+        "Properties": "color: rgb(245 158 11);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-amber-600",
+        "Properties": "color: rgb(217 119 6);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-amber-700",
+        "Properties": "color: rgb(180 83 9);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-amber-800",
+        "Properties": "color: rgb(146 64 14);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-amber-900",
+        "Properties": "color: rgb(120 53 15);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-yellow-50",
+        "Properties": "color: rgb(254 252 232);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-yellow-100",
+        "Properties": "color: rgb(254 249 195);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-yellow-200",
+        "Properties": "color: rgb(254 240 138);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-yellow-300",
+        "Properties": "color: rgb(253 224 71);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-yellow-400",
+        "Properties": "color: rgb(250 204 21);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-yellow-500",
+        "Properties": "color: rgb(234 179 8);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-yellow-600",
+        "Properties": "color: rgb(202 138 4);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-yellow-700",
+        "Properties": "color: rgb(161 98 7);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-yellow-800",
+        "Properties": "color: rgb(133 77 14);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-yellow-900",
+        "Properties": "color: rgb(113 63 18);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-lime-50",
+        "Properties": "color: rgb(247 254 231);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-lime-100",
+        "Properties": "color: rgb(236 252 203);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-lime-200",
+        "Properties": "color: rgb(217 249 157);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-lime-300",
+        "Properties": "color: rgb(190 242 100);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-lime-400",
+        "Properties": "color: rgb(163 230 53);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-lime-500",
+        "Properties": "color: rgb(132 204 22);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-lime-600",
+        "Properties": "color: rgb(101 163 13);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-lime-700",
+        "Properties": "color: rgb(77 124 15);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-lime-800",
+        "Properties": "color: rgb(63 98 18);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-lime-900",
+        "Properties": "color: rgb(54 83 20);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-green-50",
+        "Properties": "color: rgb(240 253 244);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-green-100",
+        "Properties": "color: rgb(220 252 231);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-green-200",
+        "Properties": "color: rgb(187 247 208);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-green-300",
+        "Properties": "color: rgb(134 239 172);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-green-400",
+        "Properties": "color: rgb(74 222 128);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-green-500",
+        "Properties": "color: rgb(34 197 94);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-green-600",
+        "Properties": "color: rgb(22 163 74);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-green-700",
+        "Properties": "color: rgb(21 128 61);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-green-800",
+        "Properties": "color: rgb(22 101 52);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-green-900",
+        "Properties": "color: rgb(20 83 45);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-emerald-50",
+        "Properties": "color: rgb(236 253 245);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-emerald-100",
+        "Properties": "color: rgb(209 250 229);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-emerald-200",
+        "Properties": "color: rgb(167 243 208);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-emerald-300",
+        "Properties": "color: rgb(110 231 183);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-emerald-400",
+        "Properties": "color: rgb(52 211 153);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-emerald-500",
+        "Properties": "color: rgb(16 185 129);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-emerald-600",
+        "Properties": "color: rgb(5 150 105);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-emerald-700",
+        "Properties": "color: rgb(4 120 87);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-emerald-800",
+        "Properties": "color: rgb(6 95 70);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-emerald-900",
+        "Properties": "color: rgb(6 78 59);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-teal-50",
+        "Properties": "color: rgb(240 253 250);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-teal-100",
+        "Properties": "color: rgb(204 251 241);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-teal-200",
+        "Properties": "color: rgb(153 246 228);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-teal-300",
+        "Properties": "color: rgb(94 234 212);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-teal-400",
+        "Properties": "color: rgb(45 212 191);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-teal-500",
+        "Properties": "color: rgb(20 184 166);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-teal-600",
+        "Properties": "color: rgb(13 148 136);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-teal-700",
+        "Properties": "color: rgb(15 118 110);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-teal-800",
+        "Properties": "color: rgb(17 94 89);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-teal-900",
+        "Properties": "color: rgb(19 78 74);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-cyan-50",
+        "Properties": "color: rgb(236 254 255);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-cyan-100",
+        "Properties": "color: rgb(207 250 254);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-cyan-200",
+        "Properties": "color: rgb(165 243 252);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-cyan-300",
+        "Properties": "color: rgb(103 232 249);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-cyan-400",
+        "Properties": "color: rgb(34 211 238);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-cyan-500",
+        "Properties": "color: rgb(6 182 212);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-cyan-600",
+        "Properties": "color: rgb(8 145 178);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-cyan-700",
+        "Properties": "color: rgb(14 116 144);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-cyan-800",
+        "Properties": "color: rgb(21 94 117);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-cyan-900",
+        "Properties": "color: rgb(22 78 99);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-sky-50",
+        "Properties": "color: rgb(240 249 255);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-sky-100",
+        "Properties": "color: rgb(224 242 254);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-sky-200",
+        "Properties": "color: rgb(186 230 253);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-sky-300",
+        "Properties": "color: rgb(125 211 252);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-sky-400",
+        "Properties": "color: rgb(56 189 248);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-sky-500",
+        "Properties": "color: rgb(14 165 233);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-sky-600",
+        "Properties": "color: rgb(2 132 199);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-sky-700",
+        "Properties": "color: rgb(3 105 161);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-sky-800",
+        "Properties": "color: rgb(7 89 133);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-sky-900",
+        "Properties": "color: rgb(12 74 110);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-blue-50",
+        "Properties": "color: rgb(239 246 255);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-blue-100",
+        "Properties": "color: rgb(219 234 254);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-blue-200",
+        "Properties": "color: rgb(191 219 254);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-blue-300",
+        "Properties": "color: rgb(147 197 253);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-blue-400",
+        "Properties": "color: rgb(96 165 250);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-blue-500",
+        "Properties": "color: rgb(59 130 246);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-blue-600",
+        "Properties": "color: rgb(37 99 235);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-blue-700",
+        "Properties": "color: rgb(29 78 216);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-blue-800",
+        "Properties": "color: rgb(30 64 175);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-blue-900",
+        "Properties": "color: rgb(30 58 138);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-indigo-50",
+        "Properties": "color: rgb(238 242 255);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-indigo-100",
+        "Properties": "color: rgb(224 231 255);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-indigo-200",
+        "Properties": "color: rgb(199 210 254);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-indigo-300",
+        "Properties": "color: rgb(165 180 252);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-indigo-400",
+        "Properties": "color: rgb(129 140 248);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-indigo-500",
+        "Properties": "color: rgb(99 102 241);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-indigo-600",
+        "Properties": "color: rgb(79 70 229);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-indigo-700",
+        "Properties": "color: rgb(67 56 202);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-indigo-800",
+        "Properties": "color: rgb(55 48 163);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-indigo-900",
+        "Properties": "color: rgb(49 46 129);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-violet-50",
+        "Properties": "color: rgb(245 243 255);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-violet-100",
+        "Properties": "color: rgb(237 233 254);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-violet-200",
+        "Properties": "color: rgb(221 214 254);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-violet-300",
+        "Properties": "color: rgb(196 181 253);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-violet-400",
+        "Properties": "color: rgb(167 139 250);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-violet-500",
+        "Properties": "color: rgb(139 92 246);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-violet-600",
+        "Properties": "color: rgb(124 58 237);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-violet-700",
+        "Properties": "color: rgb(109 40 217);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-violet-800",
+        "Properties": "color: rgb(91 33 182);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-violet-900",
+        "Properties": "color: rgb(76 29 149);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-purple-50",
+        "Properties": "color: rgb(250 245 255);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-purple-100",
+        "Properties": "color: rgb(243 232 255);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-purple-200",
+        "Properties": "color: rgb(233 213 255);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-purple-300",
+        "Properties": "color: rgb(216 180 254);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-purple-400",
+        "Properties": "color: rgb(192 132 252);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-purple-500",
+        "Properties": "color: rgb(168 85 247);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-purple-600",
+        "Properties": "color: rgb(147 51 234);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-purple-700",
+        "Properties": "color: rgb(126 34 206);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-purple-800",
+        "Properties": "color: rgb(107 33 168);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-purple-900",
+        "Properties": "color: rgb(88 28 135);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-fuchsia-50",
+        "Properties": "color: rgb(253 244 255);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-fuchsia-100",
+        "Properties": "color: rgb(250 232 255);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-fuchsia-200",
+        "Properties": "color: rgb(245 208 254);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-fuchsia-300",
+        "Properties": "color: rgb(240 171 252);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-fuchsia-400",
+        "Properties": "color: rgb(232 121 249);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-fuchsia-500",
+        "Properties": "color: rgb(217 70 239);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-fuchsia-600",
+        "Properties": "color: rgb(192 38 211);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-fuchsia-700",
+        "Properties": "color: rgb(162 28 175);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-fuchsia-800",
+        "Properties": "color: rgb(134 25 143);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-fuchsia-900",
+        "Properties": "color: rgb(112 26 117);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-pink-50",
+        "Properties": "color: rgb(253 242 248);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-pink-100",
+        "Properties": "color: rgb(252 231 243);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-pink-200",
+        "Properties": "color: rgb(251 207 232);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-pink-300",
+        "Properties": "color: rgb(249 168 212);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-pink-400",
+        "Properties": "color: rgb(244 114 182);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-pink-500",
+        "Properties": "color: rgb(236 72 153);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-pink-600",
+        "Properties": "color: rgb(219 39 119);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-pink-700",
+        "Properties": "color: rgb(190 24 93);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-pink-800",
+        "Properties": "color: rgb(157 23 77);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-pink-900",
+        "Properties": "color: rgb(131 24 67);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-rose-50",
+        "Properties": "color: rgb(255 241 242);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-rose-100",
+        "Properties": "color: rgb(255 228 230);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-rose-200",
+        "Properties": "color: rgb(254 205 211);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-rose-300",
+        "Properties": "color: rgb(253 164 175);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-rose-400",
+        "Properties": "color: rgb(251 113 133);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-rose-500",
+        "Properties": "color: rgb(244 63 94);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-rose-600",
+        "Properties": "color: rgb(225 29 72);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-rose-700",
+        "Properties": "color: rgb(190 18 60);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-rose-800",
+        "Properties": "color: rgb(159 18 57);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      },
+      {
+        "Class": "text-rose-900",
+        "Properties": "color: rgb(136 19 55);\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": "Aa"
+      }
+    ]
+  },
+  {
+    "name": "Text Decoration",
+    "table": [
+      {
+        "Class": "underline",
+        "Properties": "text-decoration-line: underline;\n"
+      },
+      {
+        "Class": "overline",
+        "Properties": "text-decoration-line: overline;\n"
+      },
+      {
+        "Class": "line-through",
+        "Properties": "text-decoration-line: line-through;\n"
+      },
+      {
+        "Class": "no-underline",
+        "Properties": "text-decoration-line: none;\n"
+      }
+    ]
+  },
+  {
+    "name": "Text Decoration Color",
+    "table": [
+      {
+        "Class": "decoration-inherit",
+        "Properties": "text-decoration-color: inherit;\n"
+      },
+      {
+        "Class": "decoration-current",
+        "Properties": "text-decoration-color: currentColor;\n"
+      },
+      {
+        "Class": "decoration-transparent",
+        "Properties": "text-decoration-color: transparent;\n"
+      },
+      {
+        "Class": "decoration-black",
+        "Properties": "text-decoration-color: #000;\n"
+      },
+      {
+        "Class": "decoration-white",
+        "Properties": "text-decoration-color: #fff;\n"
+      },
+      {
+        "Class": "decoration-slate-50",
+        "Properties": "text-decoration-color: #f8fafc;\n"
+      },
+      {
+        "Class": "decoration-slate-100",
+        "Properties": "text-decoration-color: #f1f5f9;\n"
+      },
+      {
+        "Class": "decoration-slate-200",
+        "Properties": "text-decoration-color: #e2e8f0;\n"
+      },
+      {
+        "Class": "decoration-slate-300",
+        "Properties": "text-decoration-color: #cbd5e1;\n"
+      },
+      {
+        "Class": "decoration-slate-400",
+        "Properties": "text-decoration-color: #94a3b8;\n"
+      },
+      {
+        "Class": "decoration-slate-500",
+        "Properties": "text-decoration-color: #64748b;\n"
+      },
+      {
+        "Class": "decoration-slate-600",
+        "Properties": "text-decoration-color: #475569;\n"
+      },
+      {
+        "Class": "decoration-slate-700",
+        "Properties": "text-decoration-color: #334155;\n"
+      },
+      {
+        "Class": "decoration-slate-800",
+        "Properties": "text-decoration-color: #1e293b;\n"
+      },
+      {
+        "Class": "decoration-slate-900",
+        "Properties": "text-decoration-color: #0f172a;\n"
+      },
+      {
+        "Class": "decoration-gray-50",
+        "Properties": "text-decoration-color: #f9fafb;\n"
+      },
+      {
+        "Class": "decoration-gray-100",
+        "Properties": "text-decoration-color: #f3f4f6;\n"
+      },
+      {
+        "Class": "decoration-gray-200",
+        "Properties": "text-decoration-color: #e5e7eb;\n"
+      },
+      {
+        "Class": "decoration-gray-300",
+        "Properties": "text-decoration-color: #d1d5db;\n"
+      },
+      {
+        "Class": "decoration-gray-400",
+        "Properties": "text-decoration-color: #9ca3af;\n"
+      },
+      {
+        "Class": "decoration-gray-500",
+        "Properties": "text-decoration-color: #6b7280;\n"
+      },
+      {
+        "Class": "decoration-gray-600",
+        "Properties": "text-decoration-color: #4b5563;\n"
+      },
+      {
+        "Class": "decoration-gray-700",
+        "Properties": "text-decoration-color: #374151;\n"
+      },
+      {
+        "Class": "decoration-gray-800",
+        "Properties": "text-decoration-color: #1f2937;\n"
+      },
+      {
+        "Class": "decoration-gray-900",
+        "Properties": "text-decoration-color: #111827;\n"
+      },
+      {
+        "Class": "decoration-zinc-50",
+        "Properties": "text-decoration-color: #fafafa;\n"
+      },
+      {
+        "Class": "decoration-zinc-100",
+        "Properties": "text-decoration-color: #f4f4f5;\n"
+      },
+      {
+        "Class": "decoration-zinc-200",
+        "Properties": "text-decoration-color: #e4e4e7;\n"
+      },
+      {
+        "Class": "decoration-zinc-300",
+        "Properties": "text-decoration-color: #d4d4d8;\n"
+      },
+      {
+        "Class": "decoration-zinc-400",
+        "Properties": "text-decoration-color: #a1a1aa;\n"
+      },
+      {
+        "Class": "decoration-zinc-500",
+        "Properties": "text-decoration-color: #71717a;\n"
+      },
+      {
+        "Class": "decoration-zinc-600",
+        "Properties": "text-decoration-color: #52525b;\n"
+      },
+      {
+        "Class": "decoration-zinc-700",
+        "Properties": "text-decoration-color: #3f3f46;\n"
+      },
+      {
+        "Class": "decoration-zinc-800",
+        "Properties": "text-decoration-color: #27272a;\n"
+      },
+      {
+        "Class": "decoration-zinc-900",
+        "Properties": "text-decoration-color: #18181b;\n"
+      },
+      {
+        "Class": "decoration-neutral-50",
+        "Properties": "text-decoration-color: #fafafa;\n"
+      },
+      {
+        "Class": "decoration-neutral-100",
+        "Properties": "text-decoration-color: #f5f5f5;\n"
+      },
+      {
+        "Class": "decoration-neutral-200",
+        "Properties": "text-decoration-color: #e5e5e5;\n"
+      },
+      {
+        "Class": "decoration-neutral-300",
+        "Properties": "text-decoration-color: #d4d4d4;\n"
+      },
+      {
+        "Class": "decoration-neutral-400",
+        "Properties": "text-decoration-color: #a3a3a3;\n"
+      },
+      {
+        "Class": "decoration-neutral-500",
+        "Properties": "text-decoration-color: #737373;\n"
+      },
+      {
+        "Class": "decoration-neutral-600",
+        "Properties": "text-decoration-color: #525252;\n"
+      },
+      {
+        "Class": "decoration-neutral-700",
+        "Properties": "text-decoration-color: #404040;\n"
+      },
+      {
+        "Class": "decoration-neutral-800",
+        "Properties": "text-decoration-color: #262626;\n"
+      },
+      {
+        "Class": "decoration-neutral-900",
+        "Properties": "text-decoration-color: #171717;\n"
+      },
+      {
+        "Class": "decoration-stone-50",
+        "Properties": "text-decoration-color: #fafaf9;\n"
+      },
+      {
+        "Class": "decoration-stone-100",
+        "Properties": "text-decoration-color: #f5f5f4;\n"
+      },
+      {
+        "Class": "decoration-stone-200",
+        "Properties": "text-decoration-color: #e7e5e4;\n"
+      },
+      {
+        "Class": "decoration-stone-300",
+        "Properties": "text-decoration-color: #d6d3d1;\n"
+      },
+      {
+        "Class": "decoration-stone-400",
+        "Properties": "text-decoration-color: #a8a29e;\n"
+      },
+      {
+        "Class": "decoration-stone-500",
+        "Properties": "text-decoration-color: #78716c;\n"
+      },
+      {
+        "Class": "decoration-stone-600",
+        "Properties": "text-decoration-color: #57534e;\n"
+      },
+      {
+        "Class": "decoration-stone-700",
+        "Properties": "text-decoration-color: #44403c;\n"
+      },
+      {
+        "Class": "decoration-stone-800",
+        "Properties": "text-decoration-color: #292524;\n"
+      },
+      {
+        "Class": "decoration-stone-900",
+        "Properties": "text-decoration-color: #1c1917;\n"
+      },
+      {
+        "Class": "decoration-red-50",
+        "Properties": "text-decoration-color: #fef2f2;\n"
+      },
+      {
+        "Class": "decoration-red-100",
+        "Properties": "text-decoration-color: #fee2e2;\n"
+      },
+      {
+        "Class": "decoration-red-200",
+        "Properties": "text-decoration-color: #fecaca;\n"
+      },
+      {
+        "Class": "decoration-red-300",
+        "Properties": "text-decoration-color: #fca5a5;\n"
+      },
+      {
+        "Class": "decoration-red-400",
+        "Properties": "text-decoration-color: #f87171;\n"
+      },
+      {
+        "Class": "decoration-red-500",
+        "Properties": "text-decoration-color: #ef4444;\n"
+      },
+      {
+        "Class": "decoration-red-600",
+        "Properties": "text-decoration-color: #dc2626;\n"
+      },
+      {
+        "Class": "decoration-red-700",
+        "Properties": "text-decoration-color: #b91c1c;\n"
+      },
+      {
+        "Class": "decoration-red-800",
+        "Properties": "text-decoration-color: #991b1b;\n"
+      },
+      {
+        "Class": "decoration-red-900",
+        "Properties": "text-decoration-color: #7f1d1d;\n"
+      },
+      {
+        "Class": "decoration-orange-50",
+        "Properties": "text-decoration-color: #fff7ed;\n"
+      },
+      {
+        "Class": "decoration-orange-100",
+        "Properties": "text-decoration-color: #ffedd5;\n"
+      },
+      {
+        "Class": "decoration-orange-200",
+        "Properties": "text-decoration-color: #fed7aa;\n"
+      },
+      {
+        "Class": "decoration-orange-300",
+        "Properties": "text-decoration-color: #fdba74;\n"
+      },
+      {
+        "Class": "decoration-orange-400",
+        "Properties": "text-decoration-color: #fb923c;\n"
+      },
+      {
+        "Class": "decoration-orange-500",
+        "Properties": "text-decoration-color: #f97316;\n"
+      },
+      {
+        "Class": "decoration-orange-600",
+        "Properties": "text-decoration-color: #ea580c;\n"
+      },
+      {
+        "Class": "decoration-orange-700",
+        "Properties": "text-decoration-color: #c2410c;\n"
+      },
+      {
+        "Class": "decoration-orange-800",
+        "Properties": "text-decoration-color: #9a3412;\n"
+      },
+      {
+        "Class": "decoration-orange-900",
+        "Properties": "text-decoration-color: #7c2d12;\n"
+      },
+      {
+        "Class": "decoration-amber-50",
+        "Properties": "text-decoration-color: #fffbeb;\n"
+      },
+      {
+        "Class": "decoration-amber-100",
+        "Properties": "text-decoration-color: #fef3c7;\n"
+      },
+      {
+        "Class": "decoration-amber-200",
+        "Properties": "text-decoration-color: #fde68a;\n"
+      },
+      {
+        "Class": "decoration-amber-300",
+        "Properties": "text-decoration-color: #fcd34d;\n"
+      },
+      {
+        "Class": "decoration-amber-400",
+        "Properties": "text-decoration-color: #fbbf24;\n"
+      },
+      {
+        "Class": "decoration-amber-500",
+        "Properties": "text-decoration-color: #f59e0b;\n"
+      },
+      {
+        "Class": "decoration-amber-600",
+        "Properties": "text-decoration-color: #d97706;\n"
+      },
+      {
+        "Class": "decoration-amber-700",
+        "Properties": "text-decoration-color: #b45309;\n"
+      },
+      {
+        "Class": "decoration-amber-800",
+        "Properties": "text-decoration-color: #92400e;\n"
+      },
+      {
+        "Class": "decoration-amber-900",
+        "Properties": "text-decoration-color: #78350f;\n"
+      },
+      {
+        "Class": "decoration-yellow-50",
+        "Properties": "text-decoration-color: #fefce8;\n"
+      },
+      {
+        "Class": "decoration-yellow-100",
+        "Properties": "text-decoration-color: #fef9c3;\n"
+      },
+      {
+        "Class": "decoration-yellow-200",
+        "Properties": "text-decoration-color: #fef08a;\n"
+      },
+      {
+        "Class": "decoration-yellow-300",
+        "Properties": "text-decoration-color: #fde047;\n"
+      },
+      {
+        "Class": "decoration-yellow-400",
+        "Properties": "text-decoration-color: #facc15;\n"
+      },
+      {
+        "Class": "decoration-yellow-500",
+        "Properties": "text-decoration-color: #eab308;\n"
+      },
+      {
+        "Class": "decoration-yellow-600",
+        "Properties": "text-decoration-color: #ca8a04;\n"
+      },
+      {
+        "Class": "decoration-yellow-700",
+        "Properties": "text-decoration-color: #a16207;\n"
+      },
+      {
+        "Class": "decoration-yellow-800",
+        "Properties": "text-decoration-color: #854d0e;\n"
+      },
+      {
+        "Class": "decoration-yellow-900",
+        "Properties": "text-decoration-color: #713f12;\n"
+      },
+      {
+        "Class": "decoration-lime-50",
+        "Properties": "text-decoration-color: #f7fee7;\n"
+      },
+      {
+        "Class": "decoration-lime-100",
+        "Properties": "text-decoration-color: #ecfccb;\n"
+      },
+      {
+        "Class": "decoration-lime-200",
+        "Properties": "text-decoration-color: #d9f99d;\n"
+      },
+      {
+        "Class": "decoration-lime-300",
+        "Properties": "text-decoration-color: #bef264;\n"
+      },
+      {
+        "Class": "decoration-lime-400",
+        "Properties": "text-decoration-color: #a3e635;\n"
+      },
+      {
+        "Class": "decoration-lime-500",
+        "Properties": "text-decoration-color: #84cc16;\n"
+      },
+      {
+        "Class": "decoration-lime-600",
+        "Properties": "text-decoration-color: #65a30d;\n"
+      },
+      {
+        "Class": "decoration-lime-700",
+        "Properties": "text-decoration-color: #4d7c0f;\n"
+      },
+      {
+        "Class": "decoration-lime-800",
+        "Properties": "text-decoration-color: #3f6212;\n"
+      },
+      {
+        "Class": "decoration-lime-900",
+        "Properties": "text-decoration-color: #365314;\n"
+      },
+      {
+        "Class": "decoration-green-50",
+        "Properties": "text-decoration-color: #f0fdf4;\n"
+      },
+      {
+        "Class": "decoration-green-100",
+        "Properties": "text-decoration-color: #dcfce7;\n"
+      },
+      {
+        "Class": "decoration-green-200",
+        "Properties": "text-decoration-color: #bbf7d0;\n"
+      },
+      {
+        "Class": "decoration-green-300",
+        "Properties": "text-decoration-color: #86efac;\n"
+      },
+      {
+        "Class": "decoration-green-400",
+        "Properties": "text-decoration-color: #4ade80;\n"
+      },
+      {
+        "Class": "decoration-green-500",
+        "Properties": "text-decoration-color: #22c55e;\n"
+      },
+      {
+        "Class": "decoration-green-600",
+        "Properties": "text-decoration-color: #16a34a;\n"
+      },
+      {
+        "Class": "decoration-green-700",
+        "Properties": "text-decoration-color: #15803d;\n"
+      },
+      {
+        "Class": "decoration-green-800",
+        "Properties": "text-decoration-color: #166534;\n"
+      },
+      {
+        "Class": "decoration-green-900",
+        "Properties": "text-decoration-color: #14532d;\n"
+      },
+      {
+        "Class": "decoration-emerald-50",
+        "Properties": "text-decoration-color: #ecfdf5;\n"
+      },
+      {
+        "Class": "decoration-emerald-100",
+        "Properties": "text-decoration-color: #d1fae5;\n"
+      },
+      {
+        "Class": "decoration-emerald-200",
+        "Properties": "text-decoration-color: #a7f3d0;\n"
+      },
+      {
+        "Class": "decoration-emerald-300",
+        "Properties": "text-decoration-color: #6ee7b7;\n"
+      },
+      {
+        "Class": "decoration-emerald-400",
+        "Properties": "text-decoration-color: #34d399;\n"
+      },
+      {
+        "Class": "decoration-emerald-500",
+        "Properties": "text-decoration-color: #10b981;\n"
+      },
+      {
+        "Class": "decoration-emerald-600",
+        "Properties": "text-decoration-color: #059669;\n"
+      },
+      {
+        "Class": "decoration-emerald-700",
+        "Properties": "text-decoration-color: #047857;\n"
+      },
+      {
+        "Class": "decoration-emerald-800",
+        "Properties": "text-decoration-color: #065f46;\n"
+      },
+      {
+        "Class": "decoration-emerald-900",
+        "Properties": "text-decoration-color: #064e3b;\n"
+      },
+      {
+        "Class": "decoration-teal-50",
+        "Properties": "text-decoration-color: #f0fdfa;\n"
+      },
+      {
+        "Class": "decoration-teal-100",
+        "Properties": "text-decoration-color: #ccfbf1;\n"
+      },
+      {
+        "Class": "decoration-teal-200",
+        "Properties": "text-decoration-color: #99f6e4;\n"
+      },
+      {
+        "Class": "decoration-teal-300",
+        "Properties": "text-decoration-color: #5eead4;\n"
+      },
+      {
+        "Class": "decoration-teal-400",
+        "Properties": "text-decoration-color: #2dd4bf;\n"
+      },
+      {
+        "Class": "decoration-teal-500",
+        "Properties": "text-decoration-color: #14b8a6;\n"
+      },
+      {
+        "Class": "decoration-teal-600",
+        "Properties": "text-decoration-color: #0d9488;\n"
+      },
+      {
+        "Class": "decoration-teal-700",
+        "Properties": "text-decoration-color: #0f766e;\n"
+      },
+      {
+        "Class": "decoration-teal-800",
+        "Properties": "text-decoration-color: #115e59;\n"
+      },
+      {
+        "Class": "decoration-teal-900",
+        "Properties": "text-decoration-color: #134e4a;\n"
+      },
+      {
+        "Class": "decoration-cyan-50",
+        "Properties": "text-decoration-color: #ecfeff;\n"
+      },
+      {
+        "Class": "decoration-cyan-100",
+        "Properties": "text-decoration-color: #cffafe;\n"
+      },
+      {
+        "Class": "decoration-cyan-200",
+        "Properties": "text-decoration-color: #a5f3fc;\n"
+      },
+      {
+        "Class": "decoration-cyan-300",
+        "Properties": "text-decoration-color: #67e8f9;\n"
+      },
+      {
+        "Class": "decoration-cyan-400",
+        "Properties": "text-decoration-color: #22d3ee;\n"
+      },
+      {
+        "Class": "decoration-cyan-500",
+        "Properties": "text-decoration-color: #06b6d4;\n"
+      },
+      {
+        "Class": "decoration-cyan-600",
+        "Properties": "text-decoration-color: #0891b2;\n"
+      },
+      {
+        "Class": "decoration-cyan-700",
+        "Properties": "text-decoration-color: #0e7490;\n"
+      },
+      {
+        "Class": "decoration-cyan-800",
+        "Properties": "text-decoration-color: #155e75;\n"
+      },
+      {
+        "Class": "decoration-cyan-900",
+        "Properties": "text-decoration-color: #164e63;\n"
+      },
+      {
+        "Class": "decoration-sky-50",
+        "Properties": "text-decoration-color: #f0f9ff;\n"
+      },
+      {
+        "Class": "decoration-sky-100",
+        "Properties": "text-decoration-color: #e0f2fe;\n"
+      },
+      {
+        "Class": "decoration-sky-200",
+        "Properties": "text-decoration-color: #bae6fd;\n"
+      },
+      {
+        "Class": "decoration-sky-300",
+        "Properties": "text-decoration-color: #7dd3fc;\n"
+      },
+      {
+        "Class": "decoration-sky-400",
+        "Properties": "text-decoration-color: #38bdf8;\n"
+      },
+      {
+        "Class": "decoration-sky-500",
+        "Properties": "text-decoration-color: #0ea5e9;\n"
+      },
+      {
+        "Class": "decoration-sky-600",
+        "Properties": "text-decoration-color: #0284c7;\n"
+      },
+      {
+        "Class": "decoration-sky-700",
+        "Properties": "text-decoration-color: #0369a1;\n"
+      },
+      {
+        "Class": "decoration-sky-800",
+        "Properties": "text-decoration-color: #075985;\n"
+      },
+      {
+        "Class": "decoration-sky-900",
+        "Properties": "text-decoration-color: #0c4a6e;\n"
+      },
+      {
+        "Class": "decoration-blue-50",
+        "Properties": "text-decoration-color: #eff6ff;\n"
+      },
+      {
+        "Class": "decoration-blue-100",
+        "Properties": "text-decoration-color: #dbeafe;\n"
+      },
+      {
+        "Class": "decoration-blue-200",
+        "Properties": "text-decoration-color: #bfdbfe;\n"
+      },
+      {
+        "Class": "decoration-blue-300",
+        "Properties": "text-decoration-color: #93c5fd;\n"
+      },
+      {
+        "Class": "decoration-blue-400",
+        "Properties": "text-decoration-color: #60a5fa;\n"
+      },
+      {
+        "Class": "decoration-blue-500",
+        "Properties": "text-decoration-color: #3b82f6;\n"
+      },
+      {
+        "Class": "decoration-blue-600",
+        "Properties": "text-decoration-color: #2563eb;\n"
+      },
+      {
+        "Class": "decoration-blue-700",
+        "Properties": "text-decoration-color: #1d4ed8;\n"
+      },
+      {
+        "Class": "decoration-blue-800",
+        "Properties": "text-decoration-color: #1e40af;\n"
+      },
+      {
+        "Class": "decoration-blue-900",
+        "Properties": "text-decoration-color: #1e3a8a;\n"
+      },
+      {
+        "Class": "decoration-indigo-50",
+        "Properties": "text-decoration-color: #eef2ff;\n"
+      },
+      {
+        "Class": "decoration-indigo-100",
+        "Properties": "text-decoration-color: #e0e7ff;\n"
+      },
+      {
+        "Class": "decoration-indigo-200",
+        "Properties": "text-decoration-color: #c7d2fe;\n"
+      },
+      {
+        "Class": "decoration-indigo-300",
+        "Properties": "text-decoration-color: #a5b4fc;\n"
+      },
+      {
+        "Class": "decoration-indigo-400",
+        "Properties": "text-decoration-color: #818cf8;\n"
+      },
+      {
+        "Class": "decoration-indigo-500",
+        "Properties": "text-decoration-color: #6366f1;\n"
+      },
+      {
+        "Class": "decoration-indigo-600",
+        "Properties": "text-decoration-color: #4f46e5;\n"
+      },
+      {
+        "Class": "decoration-indigo-700",
+        "Properties": "text-decoration-color: #4338ca;\n"
+      },
+      {
+        "Class": "decoration-indigo-800",
+        "Properties": "text-decoration-color: #3730a3;\n"
+      },
+      {
+        "Class": "decoration-indigo-900",
+        "Properties": "text-decoration-color: #312e81;\n"
+      },
+      {
+        "Class": "decoration-violet-50",
+        "Properties": "text-decoration-color: #f5f3ff;\n"
+      },
+      {
+        "Class": "decoration-violet-100",
+        "Properties": "text-decoration-color: #ede9fe;\n"
+      },
+      {
+        "Class": "decoration-violet-200",
+        "Properties": "text-decoration-color: #ddd6fe;\n"
+      },
+      {
+        "Class": "decoration-violet-300",
+        "Properties": "text-decoration-color: #c4b5fd;\n"
+      },
+      {
+        "Class": "decoration-violet-400",
+        "Properties": "text-decoration-color: #a78bfa;\n"
+      },
+      {
+        "Class": "decoration-violet-500",
+        "Properties": "text-decoration-color: #8b5cf6;\n"
+      },
+      {
+        "Class": "decoration-violet-600",
+        "Properties": "text-decoration-color: #7c3aed;\n"
+      },
+      {
+        "Class": "decoration-violet-700",
+        "Properties": "text-decoration-color: #6d28d9;\n"
+      },
+      {
+        "Class": "decoration-violet-800",
+        "Properties": "text-decoration-color: #5b21b6;\n"
+      },
+      {
+        "Class": "decoration-violet-900",
+        "Properties": "text-decoration-color: #4c1d95;\n"
+      },
+      {
+        "Class": "decoration-purple-50",
+        "Properties": "text-decoration-color: #faf5ff;\n"
+      },
+      {
+        "Class": "decoration-purple-100",
+        "Properties": "text-decoration-color: #f3e8ff;\n"
+      },
+      {
+        "Class": "decoration-purple-200",
+        "Properties": "text-decoration-color: #e9d5ff;\n"
+      },
+      {
+        "Class": "decoration-purple-300",
+        "Properties": "text-decoration-color: #d8b4fe;\n"
+      },
+      {
+        "Class": "decoration-purple-400",
+        "Properties": "text-decoration-color: #c084fc;\n"
+      },
+      {
+        "Class": "decoration-purple-500",
+        "Properties": "text-decoration-color: #a855f7;\n"
+      },
+      {
+        "Class": "decoration-purple-600",
+        "Properties": "text-decoration-color: #9333ea;\n"
+      },
+      {
+        "Class": "decoration-purple-700",
+        "Properties": "text-decoration-color: #7e22ce;\n"
+      },
+      {
+        "Class": "decoration-purple-800",
+        "Properties": "text-decoration-color: #6b21a8;\n"
+      },
+      {
+        "Class": "decoration-purple-900",
+        "Properties": "text-decoration-color: #581c87;\n"
+      },
+      {
+        "Class": "decoration-fuchsia-50",
+        "Properties": "text-decoration-color: #fdf4ff;\n"
+      },
+      {
+        "Class": "decoration-fuchsia-100",
+        "Properties": "text-decoration-color: #fae8ff;\n"
+      },
+      {
+        "Class": "decoration-fuchsia-200",
+        "Properties": "text-decoration-color: #f5d0fe;\n"
+      },
+      {
+        "Class": "decoration-fuchsia-300",
+        "Properties": "text-decoration-color: #f0abfc;\n"
+      },
+      {
+        "Class": "decoration-fuchsia-400",
+        "Properties": "text-decoration-color: #e879f9;\n"
+      },
+      {
+        "Class": "decoration-fuchsia-500",
+        "Properties": "text-decoration-color: #d946ef;\n"
+      },
+      {
+        "Class": "decoration-fuchsia-600",
+        "Properties": "text-decoration-color: #c026d3;\n"
+      },
+      {
+        "Class": "decoration-fuchsia-700",
+        "Properties": "text-decoration-color: #a21caf;\n"
+      },
+      {
+        "Class": "decoration-fuchsia-800",
+        "Properties": "text-decoration-color: #86198f;\n"
+      },
+      {
+        "Class": "decoration-fuchsia-900",
+        "Properties": "text-decoration-color: #701a75;\n"
+      },
+      {
+        "Class": "decoration-pink-50",
+        "Properties": "text-decoration-color: #fdf2f8;\n"
+      },
+      {
+        "Class": "decoration-pink-100",
+        "Properties": "text-decoration-color: #fce7f3;\n"
+      },
+      {
+        "Class": "decoration-pink-200",
+        "Properties": "text-decoration-color: #fbcfe8;\n"
+      },
+      {
+        "Class": "decoration-pink-300",
+        "Properties": "text-decoration-color: #f9a8d4;\n"
+      },
+      {
+        "Class": "decoration-pink-400",
+        "Properties": "text-decoration-color: #f472b6;\n"
+      },
+      {
+        "Class": "decoration-pink-500",
+        "Properties": "text-decoration-color: #ec4899;\n"
+      },
+      {
+        "Class": "decoration-pink-600",
+        "Properties": "text-decoration-color: #db2777;\n"
+      },
+      {
+        "Class": "decoration-pink-700",
+        "Properties": "text-decoration-color: #be185d;\n"
+      },
+      {
+        "Class": "decoration-pink-800",
+        "Properties": "text-decoration-color: #9d174d;\n"
+      },
+      {
+        "Class": "decoration-pink-900",
+        "Properties": "text-decoration-color: #831843;\n"
+      },
+      {
+        "Class": "decoration-rose-50",
+        "Properties": "text-decoration-color: #fff1f2;\n"
+      },
+      {
+        "Class": "decoration-rose-100",
+        "Properties": "text-decoration-color: #ffe4e6;\n"
+      },
+      {
+        "Class": "decoration-rose-200",
+        "Properties": "text-decoration-color: #fecdd3;\n"
+      },
+      {
+        "Class": "decoration-rose-300",
+        "Properties": "text-decoration-color: #fda4af;\n"
+      },
+      {
+        "Class": "decoration-rose-400",
+        "Properties": "text-decoration-color: #fb7185;\n"
+      },
+      {
+        "Class": "decoration-rose-500",
+        "Properties": "text-decoration-color: #f43f5e;\n"
+      },
+      {
+        "Class": "decoration-rose-600",
+        "Properties": "text-decoration-color: #e11d48;\n"
+      },
+      {
+        "Class": "decoration-rose-700",
+        "Properties": "text-decoration-color: #be123c;\n"
+      },
+      {
+        "Class": "decoration-rose-800",
+        "Properties": "text-decoration-color: #9f1239;\n"
+      },
+      {
+        "Class": "decoration-rose-900",
+        "Properties": "text-decoration-color: #881337;\n"
+      }
+    ]
+  },
+  {
+    "name": "Text Decoration Style",
+    "table": [
+      {
+        "Class": "decoration-solid",
+        "Properties": "text-decoration-style: solid;\n"
+      },
+      {
+        "Class": "decoration-double",
+        "Properties": "text-decoration-style: double;\n"
+      },
+      {
+        "Class": "decoration-dotted",
+        "Properties": "text-decoration-style: dotted;\n"
+      },
+      {
+        "Class": "decoration-dashed",
+        "Properties": "text-decoration-style: dashed;\n"
+      },
+      {
+        "Class": "decoration-wavy",
+        "Properties": "text-decoration-style: wavy;\n"
+      }
+    ]
+  },
+  {
+    "name": "Text Decoration Thickness",
+    "table": [
+      {
+        "Class": "decoration-auto",
+        "Properties": "text-decoration-thickness: auto;\n"
+      },
+      {
+        "Class": "decoration-from-font",
+        "Properties": "text-decoration-thickness: from-font;\n"
+      },
+      {
+        "Class": "decoration-0",
+        "Properties": "text-decoration-thickness: 0px;\n"
+      },
+      {
+        "Class": "decoration-1",
+        "Properties": "text-decoration-thickness: 1px;\n"
+      },
+      {
+        "Class": "decoration-2",
+        "Properties": "text-decoration-thickness: 2px;\n"
+      },
+      {
+        "Class": "decoration-4",
+        "Properties": "text-decoration-thickness: 4px;\n"
+      },
+      {
+        "Class": "decoration-8",
+        "Properties": "text-decoration-thickness: 8px;\n"
+      }
+    ]
+  },
+  {
+    "name": "Text Underline Offset",
+    "table": [
+      {
+        "Class": "underline-offset-auto",
+        "Properties": "text-underline-offset: auto;\n"
+      },
+      {
+        "Class": "underline-offset-0",
+        "Properties": "text-underline-offset: 0px;\n"
+      },
+      {
+        "Class": "underline-offset-1",
+        "Properties": "text-underline-offset: 1px;\n"
+      },
+      {
+        "Class": "underline-offset-2",
+        "Properties": "text-underline-offset: 2px;\n"
+      },
+      {
+        "Class": "underline-offset-4",
+        "Properties": "text-underline-offset: 4px;\n"
+      },
+      {
+        "Class": "underline-offset-8",
+        "Properties": "text-underline-offset: 8px;\n"
+      }
+    ]
+  },
+  {
+    "name": "Text Transform",
+    "table": [
+      {
+        "Class": "uppercase",
+        "Properties": "text-transform: uppercase;\n"
+      },
+      {
+        "Class": "lowercase",
+        "Properties": "text-transform: lowercase;\n"
+      },
+      {
+        "Class": "capitalize",
+        "Properties": "text-transform: capitalize;\n"
+      },
+      {
+        "Class": "normal-case",
+        "Properties": "text-transform: none;\n"
+      }
+    ]
+  },
+  {
+    "name": "Text Overflow",
+    "table": [
+      {
+        "Class": "truncate",
+        "Properties": "overflow: hidden;\ntext-overflow: ellipsis;\nwhite-space: nowrap;\n"
+      },
+      {
+        "Class": "text-ellipsis",
+        "Properties": "text-overflow: ellipsis;\n"
+      },
+      {
+        "Class": "text-clip",
+        "Properties": "text-overflow: clip;\n"
+      }
+    ]
+  },
+  {
+    "name": "Text Indent",
+    "table": [
+      {
+        "Class": "indent-0",
+        "Properties": "text-indent: 0px;\n"
+      },
+      {
+        "Class": "indent-px",
+        "Properties": "text-indent: 1px;\n"
+      },
+      {
+        "Class": "indent-0.5",
+        "Properties": "text-indent: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "indent-1",
+        "Properties": "text-indent: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "indent-1.5",
+        "Properties": "text-indent: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "indent-2",
+        "Properties": "text-indent: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "indent-2.5",
+        "Properties": "text-indent: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "indent-3",
+        "Properties": "text-indent: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "indent-3.5",
+        "Properties": "text-indent: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "indent-4",
+        "Properties": "text-indent: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "indent-5",
+        "Properties": "text-indent: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "indent-6",
+        "Properties": "text-indent: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "indent-7",
+        "Properties": "text-indent: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "indent-8",
+        "Properties": "text-indent: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "indent-9",
+        "Properties": "text-indent: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "indent-10",
+        "Properties": "text-indent: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "indent-11",
+        "Properties": "text-indent: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "indent-12",
+        "Properties": "text-indent: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "indent-14",
+        "Properties": "text-indent: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "indent-16",
+        "Properties": "text-indent: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "indent-20",
+        "Properties": "text-indent: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "indent-24",
+        "Properties": "text-indent: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "indent-28",
+        "Properties": "text-indent: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "indent-32",
+        "Properties": "text-indent: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "indent-36",
+        "Properties": "text-indent: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "indent-40",
+        "Properties": "text-indent: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "indent-44",
+        "Properties": "text-indent: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "indent-48",
+        "Properties": "text-indent: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "indent-52",
+        "Properties": "text-indent: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "indent-56",
+        "Properties": "text-indent: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "indent-60",
+        "Properties": "text-indent: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "indent-64",
+        "Properties": "text-indent: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "indent-72",
+        "Properties": "text-indent: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "indent-80",
+        "Properties": "text-indent: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "indent-96",
+        "Properties": "text-indent: 24rem; /* 384px */\n"
+      }
+    ]
+  },
+  {
+    "name": "Vertical Align",
+    "table": [
+      {
+        "Class": "align-baseline",
+        "Properties": "vertical-align: baseline;\n"
+      },
+      {
+        "Class": "align-top",
+        "Properties": "vertical-align: top;\n"
+      },
+      {
+        "Class": "align-middle",
+        "Properties": "vertical-align: middle;\n"
+      },
+      {
+        "Class": "align-bottom",
+        "Properties": "vertical-align: bottom;\n"
+      },
+      {
+        "Class": "align-text-top",
+        "Properties": "vertical-align: text-top;\n"
+      },
+      {
+        "Class": "align-text-bottom",
+        "Properties": "vertical-align: text-bottom;\n"
+      },
+      {
+        "Class": "align-sub",
+        "Properties": "vertical-align: sub;\n"
+      },
+      {
+        "Class": "align-super",
+        "Properties": "vertical-align: super;\n"
+      }
+    ]
+  },
+  {
+    "name": "Whitespace",
+    "table": [
+      {
+        "Class": "whitespace-normal",
+        "Properties": "white-space: normal;\n"
+      },
+      {
+        "Class": "whitespace-nowrap",
+        "Properties": "white-space: nowrap;\n"
+      },
+      {
+        "Class": "whitespace-pre",
+        "Properties": "white-space: pre;\n"
+      },
+      {
+        "Class": "whitespace-pre-line",
+        "Properties": "white-space: pre-line;\n"
+      },
+      {
+        "Class": "whitespace-pre-wrap",
+        "Properties": "white-space: pre-wrap;\n"
+      }
+    ]
+  },
+  {
+    "name": "Word Break",
+    "table": [
+      {
+        "Class": "break-normal",
+        "Properties": "overflow-wrap: normal;\nword-break: normal;\n"
+      },
+      {
+        "Class": "break-words",
+        "Properties": "overflow-wrap: break-word;\n"
+      },
+      {
+        "Class": "break-all",
+        "Properties": "word-break: break-all;\n"
+      }
+    ]
+  },
+  {
+    "name": "Content",
+    "table": [
+      {
+        "Class": "content-none",
+        "Properties": "content: none;\n"
+      }
+    ]
+  }
+]

@@ -1,0 +1,603 @@
+[
+  {
+    "name": "Scale",
+    "table": [
+      {
+        "Class": "scale-0",
+        "Properties": "transform: scale(0);\n"
+      },
+      {
+        "Class": "scale-x-0",
+        "Properties": "transform: scaleX(0);\n"
+      },
+      {
+        "Class": "scale-y-0",
+        "Properties": "transform: scaleY(0);\n"
+      },
+      {
+        "Class": "scale-50",
+        "Properties": "transform: scale(.5);\n"
+      },
+      {
+        "Class": "scale-x-50",
+        "Properties": "transform: scaleX(.5);\n"
+      },
+      {
+        "Class": "scale-y-50",
+        "Properties": "transform: scaleY(.5);\n"
+      },
+      {
+        "Class": "scale-75",
+        "Properties": "transform: scale(.75);\n"
+      },
+      {
+        "Class": "scale-x-75",
+        "Properties": "transform: scaleX(.75);\n"
+      },
+      {
+        "Class": "scale-y-75",
+        "Properties": "transform: scaleY(.75);\n"
+      },
+      {
+        "Class": "scale-90",
+        "Properties": "transform: scale(.9);\n"
+      },
+      {
+        "Class": "scale-x-90",
+        "Properties": "transform: scaleX(.9);\n"
+      },
+      {
+        "Class": "scale-y-90",
+        "Properties": "transform: scaleY(.9);\n"
+      },
+      {
+        "Class": "scale-95",
+        "Properties": "transform: scale(.95);\n"
+      },
+      {
+        "Class": "scale-x-95",
+        "Properties": "transform: scaleX(.95);\n"
+      },
+      {
+        "Class": "scale-y-95",
+        "Properties": "transform: scaleY(.95);\n"
+      },
+      {
+        "Class": "scale-100",
+        "Properties": "transform: scale(1);\n"
+      },
+      {
+        "Class": "scale-x-100",
+        "Properties": "transform: scaleX(1);\n"
+      },
+      {
+        "Class": "scale-y-100",
+        "Properties": "transform: scaleY(1);\n"
+      },
+      {
+        "Class": "scale-105",
+        "Properties": "transform: scale(1.05);\n"
+      },
+      {
+        "Class": "scale-x-105",
+        "Properties": "transform: scaleX(1.05);\n"
+      },
+      {
+        "Class": "scale-y-105",
+        "Properties": "transform: scaleY(1.05);\n"
+      },
+      {
+        "Class": "scale-110",
+        "Properties": "transform: scale(1.1);\n"
+      },
+      {
+        "Class": "scale-x-110",
+        "Properties": "transform: scaleX(1.1);\n"
+      },
+      {
+        "Class": "scale-y-110",
+        "Properties": "transform: scaleY(1.1);\n"
+      },
+      {
+        "Class": "scale-125",
+        "Properties": "transform: scale(1.25);\n"
+      },
+      {
+        "Class": "scale-x-125",
+        "Properties": "transform: scaleX(1.25);\n"
+      },
+      {
+        "Class": "scale-y-125",
+        "Properties": "transform: scaleY(1.25);\n"
+      },
+      {
+        "Class": "scale-150",
+        "Properties": "transform: scale(1.5);\n"
+      },
+      {
+        "Class": "scale-x-150",
+        "Properties": "transform: scaleX(1.5);\n"
+      },
+      {
+        "Class": "scale-y-150",
+        "Properties": "transform: scaleY(1.5);\n"
+      }
+    ]
+  },
+  {
+    "name": "Rotate",
+    "table": [
+      {
+        "Class": "rotate-0",
+        "Properties": "transform: rotate(0deg);\n"
+      },
+      {
+        "Class": "rotate-1",
+        "Properties": "transform: rotate(1deg);\n"
+      },
+      {
+        "Class": "rotate-2",
+        "Properties": "transform: rotate(2deg);\n"
+      },
+      {
+        "Class": "rotate-3",
+        "Properties": "transform: rotate(3deg);\n"
+      },
+      {
+        "Class": "rotate-6",
+        "Properties": "transform: rotate(6deg);\n"
+      },
+      {
+        "Class": "rotate-12",
+        "Properties": "transform: rotate(12deg);\n"
+      },
+      {
+        "Class": "rotate-45",
+        "Properties": "transform: rotate(45deg);\n"
+      },
+      {
+        "Class": "rotate-90",
+        "Properties": "transform: rotate(90deg);\n"
+      },
+      {
+        "Class": "rotate-180",
+        "Properties": "transform: rotate(180deg);\n"
+      }
+    ]
+  },
+  {
+    "name": "Translate",
+    "table": [
+      {
+        "Class": "translate-x-0",
+        "Properties": "transform: translateX(0px);\n"
+      },
+      {
+        "Class": "translate-y-0",
+        "Properties": "transform: translateY(0px);\n"
+      },
+      {
+        "Class": "translate-x-px",
+        "Properties": "transform: translateX(1px);\n"
+      },
+      {
+        "Class": "translate-y-px",
+        "Properties": "transform: translateY(1px);\n"
+      },
+      {
+        "Class": "translate-x-0.5",
+        "Properties": "transform: translateX(0.125rem);\n"
+      },
+      {
+        "Class": "translate-y-0.5",
+        "Properties": "transform: translateY(0.125rem);\n"
+      },
+      {
+        "Class": "translate-x-1",
+        "Properties": "transform: translateX(0.25rem);\n"
+      },
+      {
+        "Class": "translate-y-1",
+        "Properties": "transform: translateY(0.25rem);\n"
+      },
+      {
+        "Class": "translate-x-1.5",
+        "Properties": "transform: translateX(0.375rem);\n"
+      },
+      {
+        "Class": "translate-y-1.5",
+        "Properties": "transform: translateY(0.375rem);\n"
+      },
+      {
+        "Class": "translate-x-2",
+        "Properties": "transform: translateX(0.5rem);\n"
+      },
+      {
+        "Class": "translate-y-2",
+        "Properties": "transform: translateY(0.5rem);\n"
+      },
+      {
+        "Class": "translate-x-2.5",
+        "Properties": "transform: translateX(0.625rem);\n"
+      },
+      {
+        "Class": "translate-y-2.5",
+        "Properties": "transform: translateY(0.625rem);\n"
+      },
+      {
+        "Class": "translate-x-3",
+        "Properties": "transform: translateX(0.75rem);\n"
+      },
+      {
+        "Class": "translate-y-3",
+        "Properties": "transform: translateY(0.75rem);\n"
+      },
+      {
+        "Class": "translate-x-3.5",
+        "Properties": "transform: translateX(0.875rem);\n"
+      },
+      {
+        "Class": "translate-y-3.5",
+        "Properties": "transform: translateY(0.875rem);\n"
+      },
+      {
+        "Class": "translate-x-4",
+        "Properties": "transform: translateX(1rem);\n"
+      },
+      {
+        "Class": "translate-y-4",
+        "Properties": "transform: translateY(1rem);\n"
+      },
+      {
+        "Class": "translate-x-5",
+        "Properties": "transform: translateX(1.25rem);\n"
+      },
+      {
+        "Class": "translate-y-5",
+        "Properties": "transform: translateY(1.25rem);\n"
+      },
+      {
+        "Class": "translate-x-6",
+        "Properties": "transform: translateX(1.5rem);\n"
+      },
+      {
+        "Class": "translate-y-6",
+        "Properties": "transform: translateY(1.5rem);\n"
+      },
+      {
+        "Class": "translate-x-7",
+        "Properties": "transform: translateX(1.75rem);\n"
+      },
+      {
+        "Class": "translate-y-7",
+        "Properties": "transform: translateY(1.75rem);\n"
+      },
+      {
+        "Class": "translate-x-8",
+        "Properties": "transform: translateX(2rem);\n"
+      },
+      {
+        "Class": "translate-y-8",
+        "Properties": "transform: translateY(2rem);\n"
+      },
+      {
+        "Class": "translate-x-9",
+        "Properties": "transform: translateX(2.25rem);\n"
+      },
+      {
+        "Class": "translate-y-9",
+        "Properties": "transform: translateY(2.25rem);\n"
+      },
+      {
+        "Class": "translate-x-10",
+        "Properties": "transform: translateX(2.5rem);\n"
+      },
+      {
+        "Class": "translate-y-10",
+        "Properties": "transform: translateY(2.5rem);\n"
+      },
+      {
+        "Class": "translate-x-11",
+        "Properties": "transform: translateX(2.75rem);\n"
+      },
+      {
+        "Class": "translate-y-11",
+        "Properties": "transform: translateY(2.75rem);\n"
+      },
+      {
+        "Class": "translate-x-12",
+        "Properties": "transform: translateX(3rem);\n"
+      },
+      {
+        "Class": "translate-y-12",
+        "Properties": "transform: translateY(3rem);\n"
+      },
+      {
+        "Class": "translate-x-14",
+        "Properties": "transform: translateX(3.5rem);\n"
+      },
+      {
+        "Class": "translate-y-14",
+        "Properties": "transform: translateY(3.5rem);\n"
+      },
+      {
+        "Class": "translate-x-16",
+        "Properties": "transform: translateX(4rem);\n"
+      },
+      {
+        "Class": "translate-y-16",
+        "Properties": "transform: translateY(4rem);\n"
+      },
+      {
+        "Class": "translate-x-20",
+        "Properties": "transform: translateX(5rem);\n"
+      },
+      {
+        "Class": "translate-y-20",
+        "Properties": "transform: translateY(5rem);\n"
+      },
+      {
+        "Class": "translate-x-24",
+        "Properties": "transform: translateX(6rem);\n"
+      },
+      {
+        "Class": "translate-y-24",
+        "Properties": "transform: translateY(6rem);\n"
+      },
+      {
+        "Class": "translate-x-28",
+        "Properties": "transform: translateX(7rem);\n"
+      },
+      {
+        "Class": "translate-y-28",
+        "Properties": "transform: translateY(7rem);\n"
+      },
+      {
+        "Class": "translate-x-32",
+        "Properties": "transform: translateX(8rem);\n"
+      },
+      {
+        "Class": "translate-y-32",
+        "Properties": "transform: translateY(8rem);\n"
+      },
+      {
+        "Class": "translate-x-36",
+        "Properties": "transform: translateX(9rem);\n"
+      },
+      {
+        "Class": "translate-y-36",
+        "Properties": "transform: translateY(9rem);\n"
+      },
+      {
+        "Class": "translate-x-40",
+        "Properties": "transform: translateX(10rem);\n"
+      },
+      {
+        "Class": "translate-y-40",
+        "Properties": "transform: translateY(10rem);\n"
+      },
+      {
+        "Class": "translate-x-44",
+        "Properties": "transform: translateX(11rem);\n"
+      },
+      {
+        "Class": "translate-y-44",
+        "Properties": "transform: translateY(11rem);\n"
+      },
+      {
+        "Class": "translate-x-48",
+        "Properties": "transform: translateX(12rem);\n"
+      },
+      {
+        "Class": "translate-y-48",
+        "Properties": "transform: translateY(12rem);\n"
+      },
+      {
+        "Class": "translate-x-52",
+        "Properties": "transform: translateX(13rem);\n"
+      },
+      {
+        "Class": "translate-y-52",
+        "Properties": "transform: translateY(13rem);\n"
+      },
+      {
+        "Class": "translate-x-56",
+        "Properties": "transform: translateX(14rem);\n"
+      },
+      {
+        "Class": "translate-y-56",
+        "Properties": "transform: translateY(14rem);\n"
+      },
+      {
+        "Class": "translate-x-60",
+        "Properties": "transform: translateX(15rem);\n"
+      },
+      {
+        "Class": "translate-y-60",
+        "Properties": "transform: translateY(15rem);\n"
+      },
+      {
+        "Class": "translate-x-64",
+        "Properties": "transform: translateX(16rem);\n"
+      },
+      {
+        "Class": "translate-y-64",
+        "Properties": "transform: translateY(16rem);\n"
+      },
+      {
+        "Class": "translate-x-72",
+        "Properties": "transform: translateX(18rem);\n"
+      },
+      {
+        "Class": "translate-y-72",
+        "Properties": "transform: translateY(18rem);\n"
+      },
+      {
+        "Class": "translate-x-80",
+        "Properties": "transform: translateX(20rem);\n"
+      },
+      {
+        "Class": "translate-y-80",
+        "Properties": "transform: translateY(20rem);\n"
+      },
+      {
+        "Class": "translate-x-96",
+        "Properties": "transform: translateX(24rem);\n"
+      },
+      {
+        "Class": "translate-y-96",
+        "Properties": "transform: translateY(24rem);\n"
+      },
+      {
+        "Class": "translate-x-1/2",
+        "Properties": "transform: translateX(50%);\n"
+      },
+      {
+        "Class": "translate-x-1/3",
+        "Properties": "transform: translateX(33.333333%);\n"
+      },
+      {
+        "Class": "translate-x-2/3",
+        "Properties": "transform: translateX(66.666667%);\n"
+      },
+      {
+        "Class": "translate-x-1/4",
+        "Properties": "transform: translateX(25%);\n"
+      },
+      {
+        "Class": "translate-x-2/4",
+        "Properties": "transform: translateX(50%);\n"
+      },
+      {
+        "Class": "translate-x-3/4",
+        "Properties": "transform: translateX(75%);\n"
+      },
+      {
+        "Class": "translate-x-full",
+        "Properties": "transform: translateX(100%);\n"
+      },
+      {
+        "Class": "translate-y-1/2",
+        "Properties": "transform: translateY(50%);\n"
+      },
+      {
+        "Class": "translate-y-1/3",
+        "Properties": "transform: translateY(33.333333%);\n"
+      },
+      {
+        "Class": "translate-y-2/3",
+        "Properties": "transform: translateY(66.666667%);\n"
+      },
+      {
+        "Class": "translate-y-1/4",
+        "Properties": "transform: translateY(25%);\n"
+      },
+      {
+        "Class": "translate-y-2/4",
+        "Properties": "transform: translateY(50%);\n"
+      },
+      {
+        "Class": "translate-y-3/4",
+        "Properties": "transform: translateY(75%);\n"
+      },
+      {
+        "Class": "translate-y-full",
+        "Properties": "transform: translateY(100%);\n"
+      }
+    ]
+  },
+  {
+    "name": "Skew",
+    "table": [
+      {
+        "Class": "skew-x-0",
+        "Properties": "transform: skewX(0deg);\n"
+      },
+      {
+        "Class": "skew-y-0",
+        "Properties": "transform: skewY(0deg);\n"
+      },
+      {
+        "Class": "skew-x-1",
+        "Properties": "transform: skewX(1deg);\n"
+      },
+      {
+        "Class": "skew-y-1",
+        "Properties": "transform: skewY(1deg);\n"
+      },
+      {
+        "Class": "skew-x-2",
+        "Properties": "transform: skewX(2deg);\n"
+      },
+      {
+        "Class": "skew-y-2",
+        "Properties": "transform: skewY(2deg);\n"
+      },
+      {
+        "Class": "skew-x-3",
+        "Properties": "transform: skewX(3deg);\n"
+      },
+      {
+        "Class": "skew-y-3",
+        "Properties": "transform: skewY(3deg);\n"
+      },
+      {
+        "Class": "skew-x-6",
+        "Properties": "transform: skewX(6deg);\n"
+      },
+      {
+        "Class": "skew-y-6",
+        "Properties": "transform: skewY(6deg);\n"
+      },
+      {
+        "Class": "skew-x-12",
+        "Properties": "transform: skewX(12deg);\n"
+      },
+      {
+        "Class": "skew-y-12",
+        "Properties": "transform: skewY(12deg);\n"
+      }
+    ]
+  },
+  {
+    "name": "Transform Origin",
+    "table": [
+      {
+        "Class": "origin-center",
+        "Properties": "transform-origin: center;\n"
+      },
+      {
+        "Class": "origin-top",
+        "Properties": "transform-origin: top;\n"
+      },
+      {
+        "Class": "origin-top-right",
+        "Properties": "transform-origin: top right;\n"
+      },
+      {
+        "Class": "origin-right",
+        "Properties": "transform-origin: right;\n"
+      },
+      {
+        "Class": "origin-bottom-right",
+        "Properties": "transform-origin: bottom right;\n"
+      },
+      {
+        "Class": "origin-bottom",
+        "Properties": "transform-origin: bottom;\n"
+      },
+      {
+        "Class": "origin-bottom-left",
+        "Properties": "transform-origin: bottom left;\n"
+      },
+      {
+        "Class": "origin-left",
+        "Properties": "transform-origin: left;\n"
+      },
+      {
+        "Class": "origin-top-left",
+        "Properties": "transform-origin: top left;\n"
+      }
+    ]
+  }
+]

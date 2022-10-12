@@ -1,0 +1,820 @@
+[
+  {
+    "name": "Width",
+    "table": [
+      {
+        "Class": "w-0",
+        "Properties": "width: 0px;\n"
+      },
+      {
+        "Class": "w-px",
+        "Properties": "width: 1px;\n"
+      },
+      {
+        "Class": "w-0.5",
+        "Properties": "width: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "w-1",
+        "Properties": "width: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "w-1.5",
+        "Properties": "width: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "w-2",
+        "Properties": "width: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "w-2.5",
+        "Properties": "width: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "w-3",
+        "Properties": "width: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "w-3.5",
+        "Properties": "width: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "w-4",
+        "Properties": "width: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "w-5",
+        "Properties": "width: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "w-6",
+        "Properties": "width: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "w-7",
+        "Properties": "width: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "w-8",
+        "Properties": "width: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "w-9",
+        "Properties": "width: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "w-10",
+        "Properties": "width: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "w-11",
+        "Properties": "width: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "w-12",
+        "Properties": "width: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "w-14",
+        "Properties": "width: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "w-16",
+        "Properties": "width: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "w-20",
+        "Properties": "width: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "w-24",
+        "Properties": "width: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "w-28",
+        "Properties": "width: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "w-32",
+        "Properties": "width: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "w-36",
+        "Properties": "width: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "w-40",
+        "Properties": "width: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "w-44",
+        "Properties": "width: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "w-48",
+        "Properties": "width: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "w-52",
+        "Properties": "width: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "w-56",
+        "Properties": "width: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "w-60",
+        "Properties": "width: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "w-64",
+        "Properties": "width: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "w-72",
+        "Properties": "width: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "w-80",
+        "Properties": "width: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "w-96",
+        "Properties": "width: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "w-auto",
+        "Properties": "width: auto;\n"
+      },
+      {
+        "Class": "w-1/2",
+        "Properties": "width: 50%;\n"
+      },
+      {
+        "Class": "w-1/3",
+        "Properties": "width: 33.333333%;\n"
+      },
+      {
+        "Class": "w-2/3",
+        "Properties": "width: 66.666667%;\n"
+      },
+      {
+        "Class": "w-1/4",
+        "Properties": "width: 25%;\n"
+      },
+      {
+        "Class": "w-2/4",
+        "Properties": "width: 50%;\n"
+      },
+      {
+        "Class": "w-3/4",
+        "Properties": "width: 75%;\n"
+      },
+      {
+        "Class": "w-1/5",
+        "Properties": "width: 20%;\n"
+      },
+      {
+        "Class": "w-2/5",
+        "Properties": "width: 40%;\n"
+      },
+      {
+        "Class": "w-3/5",
+        "Properties": "width: 60%;\n"
+      },
+      {
+        "Class": "w-4/5",
+        "Properties": "width: 80%;\n"
+      },
+      {
+        "Class": "w-1/6",
+        "Properties": "width: 16.666667%;\n"
+      },
+      {
+        "Class": "w-2/6",
+        "Properties": "width: 33.333333%;\n"
+      },
+      {
+        "Class": "w-3/6",
+        "Properties": "width: 50%;\n"
+      },
+      {
+        "Class": "w-4/6",
+        "Properties": "width: 66.666667%;\n"
+      },
+      {
+        "Class": "w-5/6",
+        "Properties": "width: 83.333333%;\n"
+      },
+      {
+        "Class": "w-1/12",
+        "Properties": "width: 8.333333%;\n"
+      },
+      {
+        "Class": "w-2/12",
+        "Properties": "width: 16.666667%;\n"
+      },
+      {
+        "Class": "w-3/12",
+        "Properties": "width: 25%;\n"
+      },
+      {
+        "Class": "w-4/12",
+        "Properties": "width: 33.333333%;\n"
+      },
+      {
+        "Class": "w-5/12",
+        "Properties": "width: 41.666667%;\n"
+      },
+      {
+        "Class": "w-6/12",
+        "Properties": "width: 50%;\n"
+      },
+      {
+        "Class": "w-7/12",
+        "Properties": "width: 58.333333%;\n"
+      },
+      {
+        "Class": "w-8/12",
+        "Properties": "width: 66.666667%;\n"
+      },
+      {
+        "Class": "w-9/12",
+        "Properties": "width: 75%;\n"
+      },
+      {
+        "Class": "w-10/12",
+        "Properties": "width: 83.333333%;\n"
+      },
+      {
+        "Class": "w-11/12",
+        "Properties": "width: 91.666667%;\n"
+      },
+      {
+        "Class": "w-full",
+        "Properties": "width: 100%;\n"
+      },
+      {
+        "Class": "w-screen",
+        "Properties": "width: 100vw;\n"
+      },
+      {
+        "Class": "w-min",
+        "Properties": "width: min-content;\n"
+      },
+      {
+        "Class": "w-max",
+        "Properties": "width: max-content;\n"
+      },
+      {
+        "Class": "w-fit",
+        "Properties": "width: fit-content;\n"
+      }
+    ]
+  },
+  {
+    "name": "Min-Width",
+    "table": [
+      {
+        "Class": "min-w-0",
+        "Properties": "min-width: 0px;\n"
+      },
+      {
+        "Class": "min-w-full",
+        "Properties": "min-width: 100%;\n"
+      },
+      {
+        "Class": "min-w-min",
+        "Properties": "min-width: min-content;\n"
+      },
+      {
+        "Class": "min-w-max",
+        "Properties": "min-width: max-content;\n"
+      },
+      {
+        "Class": "min-w-fit",
+        "Properties": "min-width: fit-content;\n"
+      }
+    ]
+  },
+  {
+    "name": "Max-Width",
+    "table": [
+      {
+        "Class": "max-w-0",
+        "Properties": "max-width: 0rem; /* 0px */\n"
+      },
+      {
+        "Class": "max-w-none",
+        "Properties": "max-width: none;\n"
+      },
+      {
+        "Class": "max-w-xs",
+        "Properties": "max-width: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "max-w-sm",
+        "Properties": "max-width: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "max-w-md",
+        "Properties": "max-width: 28rem; /* 448px */\n"
+      },
+      {
+        "Class": "max-w-lg",
+        "Properties": "max-width: 32rem; /* 512px */\n"
+      },
+      {
+        "Class": "max-w-xl",
+        "Properties": "max-width: 36rem; /* 576px */\n"
+      },
+      {
+        "Class": "max-w-2xl",
+        "Properties": "max-width: 42rem; /* 672px */\n"
+      },
+      {
+        "Class": "max-w-3xl",
+        "Properties": "max-width: 48rem; /* 768px */\n"
+      },
+      {
+        "Class": "max-w-4xl",
+        "Properties": "max-width: 56rem; /* 896px */\n"
+      },
+      {
+        "Class": "max-w-5xl",
+        "Properties": "max-width: 64rem; /* 1024px */\n"
+      },
+      {
+        "Class": "max-w-6xl",
+        "Properties": "max-width: 72rem; /* 1152px */\n"
+      },
+      {
+        "Class": "max-w-7xl",
+        "Properties": "max-width: 80rem; /* 1280px */\n"
+      },
+      {
+        "Class": "max-w-full",
+        "Properties": "max-width: 100%;\n"
+      },
+      {
+        "Class": "max-w-min",
+        "Properties": "max-width: min-content;\n"
+      },
+      {
+        "Class": "max-w-max",
+        "Properties": "max-width: max-content;\n"
+      },
+      {
+        "Class": "max-w-fit",
+        "Properties": "max-width: fit-content;\n"
+      },
+      {
+        "Class": "max-w-prose",
+        "Properties": "max-width: 65ch;\n"
+      },
+      {
+        "Class": "max-w-screen-sm",
+        "Properties": "max-width: 640px;\n"
+      },
+      {
+        "Class": "max-w-screen-md",
+        "Properties": "max-width: 768px;\n"
+      },
+      {
+        "Class": "max-w-screen-lg",
+        "Properties": "max-width: 1024px;\n"
+      },
+      {
+        "Class": "max-w-screen-xl",
+        "Properties": "max-width: 1280px;\n"
+      },
+      {
+        "Class": "max-w-screen-2xl",
+        "Properties": "max-width: 1536px;\n"
+      }
+    ]
+  },
+  {
+    "name": "Height",
+    "table": [
+      {
+        "Class": "h-0",
+        "Properties": "height: 0px;\n"
+      },
+      {
+        "Class": "h-px",
+        "Properties": "height: 1px;\n"
+      },
+      {
+        "Class": "h-0.5",
+        "Properties": "height: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "h-1",
+        "Properties": "height: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "h-1.5",
+        "Properties": "height: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "h-2",
+        "Properties": "height: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "h-2.5",
+        "Properties": "height: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "h-3",
+        "Properties": "height: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "h-3.5",
+        "Properties": "height: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "h-4",
+        "Properties": "height: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "h-5",
+        "Properties": "height: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "h-6",
+        "Properties": "height: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "h-7",
+        "Properties": "height: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "h-8",
+        "Properties": "height: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "h-9",
+        "Properties": "height: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "h-10",
+        "Properties": "height: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "h-11",
+        "Properties": "height: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "h-12",
+        "Properties": "height: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "h-14",
+        "Properties": "height: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "h-16",
+        "Properties": "height: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "h-20",
+        "Properties": "height: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "h-24",
+        "Properties": "height: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "h-28",
+        "Properties": "height: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "h-32",
+        "Properties": "height: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "h-36",
+        "Properties": "height: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "h-40",
+        "Properties": "height: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "h-44",
+        "Properties": "height: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "h-48",
+        "Properties": "height: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "h-52",
+        "Properties": "height: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "h-56",
+        "Properties": "height: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "h-60",
+        "Properties": "height: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "h-64",
+        "Properties": "height: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "h-72",
+        "Properties": "height: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "h-80",
+        "Properties": "height: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "h-96",
+        "Properties": "height: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "h-auto",
+        "Properties": "height: auto;\n"
+      },
+      {
+        "Class": "h-1/2",
+        "Properties": "height: 50%;\n"
+      },
+      {
+        "Class": "h-1/3",
+        "Properties": "height: 33.333333%;\n"
+      },
+      {
+        "Class": "h-2/3",
+        "Properties": "height: 66.666667%;\n"
+      },
+      {
+        "Class": "h-1/4",
+        "Properties": "height: 25%;\n"
+      },
+      {
+        "Class": "h-2/4",
+        "Properties": "height: 50%;\n"
+      },
+      {
+        "Class": "h-3/4",
+        "Properties": "height: 75%;\n"
+      },
+      {
+        "Class": "h-1/5",
+        "Properties": "height: 20%;\n"
+      },
+      {
+        "Class": "h-2/5",
+        "Properties": "height: 40%;\n"
+      },
+      {
+        "Class": "h-3/5",
+        "Properties": "height: 60%;\n"
+      },
+      {
+        "Class": "h-4/5",
+        "Properties": "height: 80%;\n"
+      },
+      {
+        "Class": "h-1/6",
+        "Properties": "height: 16.666667%;\n"
+      },
+      {
+        "Class": "h-2/6",
+        "Properties": "height: 33.333333%;\n"
+      },
+      {
+        "Class": "h-3/6",
+        "Properties": "height: 50%;\n"
+      },
+      {
+        "Class": "h-4/6",
+        "Properties": "height: 66.666667%;\n"
+      },
+      {
+        "Class": "h-5/6",
+        "Properties": "height: 83.333333%;\n"
+      },
+      {
+        "Class": "h-full",
+        "Properties": "height: 100%;\n"
+      },
+      {
+        "Class": "h-screen",
+        "Properties": "height: 100vh;\n"
+      },
+      {
+        "Class": "h-min",
+        "Properties": "height: min-content;\n"
+      },
+      {
+        "Class": "h-max",
+        "Properties": "height: max-content;\n"
+      },
+      {
+        "Class": "h-fit",
+        "Properties": "height: fit-content;\n"
+      }
+    ]
+  },
+  {
+    "name": "Min-Height",
+    "table": [
+      {
+        "Class": "min-h-0",
+        "Properties": "min-height: 0px;\n"
+      },
+      {
+        "Class": "min-h-full",
+        "Properties": "min-height: 100%;\n"
+      },
+      {
+        "Class": "min-h-screen",
+        "Properties": "min-height: 100vh;\n"
+      },
+      {
+        "Class": "min-h-min",
+        "Properties": "min-height: min-content;\n"
+      },
+      {
+        "Class": "min-h-max",
+        "Properties": "min-height: max-content;\n"
+      },
+      {
+        "Class": "min-h-fit",
+        "Properties": "min-height: fit-content;\n"
+      }
+    ]
+  },
+  {
+    "name": "Max-Height",
+    "table": [
+      {
+        "Class": "max-h-0",
+        "Properties": "max-height: 0px;\n"
+      },
+      {
+        "Class": "max-h-px",
+        "Properties": "max-height: 1px;\n"
+      },
+      {
+        "Class": "max-h-0.5",
+        "Properties": "max-height: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "max-h-1",
+        "Properties": "max-height: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "max-h-1.5",
+        "Properties": "max-height: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "max-h-2",
+        "Properties": "max-height: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "max-h-2.5",
+        "Properties": "max-height: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "max-h-3",
+        "Properties": "max-height: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "max-h-3.5",
+        "Properties": "max-height: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "max-h-4",
+        "Properties": "max-height: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "max-h-5",
+        "Properties": "max-height: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "max-h-6",
+        "Properties": "max-height: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "max-h-7",
+        "Properties": "max-height: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "max-h-8",
+        "Properties": "max-height: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "max-h-9",
+        "Properties": "max-height: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "max-h-10",
+        "Properties": "max-height: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "max-h-11",
+        "Properties": "max-height: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "max-h-12",
+        "Properties": "max-height: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "max-h-14",
+        "Properties": "max-height: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "max-h-16",
+        "Properties": "max-height: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "max-h-20",
+        "Properties": "max-height: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "max-h-24",
+        "Properties": "max-height: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "max-h-28",
+        "Properties": "max-height: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "max-h-32",
+        "Properties": "max-height: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "max-h-36",
+        "Properties": "max-height: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "max-h-40",
+        "Properties": "max-height: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "max-h-44",
+        "Properties": "max-height: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "max-h-48",
+        "Properties": "max-height: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "max-h-52",
+        "Properties": "max-height: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "max-h-56",
+        "Properties": "max-height: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "max-h-60",
+        "Properties": "max-height: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "max-h-64",
+        "Properties": "max-height: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "max-h-72",
+        "Properties": "max-height: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "max-h-80",
+        "Properties": "max-height: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "max-h-96",
+        "Properties": "max-height: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "max-h-full",
+        "Properties": "max-height: 100%;\n"
+      },
+      {
+        "Class": "max-h-screen",
+        "Properties": "max-height: 100vh;\n"
+      },
+      {
+        "Class": "max-h-min",
+        "Properties": "max-height: min-content;\n"
+      },
+      {
+        "Class": "max-h-max",
+        "Properties": "max-height: max-content;\n"
+      },
+      {
+        "Class": "max-h-fit",
+        "Properties": "max-height: fit-content;\n"
+      }
+    ]
+  }
+]

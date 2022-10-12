@@ -1,0 +1,1829 @@
+[
+  {
+    "name": "Fill",
+    "table": [
+      {
+        "Class": "fill-inherit",
+        "Properties": "fill: inherit;\n"
+      },
+      {
+        "Class": "fill-current",
+        "Properties": "fill: currentColor;\n"
+      },
+      {
+        "Class": "fill-transparent",
+        "Properties": "fill: transparent;\n"
+      },
+      {
+        "Class": "fill-black",
+        "Properties": "fill: #000;\n"
+      },
+      {
+        "Class": "fill-white",
+        "Properties": "fill: #fff;\n"
+      },
+      {
+        "Class": "fill-slate-50",
+        "Properties": "fill: #f8fafc;\n"
+      },
+      {
+        "Class": "fill-slate-100",
+        "Properties": "fill: #f1f5f9;\n"
+      },
+      {
+        "Class": "fill-slate-200",
+        "Properties": "fill: #e2e8f0;\n"
+      },
+      {
+        "Class": "fill-slate-300",
+        "Properties": "fill: #cbd5e1;\n"
+      },
+      {
+        "Class": "fill-slate-400",
+        "Properties": "fill: #94a3b8;\n"
+      },
+      {
+        "Class": "fill-slate-500",
+        "Properties": "fill: #64748b;\n"
+      },
+      {
+        "Class": "fill-slate-600",
+        "Properties": "fill: #475569;\n"
+      },
+      {
+        "Class": "fill-slate-700",
+        "Properties": "fill: #334155;\n"
+      },
+      {
+        "Class": "fill-slate-800",
+        "Properties": "fill: #1e293b;\n"
+      },
+      {
+        "Class": "fill-slate-900",
+        "Properties": "fill: #0f172a;\n"
+      },
+      {
+        "Class": "fill-gray-50",
+        "Properties": "fill: #f9fafb;\n"
+      },
+      {
+        "Class": "fill-gray-100",
+        "Properties": "fill: #f3f4f6;\n"
+      },
+      {
+        "Class": "fill-gray-200",
+        "Properties": "fill: #e5e7eb;\n"
+      },
+      {
+        "Class": "fill-gray-300",
+        "Properties": "fill: #d1d5db;\n"
+      },
+      {
+        "Class": "fill-gray-400",
+        "Properties": "fill: #9ca3af;\n"
+      },
+      {
+        "Class": "fill-gray-500",
+        "Properties": "fill: #6b7280;\n"
+      },
+      {
+        "Class": "fill-gray-600",
+        "Properties": "fill: #4b5563;\n"
+      },
+      {
+        "Class": "fill-gray-700",
+        "Properties": "fill: #374151;\n"
+      },
+      {
+        "Class": "fill-gray-800",
+        "Properties": "fill: #1f2937;\n"
+      },
+      {
+        "Class": "fill-gray-900",
+        "Properties": "fill: #111827;\n"
+      },
+      {
+        "Class": "fill-zinc-50",
+        "Properties": "fill: #fafafa;\n"
+      },
+      {
+        "Class": "fill-zinc-100",
+        "Properties": "fill: #f4f4f5;\n"
+      },
+      {
+        "Class": "fill-zinc-200",
+        "Properties": "fill: #e4e4e7;\n"
+      },
+      {
+        "Class": "fill-zinc-300",
+        "Properties": "fill: #d4d4d8;\n"
+      },
+      {
+        "Class": "fill-zinc-400",
+        "Properties": "fill: #a1a1aa;\n"
+      },
+      {
+        "Class": "fill-zinc-500",
+        "Properties": "fill: #71717a;\n"
+      },
+      {
+        "Class": "fill-zinc-600",
+        "Properties": "fill: #52525b;\n"
+      },
+      {
+        "Class": "fill-zinc-700",
+        "Properties": "fill: #3f3f46;\n"
+      },
+      {
+        "Class": "fill-zinc-800",
+        "Properties": "fill: #27272a;\n"
+      },
+      {
+        "Class": "fill-zinc-900",
+        "Properties": "fill: #18181b;\n"
+      },
+      {
+        "Class": "fill-neutral-50",
+        "Properties": "fill: #fafafa;\n"
+      },
+      {
+        "Class": "fill-neutral-100",
+        "Properties": "fill: #f5f5f5;\n"
+      },
+      {
+        "Class": "fill-neutral-200",
+        "Properties": "fill: #e5e5e5;\n"
+      },
+      {
+        "Class": "fill-neutral-300",
+        "Properties": "fill: #d4d4d4;\n"
+      },
+      {
+        "Class": "fill-neutral-400",
+        "Properties": "fill: #a3a3a3;\n"
+      },
+      {
+        "Class": "fill-neutral-500",
+        "Properties": "fill: #737373;\n"
+      },
+      {
+        "Class": "fill-neutral-600",
+        "Properties": "fill: #525252;\n"
+      },
+      {
+        "Class": "fill-neutral-700",
+        "Properties": "fill: #404040;\n"
+      },
+      {
+        "Class": "fill-neutral-800",
+        "Properties": "fill: #262626;\n"
+      },
+      {
+        "Class": "fill-neutral-900",
+        "Properties": "fill: #171717;\n"
+      },
+      {
+        "Class": "fill-stone-50",
+        "Properties": "fill: #fafaf9;\n"
+      },
+      {
+        "Class": "fill-stone-100",
+        "Properties": "fill: #f5f5f4;\n"
+      },
+      {
+        "Class": "fill-stone-200",
+        "Properties": "fill: #e7e5e4;\n"
+      },
+      {
+        "Class": "fill-stone-300",
+        "Properties": "fill: #d6d3d1;\n"
+      },
+      {
+        "Class": "fill-stone-400",
+        "Properties": "fill: #a8a29e;\n"
+      },
+      {
+        "Class": "fill-stone-500",
+        "Properties": "fill: #78716c;\n"
+      },
+      {
+        "Class": "fill-stone-600",
+        "Properties": "fill: #57534e;\n"
+      },
+      {
+        "Class": "fill-stone-700",
+        "Properties": "fill: #44403c;\n"
+      },
+      {
+        "Class": "fill-stone-800",
+        "Properties": "fill: #292524;\n"
+      },
+      {
+        "Class": "fill-stone-900",
+        "Properties": "fill: #1c1917;\n"
+      },
+      {
+        "Class": "fill-red-50",
+        "Properties": "fill: #fef2f2;\n"
+      },
+      {
+        "Class": "fill-red-100",
+        "Properties": "fill: #fee2e2;\n"
+      },
+      {
+        "Class": "fill-red-200",
+        "Properties": "fill: #fecaca;\n"
+      },
+      {
+        "Class": "fill-red-300",
+        "Properties": "fill: #fca5a5;\n"
+      },
+      {
+        "Class": "fill-red-400",
+        "Properties": "fill: #f87171;\n"
+      },
+      {
+        "Class": "fill-red-500",
+        "Properties": "fill: #ef4444;\n"
+      },
+      {
+        "Class": "fill-red-600",
+        "Properties": "fill: #dc2626;\n"
+      },
+      {
+        "Class": "fill-red-700",
+        "Properties": "fill: #b91c1c;\n"
+      },
+      {
+        "Class": "fill-red-800",
+        "Properties": "fill: #991b1b;\n"
+      },
+      {
+        "Class": "fill-red-900",
+        "Properties": "fill: #7f1d1d;\n"
+      },
+      {
+        "Class": "fill-orange-50",
+        "Properties": "fill: #fff7ed;\n"
+      },
+      {
+        "Class": "fill-orange-100",
+        "Properties": "fill: #ffedd5;\n"
+      },
+      {
+        "Class": "fill-orange-200",
+        "Properties": "fill: #fed7aa;\n"
+      },
+      {
+        "Class": "fill-orange-300",
+        "Properties": "fill: #fdba74;\n"
+      },
+      {
+        "Class": "fill-orange-400",
+        "Properties": "fill: #fb923c;\n"
+      },
+      {
+        "Class": "fill-orange-500",
+        "Properties": "fill: #f97316;\n"
+      },
+      {
+        "Class": "fill-orange-600",
+        "Properties": "fill: #ea580c;\n"
+      },
+      {
+        "Class": "fill-orange-700",
+        "Properties": "fill: #c2410c;\n"
+      },
+      {
+        "Class": "fill-orange-800",
+        "Properties": "fill: #9a3412;\n"
+      },
+      {
+        "Class": "fill-orange-900",
+        "Properties": "fill: #7c2d12;\n"
+      },
+      {
+        "Class": "fill-amber-50",
+        "Properties": "fill: #fffbeb;\n"
+      },
+      {
+        "Class": "fill-amber-100",
+        "Properties": "fill: #fef3c7;\n"
+      },
+      {
+        "Class": "fill-amber-200",
+        "Properties": "fill: #fde68a;\n"
+      },
+      {
+        "Class": "fill-amber-300",
+        "Properties": "fill: #fcd34d;\n"
+      },
+      {
+        "Class": "fill-amber-400",
+        "Properties": "fill: #fbbf24;\n"
+      },
+      {
+        "Class": "fill-amber-500",
+        "Properties": "fill: #f59e0b;\n"
+      },
+      {
+        "Class": "fill-amber-600",
+        "Properties": "fill: #d97706;\n"
+      },
+      {
+        "Class": "fill-amber-700",
+        "Properties": "fill: #b45309;\n"
+      },
+      {
+        "Class": "fill-amber-800",
+        "Properties": "fill: #92400e;\n"
+      },
+      {
+        "Class": "fill-amber-900",
+        "Properties": "fill: #78350f;\n"
+      },
+      {
+        "Class": "fill-yellow-50",
+        "Properties": "fill: #fefce8;\n"
+      },
+      {
+        "Class": "fill-yellow-100",
+        "Properties": "fill: #fef9c3;\n"
+      },
+      {
+        "Class": "fill-yellow-200",
+        "Properties": "fill: #fef08a;\n"
+      },
+      {
+        "Class": "fill-yellow-300",
+        "Properties": "fill: #fde047;\n"
+      },
+      {
+        "Class": "fill-yellow-400",
+        "Properties": "fill: #facc15;\n"
+      },
+      {
+        "Class": "fill-yellow-500",
+        "Properties": "fill: #eab308;\n"
+      },
+      {
+        "Class": "fill-yellow-600",
+        "Properties": "fill: #ca8a04;\n"
+      },
+      {
+        "Class": "fill-yellow-700",
+        "Properties": "fill: #a16207;\n"
+      },
+      {
+        "Class": "fill-yellow-800",
+        "Properties": "fill: #854d0e;\n"
+      },
+      {
+        "Class": "fill-yellow-900",
+        "Properties": "fill: #713f12;\n"
+      },
+      {
+        "Class": "fill-lime-50",
+        "Properties": "fill: #f7fee7;\n"
+      },
+      {
+        "Class": "fill-lime-100",
+        "Properties": "fill: #ecfccb;\n"
+      },
+      {
+        "Class": "fill-lime-200",
+        "Properties": "fill: #d9f99d;\n"
+      },
+      {
+        "Class": "fill-lime-300",
+        "Properties": "fill: #bef264;\n"
+      },
+      {
+        "Class": "fill-lime-400",
+        "Properties": "fill: #a3e635;\n"
+      },
+      {
+        "Class": "fill-lime-500",
+        "Properties": "fill: #84cc16;\n"
+      },
+      {
+        "Class": "fill-lime-600",
+        "Properties": "fill: #65a30d;\n"
+      },
+      {
+        "Class": "fill-lime-700",
+        "Properties": "fill: #4d7c0f;\n"
+      },
+      {
+        "Class": "fill-lime-800",
+        "Properties": "fill: #3f6212;\n"
+      },
+      {
+        "Class": "fill-lime-900",
+        "Properties": "fill: #365314;\n"
+      },
+      {
+        "Class": "fill-green-50",
+        "Properties": "fill: #f0fdf4;\n"
+      },
+      {
+        "Class": "fill-green-100",
+        "Properties": "fill: #dcfce7;\n"
+      },
+      {
+        "Class": "fill-green-200",
+        "Properties": "fill: #bbf7d0;\n"
+      },
+      {
+        "Class": "fill-green-300",
+        "Properties": "fill: #86efac;\n"
+      },
+      {
+        "Class": "fill-green-400",
+        "Properties": "fill: #4ade80;\n"
+      },
+      {
+        "Class": "fill-green-500",
+        "Properties": "fill: #22c55e;\n"
+      },
+      {
+        "Class": "fill-green-600",
+        "Properties": "fill: #16a34a;\n"
+      },
+      {
+        "Class": "fill-green-700",
+        "Properties": "fill: #15803d;\n"
+      },
+      {
+        "Class": "fill-green-800",
+        "Properties": "fill: #166534;\n"
+      },
+      {
+        "Class": "fill-green-900",
+        "Properties": "fill: #14532d;\n"
+      },
+      {
+        "Class": "fill-emerald-50",
+        "Properties": "fill: #ecfdf5;\n"
+      },
+      {
+        "Class": "fill-emerald-100",
+        "Properties": "fill: #d1fae5;\n"
+      },
+      {
+        "Class": "fill-emerald-200",
+        "Properties": "fill: #a7f3d0;\n"
+      },
+      {
+        "Class": "fill-emerald-300",
+        "Properties": "fill: #6ee7b7;\n"
+      },
+      {
+        "Class": "fill-emerald-400",
+        "Properties": "fill: #34d399;\n"
+      },
+      {
+        "Class": "fill-emerald-500",
+        "Properties": "fill: #10b981;\n"
+      },
+      {
+        "Class": "fill-emerald-600",
+        "Properties": "fill: #059669;\n"
+      },
+      {
+        "Class": "fill-emerald-700",
+        "Properties": "fill: #047857;\n"
+      },
+      {
+        "Class": "fill-emerald-800",
+        "Properties": "fill: #065f46;\n"
+      },
+      {
+        "Class": "fill-emerald-900",
+        "Properties": "fill: #064e3b;\n"
+      },
+      {
+        "Class": "fill-teal-50",
+        "Properties": "fill: #f0fdfa;\n"
+      },
+      {
+        "Class": "fill-teal-100",
+        "Properties": "fill: #ccfbf1;\n"
+      },
+      {
+        "Class": "fill-teal-200",
+        "Properties": "fill: #99f6e4;\n"
+      },
+      {
+        "Class": "fill-teal-300",
+        "Properties": "fill: #5eead4;\n"
+      },
+      {
+        "Class": "fill-teal-400",
+        "Properties": "fill: #2dd4bf;\n"
+      },
+      {
+        "Class": "fill-teal-500",
+        "Properties": "fill: #14b8a6;\n"
+      },
+      {
+        "Class": "fill-teal-600",
+        "Properties": "fill: #0d9488;\n"
+      },
+      {
+        "Class": "fill-teal-700",
+        "Properties": "fill: #0f766e;\n"
+      },
+      {
+        "Class": "fill-teal-800",
+        "Properties": "fill: #115e59;\n"
+      },
+      {
+        "Class": "fill-teal-900",
+        "Properties": "fill: #134e4a;\n"
+      },
+      {
+        "Class": "fill-cyan-50",
+        "Properties": "fill: #ecfeff;\n"
+      },
+      {
+        "Class": "fill-cyan-100",
+        "Properties": "fill: #cffafe;\n"
+      },
+      {
+        "Class": "fill-cyan-200",
+        "Properties": "fill: #a5f3fc;\n"
+      },
+      {
+        "Class": "fill-cyan-300",
+        "Properties": "fill: #67e8f9;\n"
+      },
+      {
+        "Class": "fill-cyan-400",
+        "Properties": "fill: #22d3ee;\n"
+      },
+      {
+        "Class": "fill-cyan-500",
+        "Properties": "fill: #06b6d4;\n"
+      },
+      {
+        "Class": "fill-cyan-600",
+        "Properties": "fill: #0891b2;\n"
+      },
+      {
+        "Class": "fill-cyan-700",
+        "Properties": "fill: #0e7490;\n"
+      },
+      {
+        "Class": "fill-cyan-800",
+        "Properties": "fill: #155e75;\n"
+      },
+      {
+        "Class": "fill-cyan-900",
+        "Properties": "fill: #164e63;\n"
+      },
+      {
+        "Class": "fill-sky-50",
+        "Properties": "fill: #f0f9ff;\n"
+      },
+      {
+        "Class": "fill-sky-100",
+        "Properties": "fill: #e0f2fe;\n"
+      },
+      {
+        "Class": "fill-sky-200",
+        "Properties": "fill: #bae6fd;\n"
+      },
+      {
+        "Class": "fill-sky-300",
+        "Properties": "fill: #7dd3fc;\n"
+      },
+      {
+        "Class": "fill-sky-400",
+        "Properties": "fill: #38bdf8;\n"
+      },
+      {
+        "Class": "fill-sky-500",
+        "Properties": "fill: #0ea5e9;\n"
+      },
+      {
+        "Class": "fill-sky-600",
+        "Properties": "fill: #0284c7;\n"
+      },
+      {
+        "Class": "fill-sky-700",
+        "Properties": "fill: #0369a1;\n"
+      },
+      {
+        "Class": "fill-sky-800",
+        "Properties": "fill: #075985;\n"
+      },
+      {
+        "Class": "fill-sky-900",
+        "Properties": "fill: #0c4a6e;\n"
+      },
+      {
+        "Class": "fill-blue-50",
+        "Properties": "fill: #eff6ff;\n"
+      },
+      {
+        "Class": "fill-blue-100",
+        "Properties": "fill: #dbeafe;\n"
+      },
+      {
+        "Class": "fill-blue-200",
+        "Properties": "fill: #bfdbfe;\n"
+      },
+      {
+        "Class": "fill-blue-300",
+        "Properties": "fill: #93c5fd;\n"
+      },
+      {
+        "Class": "fill-blue-400",
+        "Properties": "fill: #60a5fa;\n"
+      },
+      {
+        "Class": "fill-blue-500",
+        "Properties": "fill: #3b82f6;\n"
+      },
+      {
+        "Class": "fill-blue-600",
+        "Properties": "fill: #2563eb;\n"
+      },
+      {
+        "Class": "fill-blue-700",
+        "Properties": "fill: #1d4ed8;\n"
+      },
+      {
+        "Class": "fill-blue-800",
+        "Properties": "fill: #1e40af;\n"
+      },
+      {
+        "Class": "fill-blue-900",
+        "Properties": "fill: #1e3a8a;\n"
+      },
+      {
+        "Class": "fill-indigo-50",
+        "Properties": "fill: #eef2ff;\n"
+      },
+      {
+        "Class": "fill-indigo-100",
+        "Properties": "fill: #e0e7ff;\n"
+      },
+      {
+        "Class": "fill-indigo-200",
+        "Properties": "fill: #c7d2fe;\n"
+      },
+      {
+        "Class": "fill-indigo-300",
+        "Properties": "fill: #a5b4fc;\n"
+      },
+      {
+        "Class": "fill-indigo-400",
+        "Properties": "fill: #818cf8;\n"
+      },
+      {
+        "Class": "fill-indigo-500",
+        "Properties": "fill: #6366f1;\n"
+      },
+      {
+        "Class": "fill-indigo-600",
+        "Properties": "fill: #4f46e5;\n"
+      },
+      {
+        "Class": "fill-indigo-700",
+        "Properties": "fill: #4338ca;\n"
+      },
+      {
+        "Class": "fill-indigo-800",
+        "Properties": "fill: #3730a3;\n"
+      },
+      {
+        "Class": "fill-indigo-900",
+        "Properties": "fill: #312e81;\n"
+      },
+      {
+        "Class": "fill-violet-50",
+        "Properties": "fill: #f5f3ff;\n"
+      },
+      {
+        "Class": "fill-violet-100",
+        "Properties": "fill: #ede9fe;\n"
+      },
+      {
+        "Class": "fill-violet-200",
+        "Properties": "fill: #ddd6fe;\n"
+      },
+      {
+        "Class": "fill-violet-300",
+        "Properties": "fill: #c4b5fd;\n"
+      },
+      {
+        "Class": "fill-violet-400",
+        "Properties": "fill: #a78bfa;\n"
+      },
+      {
+        "Class": "fill-violet-500",
+        "Properties": "fill: #8b5cf6;\n"
+      },
+      {
+        "Class": "fill-violet-600",
+        "Properties": "fill: #7c3aed;\n"
+      },
+      {
+        "Class": "fill-violet-700",
+        "Properties": "fill: #6d28d9;\n"
+      },
+      {
+        "Class": "fill-violet-800",
+        "Properties": "fill: #5b21b6;\n"
+      },
+      {
+        "Class": "fill-violet-900",
+        "Properties": "fill: #4c1d95;\n"
+      },
+      {
+        "Class": "fill-purple-50",
+        "Properties": "fill: #faf5ff;\n"
+      },
+      {
+        "Class": "fill-purple-100",
+        "Properties": "fill: #f3e8ff;\n"
+      },
+      {
+        "Class": "fill-purple-200",
+        "Properties": "fill: #e9d5ff;\n"
+      },
+      {
+        "Class": "fill-purple-300",
+        "Properties": "fill: #d8b4fe;\n"
+      },
+      {
+        "Class": "fill-purple-400",
+        "Properties": "fill: #c084fc;\n"
+      },
+      {
+        "Class": "fill-purple-500",
+        "Properties": "fill: #a855f7;\n"
+      },
+      {
+        "Class": "fill-purple-600",
+        "Properties": "fill: #9333ea;\n"
+      },
+      {
+        "Class": "fill-purple-700",
+        "Properties": "fill: #7e22ce;\n"
+      },
+      {
+        "Class": "fill-purple-800",
+        "Properties": "fill: #6b21a8;\n"
+      },
+      {
+        "Class": "fill-purple-900",
+        "Properties": "fill: #581c87;\n"
+      },
+      {
+        "Class": "fill-fuchsia-50",
+        "Properties": "fill: #fdf4ff;\n"
+      },
+      {
+        "Class": "fill-fuchsia-100",
+        "Properties": "fill: #fae8ff;\n"
+      },
+      {
+        "Class": "fill-fuchsia-200",
+        "Properties": "fill: #f5d0fe;\n"
+      },
+      {
+        "Class": "fill-fuchsia-300",
+        "Properties": "fill: #f0abfc;\n"
+      },
+      {
+        "Class": "fill-fuchsia-400",
+        "Properties": "fill: #e879f9;\n"
+      },
+      {
+        "Class": "fill-fuchsia-500",
+        "Properties": "fill: #d946ef;\n"
+      },
+      {
+        "Class": "fill-fuchsia-600",
+        "Properties": "fill: #c026d3;\n"
+      },
+      {
+        "Class": "fill-fuchsia-700",
+        "Properties": "fill: #a21caf;\n"
+      },
+      {
+        "Class": "fill-fuchsia-800",
+        "Properties": "fill: #86198f;\n"
+      },
+      {
+        "Class": "fill-fuchsia-900",
+        "Properties": "fill: #701a75;\n"
+      },
+      {
+        "Class": "fill-pink-50",
+        "Properties": "fill: #fdf2f8;\n"
+      },
+      {
+        "Class": "fill-pink-100",
+        "Properties": "fill: #fce7f3;\n"
+      },
+      {
+        "Class": "fill-pink-200",
+        "Properties": "fill: #fbcfe8;\n"
+      },
+      {
+        "Class": "fill-pink-300",
+        "Properties": "fill: #f9a8d4;\n"
+      },
+      {
+        "Class": "fill-pink-400",
+        "Properties": "fill: #f472b6;\n"
+      },
+      {
+        "Class": "fill-pink-500",
+        "Properties": "fill: #ec4899;\n"
+      },
+      {
+        "Class": "fill-pink-600",
+        "Properties": "fill: #db2777;\n"
+      },
+      {
+        "Class": "fill-pink-700",
+        "Properties": "fill: #be185d;\n"
+      },
+      {
+        "Class": "fill-pink-800",
+        "Properties": "fill: #9d174d;\n"
+      },
+      {
+        "Class": "fill-pink-900",
+        "Properties": "fill: #831843;\n"
+      },
+      {
+        "Class": "fill-rose-50",
+        "Properties": "fill: #fff1f2;\n"
+      },
+      {
+        "Class": "fill-rose-100",
+        "Properties": "fill: #ffe4e6;\n"
+      },
+      {
+        "Class": "fill-rose-200",
+        "Properties": "fill: #fecdd3;\n"
+      },
+      {
+        "Class": "fill-rose-300",
+        "Properties": "fill: #fda4af;\n"
+      },
+      {
+        "Class": "fill-rose-400",
+        "Properties": "fill: #fb7185;\n"
+      },
+      {
+        "Class": "fill-rose-500",
+        "Properties": "fill: #f43f5e;\n"
+      },
+      {
+        "Class": "fill-rose-600",
+        "Properties": "fill: #e11d48;\n"
+      },
+      {
+        "Class": "fill-rose-700",
+        "Properties": "fill: #be123c;\n"
+      },
+      {
+        "Class": "fill-rose-800",
+        "Properties": "fill: #9f1239;\n"
+      },
+      {
+        "Class": "fill-rose-900",
+        "Properties": "fill: #881337;\n"
+      }
+    ]
+  },
+  {
+    "name": "Stroke",
+    "table": [
+      {
+        "Class": "stroke-inherit",
+        "Properties": "stroke: inherit;\n"
+      },
+      {
+        "Class": "stroke-current",
+        "Properties": "stroke: currentColor;\n"
+      },
+      {
+        "Class": "stroke-transparent",
+        "Properties": "stroke: transparent;\n"
+      },
+      {
+        "Class": "stroke-black",
+        "Properties": "stroke: #000;\n"
+      },
+      {
+        "Class": "stroke-white",
+        "Properties": "stroke: #fff;\n"
+      },
+      {
+        "Class": "stroke-slate-50",
+        "Properties": "stroke: #f8fafc;\n"
+      },
+      {
+        "Class": "stroke-slate-100",
+        "Properties": "stroke: #f1f5f9;\n"
+      },
+      {
+        "Class": "stroke-slate-200",
+        "Properties": "stroke: #e2e8f0;\n"
+      },
+      {
+        "Class": "stroke-slate-300",
+        "Properties": "stroke: #cbd5e1;\n"
+      },
+      {
+        "Class": "stroke-slate-400",
+        "Properties": "stroke: #94a3b8;\n"
+      },
+      {
+        "Class": "stroke-slate-500",
+        "Properties": "stroke: #64748b;\n"
+      },
+      {
+        "Class": "stroke-slate-600",
+        "Properties": "stroke: #475569;\n"
+      },
+      {
+        "Class": "stroke-slate-700",
+        "Properties": "stroke: #334155;\n"
+      },
+      {
+        "Class": "stroke-slate-800",
+        "Properties": "stroke: #1e293b;\n"
+      },
+      {
+        "Class": "stroke-slate-900",
+        "Properties": "stroke: #0f172a;\n"
+      },
+      {
+        "Class": "stroke-gray-50",
+        "Properties": "stroke: #f9fafb;\n"
+      },
+      {
+        "Class": "stroke-gray-100",
+        "Properties": "stroke: #f3f4f6;\n"
+      },
+      {
+        "Class": "stroke-gray-200",
+        "Properties": "stroke: #e5e7eb;\n"
+      },
+      {
+        "Class": "stroke-gray-300",
+        "Properties": "stroke: #d1d5db;\n"
+      },
+      {
+        "Class": "stroke-gray-400",
+        "Properties": "stroke: #9ca3af;\n"
+      },
+      {
+        "Class": "stroke-gray-500",
+        "Properties": "stroke: #6b7280;\n"
+      },
+      {
+        "Class": "stroke-gray-600",
+        "Properties": "stroke: #4b5563;\n"
+      },
+      {
+        "Class": "stroke-gray-700",
+        "Properties": "stroke: #374151;\n"
+      },
+      {
+        "Class": "stroke-gray-800",
+        "Properties": "stroke: #1f2937;\n"
+      },
+      {
+        "Class": "stroke-gray-900",
+        "Properties": "stroke: #111827;\n"
+      },
+      {
+        "Class": "stroke-zinc-50",
+        "Properties": "stroke: #fafafa;\n"
+      },
+      {
+        "Class": "stroke-zinc-100",
+        "Properties": "stroke: #f4f4f5;\n"
+      },
+      {
+        "Class": "stroke-zinc-200",
+        "Properties": "stroke: #e4e4e7;\n"
+      },
+      {
+        "Class": "stroke-zinc-300",
+        "Properties": "stroke: #d4d4d8;\n"
+      },
+      {
+        "Class": "stroke-zinc-400",
+        "Properties": "stroke: #a1a1aa;\n"
+      },
+      {
+        "Class": "stroke-zinc-500",
+        "Properties": "stroke: #71717a;\n"
+      },
+      {
+        "Class": "stroke-zinc-600",
+        "Properties": "stroke: #52525b;\n"
+      },
+      {
+        "Class": "stroke-zinc-700",
+        "Properties": "stroke: #3f3f46;\n"
+      },
+      {
+        "Class": "stroke-zinc-800",
+        "Properties": "stroke: #27272a;\n"
+      },
+      {
+        "Class": "stroke-zinc-900",
+        "Properties": "stroke: #18181b;\n"
+      },
+      {
+        "Class": "stroke-neutral-50",
+        "Properties": "stroke: #fafafa;\n"
+      },
+      {
+        "Class": "stroke-neutral-100",
+        "Properties": "stroke: #f5f5f5;\n"
+      },
+      {
+        "Class": "stroke-neutral-200",
+        "Properties": "stroke: #e5e5e5;\n"
+      },
+      {
+        "Class": "stroke-neutral-300",
+        "Properties": "stroke: #d4d4d4;\n"
+      },
+      {
+        "Class": "stroke-neutral-400",
+        "Properties": "stroke: #a3a3a3;\n"
+      },
+      {
+        "Class": "stroke-neutral-500",
+        "Properties": "stroke: #737373;\n"
+      },
+      {
+        "Class": "stroke-neutral-600",
+        "Properties": "stroke: #525252;\n"
+      },
+      {
+        "Class": "stroke-neutral-700",
+        "Properties": "stroke: #404040;\n"
+      },
+      {
+        "Class": "stroke-neutral-800",
+        "Properties": "stroke: #262626;\n"
+      },
+      {
+        "Class": "stroke-neutral-900",
+        "Properties": "stroke: #171717;\n"
+      },
+      {
+        "Class": "stroke-stone-50",
+        "Properties": "stroke: #fafaf9;\n"
+      },
+      {
+        "Class": "stroke-stone-100",
+        "Properties": "stroke: #f5f5f4;\n"
+      },
+      {
+        "Class": "stroke-stone-200",
+        "Properties": "stroke: #e7e5e4;\n"
+      },
+      {
+        "Class": "stroke-stone-300",
+        "Properties": "stroke: #d6d3d1;\n"
+      },
+      {
+        "Class": "stroke-stone-400",
+        "Properties": "stroke: #a8a29e;\n"
+      },
+      {
+        "Class": "stroke-stone-500",
+        "Properties": "stroke: #78716c;\n"
+      },
+      {
+        "Class": "stroke-stone-600",
+        "Properties": "stroke: #57534e;\n"
+      },
+      {
+        "Class": "stroke-stone-700",
+        "Properties": "stroke: #44403c;\n"
+      },
+      {
+        "Class": "stroke-stone-800",
+        "Properties": "stroke: #292524;\n"
+      },
+      {
+        "Class": "stroke-stone-900",
+        "Properties": "stroke: #1c1917;\n"
+      },
+      {
+        "Class": "stroke-red-50",
+        "Properties": "stroke: #fef2f2;\n"
+      },
+      {
+        "Class": "stroke-red-100",
+        "Properties": "stroke: #fee2e2;\n"
+      },
+      {
+        "Class": "stroke-red-200",
+        "Properties": "stroke: #fecaca;\n"
+      },
+      {
+        "Class": "stroke-red-300",
+        "Properties": "stroke: #fca5a5;\n"
+      },
+      {
+        "Class": "stroke-red-400",
+        "Properties": "stroke: #f87171;\n"
+      },
+      {
+        "Class": "stroke-red-500",
+        "Properties": "stroke: #ef4444;\n"
+      },
+      {
+        "Class": "stroke-red-600",
+        "Properties": "stroke: #dc2626;\n"
+      },
+      {
+        "Class": "stroke-red-700",
+        "Properties": "stroke: #b91c1c;\n"
+      },
+      {
+        "Class": "stroke-red-800",
+        "Properties": "stroke: #991b1b;\n"
+      },
+      {
+        "Class": "stroke-red-900",
+        "Properties": "stroke: #7f1d1d;\n"
+      },
+      {
+        "Class": "stroke-orange-50",
+        "Properties": "stroke: #fff7ed;\n"
+      },
+      {
+        "Class": "stroke-orange-100",
+        "Properties": "stroke: #ffedd5;\n"
+      },
+      {
+        "Class": "stroke-orange-200",
+        "Properties": "stroke: #fed7aa;\n"
+      },
+      {
+        "Class": "stroke-orange-300",
+        "Properties": "stroke: #fdba74;\n"
+      },
+      {
+        "Class": "stroke-orange-400",
+        "Properties": "stroke: #fb923c;\n"
+      },
+      {
+        "Class": "stroke-orange-500",
+        "Properties": "stroke: #f97316;\n"
+      },
+      {
+        "Class": "stroke-orange-600",
+        "Properties": "stroke: #ea580c;\n"
+      },
+      {
+        "Class": "stroke-orange-700",
+        "Properties": "stroke: #c2410c;\n"
+      },
+      {
+        "Class": "stroke-orange-800",
+        "Properties": "stroke: #9a3412;\n"
+      },
+      {
+        "Class": "stroke-orange-900",
+        "Properties": "stroke: #7c2d12;\n"
+      },
+      {
+        "Class": "stroke-amber-50",
+        "Properties": "stroke: #fffbeb;\n"
+      },
+      {
+        "Class": "stroke-amber-100",
+        "Properties": "stroke: #fef3c7;\n"
+      },
+      {
+        "Class": "stroke-amber-200",
+        "Properties": "stroke: #fde68a;\n"
+      },
+      {
+        "Class": "stroke-amber-300",
+        "Properties": "stroke: #fcd34d;\n"
+      },
+      {
+        "Class": "stroke-amber-400",
+        "Properties": "stroke: #fbbf24;\n"
+      },
+      {
+        "Class": "stroke-amber-500",
+        "Properties": "stroke: #f59e0b;\n"
+      },
+      {
+        "Class": "stroke-amber-600",
+        "Properties": "stroke: #d97706;\n"
+      },
+      {
+        "Class": "stroke-amber-700",
+        "Properties": "stroke: #b45309;\n"
+      },
+      {
+        "Class": "stroke-amber-800",
+        "Properties": "stroke: #92400e;\n"
+      },
+      {
+        "Class": "stroke-amber-900",
+        "Properties": "stroke: #78350f;\n"
+      },
+      {
+        "Class": "stroke-yellow-50",
+        "Properties": "stroke: #fefce8;\n"
+      },
+      {
+        "Class": "stroke-yellow-100",
+        "Properties": "stroke: #fef9c3;\n"
+      },
+      {
+        "Class": "stroke-yellow-200",
+        "Properties": "stroke: #fef08a;\n"
+      },
+      {
+        "Class": "stroke-yellow-300",
+        "Properties": "stroke: #fde047;\n"
+      },
+      {
+        "Class": "stroke-yellow-400",
+        "Properties": "stroke: #facc15;\n"
+      },
+      {
+        "Class": "stroke-yellow-500",
+        "Properties": "stroke: #eab308;\n"
+      },
+      {
+        "Class": "stroke-yellow-600",
+        "Properties": "stroke: #ca8a04;\n"
+      },
+      {
+        "Class": "stroke-yellow-700",
+        "Properties": "stroke: #a16207;\n"
+      },
+      {
+        "Class": "stroke-yellow-800",
+        "Properties": "stroke: #854d0e;\n"
+      },
+      {
+        "Class": "stroke-yellow-900",
+        "Properties": "stroke: #713f12;\n"
+      },
+      {
+        "Class": "stroke-lime-50",
+        "Properties": "stroke: #f7fee7;\n"
+      },
+      {
+        "Class": "stroke-lime-100",
+        "Properties": "stroke: #ecfccb;\n"
+      },
+      {
+        "Class": "stroke-lime-200",
+        "Properties": "stroke: #d9f99d;\n"
+      },
+      {
+        "Class": "stroke-lime-300",
+        "Properties": "stroke: #bef264;\n"
+      },
+      {
+        "Class": "stroke-lime-400",
+        "Properties": "stroke: #a3e635;\n"
+      },
+      {
+        "Class": "stroke-lime-500",
+        "Properties": "stroke: #84cc16;\n"
+      },
+      {
+        "Class": "stroke-lime-600",
+        "Properties": "stroke: #65a30d;\n"
+      },
+      {
+        "Class": "stroke-lime-700",
+        "Properties": "stroke: #4d7c0f;\n"
+      },
+      {
+        "Class": "stroke-lime-800",
+        "Properties": "stroke: #3f6212;\n"
+      },
+      {
+        "Class": "stroke-lime-900",
+        "Properties": "stroke: #365314;\n"
+      },
+      {
+        "Class": "stroke-green-50",
+        "Properties": "stroke: #f0fdf4;\n"
+      },
+      {
+        "Class": "stroke-green-100",
+        "Properties": "stroke: #dcfce7;\n"
+      },
+      {
+        "Class": "stroke-green-200",
+        "Properties": "stroke: #bbf7d0;\n"
+      },
+      {
+        "Class": "stroke-green-300",
+        "Properties": "stroke: #86efac;\n"
+      },
+      {
+        "Class": "stroke-green-400",
+        "Properties": "stroke: #4ade80;\n"
+      },
+      {
+        "Class": "stroke-green-500",
+        "Properties": "stroke: #22c55e;\n"
+      },
+      {
+        "Class": "stroke-green-600",
+        "Properties": "stroke: #16a34a;\n"
+      },
+      {
+        "Class": "stroke-green-700",
+        "Properties": "stroke: #15803d;\n"
+      },
+      {
+        "Class": "stroke-green-800",
+        "Properties": "stroke: #166534;\n"
+      },
+      {
+        "Class": "stroke-green-900",
+        "Properties": "stroke: #14532d;\n"
+      },
+      {
+        "Class": "stroke-emerald-50",
+        "Properties": "stroke: #ecfdf5;\n"
+      },
+      {
+        "Class": "stroke-emerald-100",
+        "Properties": "stroke: #d1fae5;\n"
+      },
+      {
+        "Class": "stroke-emerald-200",
+        "Properties": "stroke: #a7f3d0;\n"
+      },
+      {
+        "Class": "stroke-emerald-300",
+        "Properties": "stroke: #6ee7b7;\n"
+      },
+      {
+        "Class": "stroke-emerald-400",
+        "Properties": "stroke: #34d399;\n"
+      },
+      {
+        "Class": "stroke-emerald-500",
+        "Properties": "stroke: #10b981;\n"
+      },
+      {
+        "Class": "stroke-emerald-600",
+        "Properties": "stroke: #059669;\n"
+      },
+      {
+        "Class": "stroke-emerald-700",
+        "Properties": "stroke: #047857;\n"
+      },
+      {
+        "Class": "stroke-emerald-800",
+        "Properties": "stroke: #065f46;\n"
+      },
+      {
+        "Class": "stroke-emerald-900",
+        "Properties": "stroke: #064e3b;\n"
+      },
+      {
+        "Class": "stroke-teal-50",
+        "Properties": "stroke: #f0fdfa;\n"
+      },
+      {
+        "Class": "stroke-teal-100",
+        "Properties": "stroke: #ccfbf1;\n"
+      },
+      {
+        "Class": "stroke-teal-200",
+        "Properties": "stroke: #99f6e4;\n"
+      },
+      {
+        "Class": "stroke-teal-300",
+        "Properties": "stroke: #5eead4;\n"
+      },
+      {
+        "Class": "stroke-teal-400",
+        "Properties": "stroke: #2dd4bf;\n"
+      },
+      {
+        "Class": "stroke-teal-500",
+        "Properties": "stroke: #14b8a6;\n"
+      },
+      {
+        "Class": "stroke-teal-600",
+        "Properties": "stroke: #0d9488;\n"
+      },
+      {
+        "Class": "stroke-teal-700",
+        "Properties": "stroke: #0f766e;\n"
+      },
+      {
+        "Class": "stroke-teal-800",
+        "Properties": "stroke: #115e59;\n"
+      },
+      {
+        "Class": "stroke-teal-900",
+        "Properties": "stroke: #134e4a;\n"
+      },
+      {
+        "Class": "stroke-cyan-50",
+        "Properties": "stroke: #ecfeff;\n"
+      },
+      {
+        "Class": "stroke-cyan-100",
+        "Properties": "stroke: #cffafe;\n"
+      },
+      {
+        "Class": "stroke-cyan-200",
+        "Properties": "stroke: #a5f3fc;\n"
+      },
+      {
+        "Class": "stroke-cyan-300",
+        "Properties": "stroke: #67e8f9;\n"
+      },
+      {
+        "Class": "stroke-cyan-400",
+        "Properties": "stroke: #22d3ee;\n"
+      },
+      {
+        "Class": "stroke-cyan-500",
+        "Properties": "stroke: #06b6d4;\n"
+      },
+      {
+        "Class": "stroke-cyan-600",
+        "Properties": "stroke: #0891b2;\n"
+      },
+      {
+        "Class": "stroke-cyan-700",
+        "Properties": "stroke: #0e7490;\n"
+      },
+      {
+        "Class": "stroke-cyan-800",
+        "Properties": "stroke: #155e75;\n"
+      },
+      {
+        "Class": "stroke-cyan-900",
+        "Properties": "stroke: #164e63;\n"
+      },
+      {
+        "Class": "stroke-sky-50",
+        "Properties": "stroke: #f0f9ff;\n"
+      },
+      {
+        "Class": "stroke-sky-100",
+        "Properties": "stroke: #e0f2fe;\n"
+      },
+      {
+        "Class": "stroke-sky-200",
+        "Properties": "stroke: #bae6fd;\n"
+      },
+      {
+        "Class": "stroke-sky-300",
+        "Properties": "stroke: #7dd3fc;\n"
+      },
+      {
+        "Class": "stroke-sky-400",
+        "Properties": "stroke: #38bdf8;\n"
+      },
+      {
+        "Class": "stroke-sky-500",
+        "Properties": "stroke: #0ea5e9;\n"
+      },
+      {
+        "Class": "stroke-sky-600",
+        "Properties": "stroke: #0284c7;\n"
+      },
+      {
+        "Class": "stroke-sky-700",
+        "Properties": "stroke: #0369a1;\n"
+      },
+      {
+        "Class": "stroke-sky-800",
+        "Properties": "stroke: #075985;\n"
+      },
+      {
+        "Class": "stroke-sky-900",
+        "Properties": "stroke: #0c4a6e;\n"
+      },
+      {
+        "Class": "stroke-blue-50",
+        "Properties": "stroke: #eff6ff;\n"
+      },
+      {
+        "Class": "stroke-blue-100",
+        "Properties": "stroke: #dbeafe;\n"
+      },
+      {
+        "Class": "stroke-blue-200",
+        "Properties": "stroke: #bfdbfe;\n"
+      },
+      {
+        "Class": "stroke-blue-300",
+        "Properties": "stroke: #93c5fd;\n"
+      },
+      {
+        "Class": "stroke-blue-400",
+        "Properties": "stroke: #60a5fa;\n"
+      },
+      {
+        "Class": "stroke-blue-500",
+        "Properties": "stroke: #3b82f6;\n"
+      },
+      {
+        "Class": "stroke-blue-600",
+        "Properties": "stroke: #2563eb;\n"
+      },
+      {
+        "Class": "stroke-blue-700",
+        "Properties": "stroke: #1d4ed8;\n"
+      },
+      {
+        "Class": "stroke-blue-800",
+        "Properties": "stroke: #1e40af;\n"
+      },
+      {
+        "Class": "stroke-blue-900",
+        "Properties": "stroke: #1e3a8a;\n"
+      },
+      {
+        "Class": "stroke-indigo-50",
+        "Properties": "stroke: #eef2ff;\n"
+      },
+      {
+        "Class": "stroke-indigo-100",
+        "Properties": "stroke: #e0e7ff;\n"
+      },
+      {
+        "Class": "stroke-indigo-200",
+        "Properties": "stroke: #c7d2fe;\n"
+      },
+      {
+        "Class": "stroke-indigo-300",
+        "Properties": "stroke: #a5b4fc;\n"
+      },
+      {
+        "Class": "stroke-indigo-400",
+        "Properties": "stroke: #818cf8;\n"
+      },
+      {
+        "Class": "stroke-indigo-500",
+        "Properties": "stroke: #6366f1;\n"
+      },
+      {
+        "Class": "stroke-indigo-600",
+        "Properties": "stroke: #4f46e5;\n"
+      },
+      {
+        "Class": "stroke-indigo-700",
+        "Properties": "stroke: #4338ca;\n"
+      },
+      {
+        "Class": "stroke-indigo-800",
+        "Properties": "stroke: #3730a3;\n"
+      },
+      {
+        "Class": "stroke-indigo-900",
+        "Properties": "stroke: #312e81;\n"
+      },
+      {
+        "Class": "stroke-violet-50",
+        "Properties": "stroke: #f5f3ff;\n"
+      },
+      {
+        "Class": "stroke-violet-100",
+        "Properties": "stroke: #ede9fe;\n"
+      },
+      {
+        "Class": "stroke-violet-200",
+        "Properties": "stroke: #ddd6fe;\n"
+      },
+      {
+        "Class": "stroke-violet-300",
+        "Properties": "stroke: #c4b5fd;\n"
+      },
+      {
+        "Class": "stroke-violet-400",
+        "Properties": "stroke: #a78bfa;\n"
+      },
+      {
+        "Class": "stroke-violet-500",
+        "Properties": "stroke: #8b5cf6;\n"
+      },
+      {
+        "Class": "stroke-violet-600",
+        "Properties": "stroke: #7c3aed;\n"
+      },
+      {
+        "Class": "stroke-violet-700",
+        "Properties": "stroke: #6d28d9;\n"
+      },
+      {
+        "Class": "stroke-violet-800",
+        "Properties": "stroke: #5b21b6;\n"
+      },
+      {
+        "Class": "stroke-violet-900",
+        "Properties": "stroke: #4c1d95;\n"
+      },
+      {
+        "Class": "stroke-purple-50",
+        "Properties": "stroke: #faf5ff;\n"
+      },
+      {
+        "Class": "stroke-purple-100",
+        "Properties": "stroke: #f3e8ff;\n"
+      },
+      {
+        "Class": "stroke-purple-200",
+        "Properties": "stroke: #e9d5ff;\n"
+      },
+      {
+        "Class": "stroke-purple-300",
+        "Properties": "stroke: #d8b4fe;\n"
+      },
+      {
+        "Class": "stroke-purple-400",
+        "Properties": "stroke: #c084fc;\n"
+      },
+      {
+        "Class": "stroke-purple-500",
+        "Properties": "stroke: #a855f7;\n"
+      },
+      {
+        "Class": "stroke-purple-600",
+        "Properties": "stroke: #9333ea;\n"
+      },
+      {
+        "Class": "stroke-purple-700",
+        "Properties": "stroke: #7e22ce;\n"
+      },
+      {
+        "Class": "stroke-purple-800",
+        "Properties": "stroke: #6b21a8;\n"
+      },
+      {
+        "Class": "stroke-purple-900",
+        "Properties": "stroke: #581c87;\n"
+      },
+      {
+        "Class": "stroke-fuchsia-50",
+        "Properties": "stroke: #fdf4ff;\n"
+      },
+      {
+        "Class": "stroke-fuchsia-100",
+        "Properties": "stroke: #fae8ff;\n"
+      },
+      {
+        "Class": "stroke-fuchsia-200",
+        "Properties": "stroke: #f5d0fe;\n"
+      },
+      {
+        "Class": "stroke-fuchsia-300",
+        "Properties": "stroke: #f0abfc;\n"
+      },
+      {
+        "Class": "stroke-fuchsia-400",
+        "Properties": "stroke: #e879f9;\n"
+      },
+      {
+        "Class": "stroke-fuchsia-500",
+        "Properties": "stroke: #d946ef;\n"
+      },
+      {
+        "Class": "stroke-fuchsia-600",
+        "Properties": "stroke: #c026d3;\n"
+      },
+      {
+        "Class": "stroke-fuchsia-700",
+        "Properties": "stroke: #a21caf;\n"
+      },
+      {
+        "Class": "stroke-fuchsia-800",
+        "Properties": "stroke: #86198f;\n"
+      },
+      {
+        "Class": "stroke-fuchsia-900",
+        "Properties": "stroke: #701a75;\n"
+      },
+      {
+        "Class": "stroke-pink-50",
+        "Properties": "stroke: #fdf2f8;\n"
+      },
+      {
+        "Class": "stroke-pink-100",
+        "Properties": "stroke: #fce7f3;\n"
+      },
+      {
+        "Class": "stroke-pink-200",
+        "Properties": "stroke: #fbcfe8;\n"
+      },
+      {
+        "Class": "stroke-pink-300",
+        "Properties": "stroke: #f9a8d4;\n"
+      },
+      {
+        "Class": "stroke-pink-400",
+        "Properties": "stroke: #f472b6;\n"
+      },
+      {
+        "Class": "stroke-pink-500",
+        "Properties": "stroke: #ec4899;\n"
+      },
+      {
+        "Class": "stroke-pink-600",
+        "Properties": "stroke: #db2777;\n"
+      },
+      {
+        "Class": "stroke-pink-700",
+        "Properties": "stroke: #be185d;\n"
+      },
+      {
+        "Class": "stroke-pink-800",
+        "Properties": "stroke: #9d174d;\n"
+      },
+      {
+        "Class": "stroke-pink-900",
+        "Properties": "stroke: #831843;\n"
+      },
+      {
+        "Class": "stroke-rose-50",
+        "Properties": "stroke: #fff1f2;\n"
+      },
+      {
+        "Class": "stroke-rose-100",
+        "Properties": "stroke: #ffe4e6;\n"
+      },
+      {
+        "Class": "stroke-rose-200",
+        "Properties": "stroke: #fecdd3;\n"
+      },
+      {
+        "Class": "stroke-rose-300",
+        "Properties": "stroke: #fda4af;\n"
+      },
+      {
+        "Class": "stroke-rose-400",
+        "Properties": "stroke: #fb7185;\n"
+      },
+      {
+        "Class": "stroke-rose-500",
+        "Properties": "stroke: #f43f5e;\n"
+      },
+      {
+        "Class": "stroke-rose-600",
+        "Properties": "stroke: #e11d48;\n"
+      },
+      {
+        "Class": "stroke-rose-700",
+        "Properties": "stroke: #be123c;\n"
+      },
+      {
+        "Class": "stroke-rose-800",
+        "Properties": "stroke: #9f1239;\n"
+      },
+      {
+        "Class": "stroke-rose-900",
+        "Properties": "stroke: #881337;\n"
+      }
+    ]
+  },
+  {
+    "name": "Stroke Width",
+    "table": [
+      {
+        "Class": "stroke-0",
+        "Properties": "stroke-width: 0;\n"
+      },
+      {
+        "Class": "stroke-1",
+        "Properties": "stroke-width: 1;\n"
+      },
+      {
+        "Class": "stroke-2",
+        "Properties": "stroke-width: 2;\n"
+      }
+    ]
+  }
+]

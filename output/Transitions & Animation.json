@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Transition Property",
+    "table": [
+      {
+        "Class": "transition-none",
+        "Properties": "transition-property: none;\n"
+      },
+      {
+        "Class": "transition-all",
+        "Properties": "transition-property: all;\ntransition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\ntransition-duration: 150ms;\n"
+      },
+      {
+        "Class": "transition",
+        "Properties": "transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;\ntransition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\ntransition-duration: 150ms;\n"
+      },
+      {
+        "Class": "transition-colors",
+        "Properties": "transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;\ntransition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\ntransition-duration: 150ms;\n"
+      },
+      {
+        "Class": "transition-opacity",
+        "Properties": "transition-property: opacity;\ntransition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\ntransition-duration: 150ms;\n"
+      },
+      {
+        "Class": "transition-shadow",
+        "Properties": "transition-property: box-shadow;\ntransition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\ntransition-duration: 150ms;\n"
+      },
+      {
+        "Class": "transition-transform",
+        "Properties": "transition-property: transform;\ntransition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\ntransition-duration: 150ms;\n"
+      }
+    ]
+  },
+  {
+    "name": "Transition Duration",
+    "table": [
+      {
+        "Class": "duration-75",
+        "Properties": "transition-duration: 75ms;\n"
+      },
+      {
+        "Class": "duration-100",
+        "Properties": "transition-duration: 100ms;\n"
+      },
+      {
+        "Class": "duration-150",
+        "Properties": "transition-duration: 150ms;\n"
+      },
+      {
+        "Class": "duration-200",
+        "Properties": "transition-duration: 200ms;\n"
+      },
+      {
+        "Class": "duration-300",
+        "Properties": "transition-duration: 300ms;\n"
+      },
+      {
+        "Class": "duration-500",
+        "Properties": "transition-duration: 500ms;\n"
+      },
+      {
+        "Class": "duration-700",
+        "Properties": "transition-duration: 700ms;\n"
+      },
+      {
+        "Class": "duration-1000",
+        "Properties": "transition-duration: 1000ms;\n"
+      }
+    ]
+  },
+  {
+    "name": "Transition Timing Function",
+    "table": [
+      {
+        "Class": "ease-linear",
+        "Properties": "transition-timing-function: linear;\n"
+      },
+      {
+        "Class": "ease-in",
+        "Properties": "transition-timing-function: cubic-bezier(0.4, 0, 1, 1);\n"
+      },
+      {
+        "Class": "ease-out",
+        "Properties": "transition-timing-function: cubic-bezier(0, 0, 0.2, 1);\n"
+      },
+      {
+        "Class": "ease-in-out",
+        "Properties": "transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n"
+      }
+    ]
+  },
+  {
+    "name": "Transition Delay",
+    "table": [
+      {
+        "Class": "delay-75",
+        "Properties": "transition-delay: 75ms;\n"
+      },
+      {
+        "Class": "delay-100",
+        "Properties": "transition-delay: 100ms;\n"
+      },
+      {
+        "Class": "delay-150",
+        "Properties": "transition-delay: 150ms;\n"
+      },
+      {
+        "Class": "delay-200",
+        "Properties": "transition-delay: 200ms;\n"
+      },
+      {
+        "Class": "delay-300",
+        "Properties": "transition-delay: 300ms;\n"
+      },
+      {
+        "Class": "delay-500",
+        "Properties": "transition-delay: 500ms;\n"
+      },
+      {
+        "Class": "delay-700",
+        "Properties": "transition-delay: 700ms;\n"
+      },
+      {
+        "Class": "delay-1000",
+        "Properties": "transition-delay: 1000ms;\n"
+      }
+    ]
+  },
+  {
+    "name": "Animation",
+    "table": [
+      {
+        "Class": "animate-none",
+        "Properties": "animation: none;"
+      },
+      {
+        "Class": "animate-spin",
+        "Properties": "animation: spin 1s linear infinite;\n\n@keyframes spin {\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n}"
+      },
+      {
+        "Class": "animate-ping",
+        "Properties": "animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;\n\n@keyframes ping {\n  75%, 100% {\n    transform: scale(2);\n    opacity: 0;\n  }\n}"
+      },
+      {
+        "Class": "animate-pulse",
+        "Properties": "animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;\n\n@keyframes pulse {\n  0%, 100% {\n    opacity: 1;\n  }\n  50% {\n    opacity: .5;\n  }\n}"
+      },
+      {
+        "Class": "animate-bounce",
+        "Properties": "animation: bounce 1s infinite;\n\n@keyframes bounce {\n  0%, 100% {\n    transform: translateY(-25%);\n    animation-timing-function: cubic-bezier(0.8, 0, 1, 1);\n  }\n  50% {\n    transform: translateY(0);\n    animation-timing-function: cubic-bezier(0, 0, 0.2, 1);\n  }\n}"
+      }
+    ]
+  }
+]

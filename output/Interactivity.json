@@ -1,0 +1,4177 @@
+[
+  {
+    "name": "Accent Color",
+    "table": [
+      {
+        "Class": "accent-inherit",
+        "Properties": "accent-color: inherit;\n"
+      },
+      {
+        "Class": "accent-current",
+        "Properties": "accent-color: currentColor;\n"
+      },
+      {
+        "Class": "accent-transparent",
+        "Properties": "accent-color: transparent;\n"
+      },
+      {
+        "Class": "accent-black",
+        "Properties": "accent-color: #000;\n"
+      },
+      {
+        "Class": "accent-white",
+        "Properties": "accent-color: #fff;\n"
+      },
+      {
+        "Class": "accent-slate-50",
+        "Properties": "accent-color: #f8fafc;\n"
+      },
+      {
+        "Class": "accent-slate-100",
+        "Properties": "accent-color: #f1f5f9;\n"
+      },
+      {
+        "Class": "accent-slate-200",
+        "Properties": "accent-color: #e2e8f0;\n"
+      },
+      {
+        "Class": "accent-slate-300",
+        "Properties": "accent-color: #cbd5e1;\n"
+      },
+      {
+        "Class": "accent-slate-400",
+        "Properties": "accent-color: #94a3b8;\n"
+      },
+      {
+        "Class": "accent-slate-500",
+        "Properties": "accent-color: #64748b;\n"
+      },
+      {
+        "Class": "accent-slate-600",
+        "Properties": "accent-color: #475569;\n"
+      },
+      {
+        "Class": "accent-slate-700",
+        "Properties": "accent-color: #334155;\n"
+      },
+      {
+        "Class": "accent-slate-800",
+        "Properties": "accent-color: #1e293b;\n"
+      },
+      {
+        "Class": "accent-slate-900",
+        "Properties": "accent-color: #0f172a;\n"
+      },
+      {
+        "Class": "accent-gray-50",
+        "Properties": "accent-color: #f9fafb;\n"
+      },
+      {
+        "Class": "accent-gray-100",
+        "Properties": "accent-color: #f3f4f6;\n"
+      },
+      {
+        "Class": "accent-gray-200",
+        "Properties": "accent-color: #e5e7eb;\n"
+      },
+      {
+        "Class": "accent-gray-300",
+        "Properties": "accent-color: #d1d5db;\n"
+      },
+      {
+        "Class": "accent-gray-400",
+        "Properties": "accent-color: #9ca3af;\n"
+      },
+      {
+        "Class": "accent-gray-500",
+        "Properties": "accent-color: #6b7280;\n"
+      },
+      {
+        "Class": "accent-gray-600",
+        "Properties": "accent-color: #4b5563;\n"
+      },
+      {
+        "Class": "accent-gray-700",
+        "Properties": "accent-color: #374151;\n"
+      },
+      {
+        "Class": "accent-gray-800",
+        "Properties": "accent-color: #1f2937;\n"
+      },
+      {
+        "Class": "accent-gray-900",
+        "Properties": "accent-color: #111827;\n"
+      },
+      {
+        "Class": "accent-zinc-50",
+        "Properties": "accent-color: #fafafa;\n"
+      },
+      {
+        "Class": "accent-zinc-100",
+        "Properties": "accent-color: #f4f4f5;\n"
+      },
+      {
+        "Class": "accent-zinc-200",
+        "Properties": "accent-color: #e4e4e7;\n"
+      },
+      {
+        "Class": "accent-zinc-300",
+        "Properties": "accent-color: #d4d4d8;\n"
+      },
+      {
+        "Class": "accent-zinc-400",
+        "Properties": "accent-color: #a1a1aa;\n"
+      },
+      {
+        "Class": "accent-zinc-500",
+        "Properties": "accent-color: #71717a;\n"
+      },
+      {
+        "Class": "accent-zinc-600",
+        "Properties": "accent-color: #52525b;\n"
+      },
+      {
+        "Class": "accent-zinc-700",
+        "Properties": "accent-color: #3f3f46;\n"
+      },
+      {
+        "Class": "accent-zinc-800",
+        "Properties": "accent-color: #27272a;\n"
+      },
+      {
+        "Class": "accent-zinc-900",
+        "Properties": "accent-color: #18181b;\n"
+      },
+      {
+        "Class": "accent-neutral-50",
+        "Properties": "accent-color: #fafafa;\n"
+      },
+      {
+        "Class": "accent-neutral-100",
+        "Properties": "accent-color: #f5f5f5;\n"
+      },
+      {
+        "Class": "accent-neutral-200",
+        "Properties": "accent-color: #e5e5e5;\n"
+      },
+      {
+        "Class": "accent-neutral-300",
+        "Properties": "accent-color: #d4d4d4;\n"
+      },
+      {
+        "Class": "accent-neutral-400",
+        "Properties": "accent-color: #a3a3a3;\n"
+      },
+      {
+        "Class": "accent-neutral-500",
+        "Properties": "accent-color: #737373;\n"
+      },
+      {
+        "Class": "accent-neutral-600",
+        "Properties": "accent-color: #525252;\n"
+      },
+      {
+        "Class": "accent-neutral-700",
+        "Properties": "accent-color: #404040;\n"
+      },
+      {
+        "Class": "accent-neutral-800",
+        "Properties": "accent-color: #262626;\n"
+      },
+      {
+        "Class": "accent-neutral-900",
+        "Properties": "accent-color: #171717;\n"
+      },
+      {
+        "Class": "accent-stone-50",
+        "Properties": "accent-color: #fafaf9;\n"
+      },
+      {
+        "Class": "accent-stone-100",
+        "Properties": "accent-color: #f5f5f4;\n"
+      },
+      {
+        "Class": "accent-stone-200",
+        "Properties": "accent-color: #e7e5e4;\n"
+      },
+      {
+        "Class": "accent-stone-300",
+        "Properties": "accent-color: #d6d3d1;\n"
+      },
+      {
+        "Class": "accent-stone-400",
+        "Properties": "accent-color: #a8a29e;\n"
+      },
+      {
+        "Class": "accent-stone-500",
+        "Properties": "accent-color: #78716c;\n"
+      },
+      {
+        "Class": "accent-stone-600",
+        "Properties": "accent-color: #57534e;\n"
+      },
+      {
+        "Class": "accent-stone-700",
+        "Properties": "accent-color: #44403c;\n"
+      },
+      {
+        "Class": "accent-stone-800",
+        "Properties": "accent-color: #292524;\n"
+      },
+      {
+        "Class": "accent-stone-900",
+        "Properties": "accent-color: #1c1917;\n"
+      },
+      {
+        "Class": "accent-red-50",
+        "Properties": "accent-color: #fef2f2;\n"
+      },
+      {
+        "Class": "accent-red-100",
+        "Properties": "accent-color: #fee2e2;\n"
+      },
+      {
+        "Class": "accent-red-200",
+        "Properties": "accent-color: #fecaca;\n"
+      },
+      {
+        "Class": "accent-red-300",
+        "Properties": "accent-color: #fca5a5;\n"
+      },
+      {
+        "Class": "accent-red-400",
+        "Properties": "accent-color: #f87171;\n"
+      },
+      {
+        "Class": "accent-red-500",
+        "Properties": "accent-color: #ef4444;\n"
+      },
+      {
+        "Class": "accent-red-600",
+        "Properties": "accent-color: #dc2626;\n"
+      },
+      {
+        "Class": "accent-red-700",
+        "Properties": "accent-color: #b91c1c;\n"
+      },
+      {
+        "Class": "accent-red-800",
+        "Properties": "accent-color: #991b1b;\n"
+      },
+      {
+        "Class": "accent-red-900",
+        "Properties": "accent-color: #7f1d1d;\n"
+      },
+      {
+        "Class": "accent-orange-50",
+        "Properties": "accent-color: #fff7ed;\n"
+      },
+      {
+        "Class": "accent-orange-100",
+        "Properties": "accent-color: #ffedd5;\n"
+      },
+      {
+        "Class": "accent-orange-200",
+        "Properties": "accent-color: #fed7aa;\n"
+      },
+      {
+        "Class": "accent-orange-300",
+        "Properties": "accent-color: #fdba74;\n"
+      },
+      {
+        "Class": "accent-orange-400",
+        "Properties": "accent-color: #fb923c;\n"
+      },
+      {
+        "Class": "accent-orange-500",
+        "Properties": "accent-color: #f97316;\n"
+      },
+      {
+        "Class": "accent-orange-600",
+        "Properties": "accent-color: #ea580c;\n"
+      },
+      {
+        "Class": "accent-orange-700",
+        "Properties": "accent-color: #c2410c;\n"
+      },
+      {
+        "Class": "accent-orange-800",
+        "Properties": "accent-color: #9a3412;\n"
+      },
+      {
+        "Class": "accent-orange-900",
+        "Properties": "accent-color: #7c2d12;\n"
+      },
+      {
+        "Class": "accent-amber-50",
+        "Properties": "accent-color: #fffbeb;\n"
+      },
+      {
+        "Class": "accent-amber-100",
+        "Properties": "accent-color: #fef3c7;\n"
+      },
+      {
+        "Class": "accent-amber-200",
+        "Properties": "accent-color: #fde68a;\n"
+      },
+      {
+        "Class": "accent-amber-300",
+        "Properties": "accent-color: #fcd34d;\n"
+      },
+      {
+        "Class": "accent-amber-400",
+        "Properties": "accent-color: #fbbf24;\n"
+      },
+      {
+        "Class": "accent-amber-500",
+        "Properties": "accent-color: #f59e0b;\n"
+      },
+      {
+        "Class": "accent-amber-600",
+        "Properties": "accent-color: #d97706;\n"
+      },
+      {
+        "Class": "accent-amber-700",
+        "Properties": "accent-color: #b45309;\n"
+      },
+      {
+        "Class": "accent-amber-800",
+        "Properties": "accent-color: #92400e;\n"
+      },
+      {
+        "Class": "accent-amber-900",
+        "Properties": "accent-color: #78350f;\n"
+      },
+      {
+        "Class": "accent-yellow-50",
+        "Properties": "accent-color: #fefce8;\n"
+      },
+      {
+        "Class": "accent-yellow-100",
+        "Properties": "accent-color: #fef9c3;\n"
+      },
+      {
+        "Class": "accent-yellow-200",
+        "Properties": "accent-color: #fef08a;\n"
+      },
+      {
+        "Class": "accent-yellow-300",
+        "Properties": "accent-color: #fde047;\n"
+      },
+      {
+        "Class": "accent-yellow-400",
+        "Properties": "accent-color: #facc15;\n"
+      },
+      {
+        "Class": "accent-yellow-500",
+        "Properties": "accent-color: #eab308;\n"
+      },
+      {
+        "Class": "accent-yellow-600",
+        "Properties": "accent-color: #ca8a04;\n"
+      },
+      {
+        "Class": "accent-yellow-700",
+        "Properties": "accent-color: #a16207;\n"
+      },
+      {
+        "Class": "accent-yellow-800",
+        "Properties": "accent-color: #854d0e;\n"
+      },
+      {
+        "Class": "accent-yellow-900",
+        "Properties": "accent-color: #713f12;\n"
+      },
+      {
+        "Class": "accent-lime-50",
+        "Properties": "accent-color: #f7fee7;\n"
+      },
+      {
+        "Class": "accent-lime-100",
+        "Properties": "accent-color: #ecfccb;\n"
+      },
+      {
+        "Class": "accent-lime-200",
+        "Properties": "accent-color: #d9f99d;\n"
+      },
+      {
+        "Class": "accent-lime-300",
+        "Properties": "accent-color: #bef264;\n"
+      },
+      {
+        "Class": "accent-lime-400",
+        "Properties": "accent-color: #a3e635;\n"
+      },
+      {
+        "Class": "accent-lime-500",
+        "Properties": "accent-color: #84cc16;\n"
+      },
+      {
+        "Class": "accent-lime-600",
+        "Properties": "accent-color: #65a30d;\n"
+      },
+      {
+        "Class": "accent-lime-700",
+        "Properties": "accent-color: #4d7c0f;\n"
+      },
+      {
+        "Class": "accent-lime-800",
+        "Properties": "accent-color: #3f6212;\n"
+      },
+      {
+        "Class": "accent-lime-900",
+        "Properties": "accent-color: #365314;\n"
+      },
+      {
+        "Class": "accent-green-50",
+        "Properties": "accent-color: #f0fdf4;\n"
+      },
+      {
+        "Class": "accent-green-100",
+        "Properties": "accent-color: #dcfce7;\n"
+      },
+      {
+        "Class": "accent-green-200",
+        "Properties": "accent-color: #bbf7d0;\n"
+      },
+      {
+        "Class": "accent-green-300",
+        "Properties": "accent-color: #86efac;\n"
+      },
+      {
+        "Class": "accent-green-400",
+        "Properties": "accent-color: #4ade80;\n"
+      },
+      {
+        "Class": "accent-green-500",
+        "Properties": "accent-color: #22c55e;\n"
+      },
+      {
+        "Class": "accent-green-600",
+        "Properties": "accent-color: #16a34a;\n"
+      },
+      {
+        "Class": "accent-green-700",
+        "Properties": "accent-color: #15803d;\n"
+      },
+      {
+        "Class": "accent-green-800",
+        "Properties": "accent-color: #166534;\n"
+      },
+      {
+        "Class": "accent-green-900",
+        "Properties": "accent-color: #14532d;\n"
+      },
+      {
+        "Class": "accent-emerald-50",
+        "Properties": "accent-color: #ecfdf5;\n"
+      },
+      {
+        "Class": "accent-emerald-100",
+        "Properties": "accent-color: #d1fae5;\n"
+      },
+      {
+        "Class": "accent-emerald-200",
+        "Properties": "accent-color: #a7f3d0;\n"
+      },
+      {
+        "Class": "accent-emerald-300",
+        "Properties": "accent-color: #6ee7b7;\n"
+      },
+      {
+        "Class": "accent-emerald-400",
+        "Properties": "accent-color: #34d399;\n"
+      },
+      {
+        "Class": "accent-emerald-500",
+        "Properties": "accent-color: #10b981;\n"
+      },
+      {
+        "Class": "accent-emerald-600",
+        "Properties": "accent-color: #059669;\n"
+      },
+      {
+        "Class": "accent-emerald-700",
+        "Properties": "accent-color: #047857;\n"
+      },
+      {
+        "Class": "accent-emerald-800",
+        "Properties": "accent-color: #065f46;\n"
+      },
+      {
+        "Class": "accent-emerald-900",
+        "Properties": "accent-color: #064e3b;\n"
+      },
+      {
+        "Class": "accent-teal-50",
+        "Properties": "accent-color: #f0fdfa;\n"
+      },
+      {
+        "Class": "accent-teal-100",
+        "Properties": "accent-color: #ccfbf1;\n"
+      },
+      {
+        "Class": "accent-teal-200",
+        "Properties": "accent-color: #99f6e4;\n"
+      },
+      {
+        "Class": "accent-teal-300",
+        "Properties": "accent-color: #5eead4;\n"
+      },
+      {
+        "Class": "accent-teal-400",
+        "Properties": "accent-color: #2dd4bf;\n"
+      },
+      {
+        "Class": "accent-teal-500",
+        "Properties": "accent-color: #14b8a6;\n"
+      },
+      {
+        "Class": "accent-teal-600",
+        "Properties": "accent-color: #0d9488;\n"
+      },
+      {
+        "Class": "accent-teal-700",
+        "Properties": "accent-color: #0f766e;\n"
+      },
+      {
+        "Class": "accent-teal-800",
+        "Properties": "accent-color: #115e59;\n"
+      },
+      {
+        "Class": "accent-teal-900",
+        "Properties": "accent-color: #134e4a;\n"
+      },
+      {
+        "Class": "accent-cyan-50",
+        "Properties": "accent-color: #ecfeff;\n"
+      },
+      {
+        "Class": "accent-cyan-100",
+        "Properties": "accent-color: #cffafe;\n"
+      },
+      {
+        "Class": "accent-cyan-200",
+        "Properties": "accent-color: #a5f3fc;\n"
+      },
+      {
+        "Class": "accent-cyan-300",
+        "Properties": "accent-color: #67e8f9;\n"
+      },
+      {
+        "Class": "accent-cyan-400",
+        "Properties": "accent-color: #22d3ee;\n"
+      },
+      {
+        "Class": "accent-cyan-500",
+        "Properties": "accent-color: #06b6d4;\n"
+      },
+      {
+        "Class": "accent-cyan-600",
+        "Properties": "accent-color: #0891b2;\n"
+      },
+      {
+        "Class": "accent-cyan-700",
+        "Properties": "accent-color: #0e7490;\n"
+      },
+      {
+        "Class": "accent-cyan-800",
+        "Properties": "accent-color: #155e75;\n"
+      },
+      {
+        "Class": "accent-cyan-900",
+        "Properties": "accent-color: #164e63;\n"
+      },
+      {
+        "Class": "accent-sky-50",
+        "Properties": "accent-color: #f0f9ff;\n"
+      },
+      {
+        "Class": "accent-sky-100",
+        "Properties": "accent-color: #e0f2fe;\n"
+      },
+      {
+        "Class": "accent-sky-200",
+        "Properties": "accent-color: #bae6fd;\n"
+      },
+      {
+        "Class": "accent-sky-300",
+        "Properties": "accent-color: #7dd3fc;\n"
+      },
+      {
+        "Class": "accent-sky-400",
+        "Properties": "accent-color: #38bdf8;\n"
+      },
+      {
+        "Class": "accent-sky-500",
+        "Properties": "accent-color: #0ea5e9;\n"
+      },
+      {
+        "Class": "accent-sky-600",
+        "Properties": "accent-color: #0284c7;\n"
+      },
+      {
+        "Class": "accent-sky-700",
+        "Properties": "accent-color: #0369a1;\n"
+      },
+      {
+        "Class": "accent-sky-800",
+        "Properties": "accent-color: #075985;\n"
+      },
+      {
+        "Class": "accent-sky-900",
+        "Properties": "accent-color: #0c4a6e;\n"
+      },
+      {
+        "Class": "accent-blue-50",
+        "Properties": "accent-color: #eff6ff;\n"
+      },
+      {
+        "Class": "accent-blue-100",
+        "Properties": "accent-color: #dbeafe;\n"
+      },
+      {
+        "Class": "accent-blue-200",
+        "Properties": "accent-color: #bfdbfe;\n"
+      },
+      {
+        "Class": "accent-blue-300",
+        "Properties": "accent-color: #93c5fd;\n"
+      },
+      {
+        "Class": "accent-blue-400",
+        "Properties": "accent-color: #60a5fa;\n"
+      },
+      {
+        "Class": "accent-blue-500",
+        "Properties": "accent-color: #3b82f6;\n"
+      },
+      {
+        "Class": "accent-blue-600",
+        "Properties": "accent-color: #2563eb;\n"
+      },
+      {
+        "Class": "accent-blue-700",
+        "Properties": "accent-color: #1d4ed8;\n"
+      },
+      {
+        "Class": "accent-blue-800",
+        "Properties": "accent-color: #1e40af;\n"
+      },
+      {
+        "Class": "accent-blue-900",
+        "Properties": "accent-color: #1e3a8a;\n"
+      },
+      {
+        "Class": "accent-indigo-50",
+        "Properties": "accent-color: #eef2ff;\n"
+      },
+      {
+        "Class": "accent-indigo-100",
+        "Properties": "accent-color: #e0e7ff;\n"
+      },
+      {
+        "Class": "accent-indigo-200",
+        "Properties": "accent-color: #c7d2fe;\n"
+      },
+      {
+        "Class": "accent-indigo-300",
+        "Properties": "accent-color: #a5b4fc;\n"
+      },
+      {
+        "Class": "accent-indigo-400",
+        "Properties": "accent-color: #818cf8;\n"
+      },
+      {
+        "Class": "accent-indigo-500",
+        "Properties": "accent-color: #6366f1;\n"
+      },
+      {
+        "Class": "accent-indigo-600",
+        "Properties": "accent-color: #4f46e5;\n"
+      },
+      {
+        "Class": "accent-indigo-700",
+        "Properties": "accent-color: #4338ca;\n"
+      },
+      {
+        "Class": "accent-indigo-800",
+        "Properties": "accent-color: #3730a3;\n"
+      },
+      {
+        "Class": "accent-indigo-900",
+        "Properties": "accent-color: #312e81;\n"
+      },
+      {
+        "Class": "accent-violet-50",
+        "Properties": "accent-color: #f5f3ff;\n"
+      },
+      {
+        "Class": "accent-violet-100",
+        "Properties": "accent-color: #ede9fe;\n"
+      },
+      {
+        "Class": "accent-violet-200",
+        "Properties": "accent-color: #ddd6fe;\n"
+      },
+      {
+        "Class": "accent-violet-300",
+        "Properties": "accent-color: #c4b5fd;\n"
+      },
+      {
+        "Class": "accent-violet-400",
+        "Properties": "accent-color: #a78bfa;\n"
+      },
+      {
+        "Class": "accent-violet-500",
+        "Properties": "accent-color: #8b5cf6;\n"
+      },
+      {
+        "Class": "accent-violet-600",
+        "Properties": "accent-color: #7c3aed;\n"
+      },
+      {
+        "Class": "accent-violet-700",
+        "Properties": "accent-color: #6d28d9;\n"
+      },
+      {
+        "Class": "accent-violet-800",
+        "Properties": "accent-color: #5b21b6;\n"
+      },
+      {
+        "Class": "accent-violet-900",
+        "Properties": "accent-color: #4c1d95;\n"
+      },
+      {
+        "Class": "accent-purple-50",
+        "Properties": "accent-color: #faf5ff;\n"
+      },
+      {
+        "Class": "accent-purple-100",
+        "Properties": "accent-color: #f3e8ff;\n"
+      },
+      {
+        "Class": "accent-purple-200",
+        "Properties": "accent-color: #e9d5ff;\n"
+      },
+      {
+        "Class": "accent-purple-300",
+        "Properties": "accent-color: #d8b4fe;\n"
+      },
+      {
+        "Class": "accent-purple-400",
+        "Properties": "accent-color: #c084fc;\n"
+      },
+      {
+        "Class": "accent-purple-500",
+        "Properties": "accent-color: #a855f7;\n"
+      },
+      {
+        "Class": "accent-purple-600",
+        "Properties": "accent-color: #9333ea;\n"
+      },
+      {
+        "Class": "accent-purple-700",
+        "Properties": "accent-color: #7e22ce;\n"
+      },
+      {
+        "Class": "accent-purple-800",
+        "Properties": "accent-color: #6b21a8;\n"
+      },
+      {
+        "Class": "accent-purple-900",
+        "Properties": "accent-color: #581c87;\n"
+      },
+      {
+        "Class": "accent-fuchsia-50",
+        "Properties": "accent-color: #fdf4ff;\n"
+      },
+      {
+        "Class": "accent-fuchsia-100",
+        "Properties": "accent-color: #fae8ff;\n"
+      },
+      {
+        "Class": "accent-fuchsia-200",
+        "Properties": "accent-color: #f5d0fe;\n"
+      },
+      {
+        "Class": "accent-fuchsia-300",
+        "Properties": "accent-color: #f0abfc;\n"
+      },
+      {
+        "Class": "accent-fuchsia-400",
+        "Properties": "accent-color: #e879f9;\n"
+      },
+      {
+        "Class": "accent-fuchsia-500",
+        "Properties": "accent-color: #d946ef;\n"
+      },
+      {
+        "Class": "accent-fuchsia-600",
+        "Properties": "accent-color: #c026d3;\n"
+      },
+      {
+        "Class": "accent-fuchsia-700",
+        "Properties": "accent-color: #a21caf;\n"
+      },
+      {
+        "Class": "accent-fuchsia-800",
+        "Properties": "accent-color: #86198f;\n"
+      },
+      {
+        "Class": "accent-fuchsia-900",
+        "Properties": "accent-color: #701a75;\n"
+      },
+      {
+        "Class": "accent-pink-50",
+        "Properties": "accent-color: #fdf2f8;\n"
+      },
+      {
+        "Class": "accent-pink-100",
+        "Properties": "accent-color: #fce7f3;\n"
+      },
+      {
+        "Class": "accent-pink-200",
+        "Properties": "accent-color: #fbcfe8;\n"
+      },
+      {
+        "Class": "accent-pink-300",
+        "Properties": "accent-color: #f9a8d4;\n"
+      },
+      {
+        "Class": "accent-pink-400",
+        "Properties": "accent-color: #f472b6;\n"
+      },
+      {
+        "Class": "accent-pink-500",
+        "Properties": "accent-color: #ec4899;\n"
+      },
+      {
+        "Class": "accent-pink-600",
+        "Properties": "accent-color: #db2777;\n"
+      },
+      {
+        "Class": "accent-pink-700",
+        "Properties": "accent-color: #be185d;\n"
+      },
+      {
+        "Class": "accent-pink-800",
+        "Properties": "accent-color: #9d174d;\n"
+      },
+      {
+        "Class": "accent-pink-900",
+        "Properties": "accent-color: #831843;\n"
+      },
+      {
+        "Class": "accent-rose-50",
+        "Properties": "accent-color: #fff1f2;\n"
+      },
+      {
+        "Class": "accent-rose-100",
+        "Properties": "accent-color: #ffe4e6;\n"
+      },
+      {
+        "Class": "accent-rose-200",
+        "Properties": "accent-color: #fecdd3;\n"
+      },
+      {
+        "Class": "accent-rose-300",
+        "Properties": "accent-color: #fda4af;\n"
+      },
+      {
+        "Class": "accent-rose-400",
+        "Properties": "accent-color: #fb7185;\n"
+      },
+      {
+        "Class": "accent-rose-500",
+        "Properties": "accent-color: #f43f5e;\n"
+      },
+      {
+        "Class": "accent-rose-600",
+        "Properties": "accent-color: #e11d48;\n"
+      },
+      {
+        "Class": "accent-rose-700",
+        "Properties": "accent-color: #be123c;\n"
+      },
+      {
+        "Class": "accent-rose-800",
+        "Properties": "accent-color: #9f1239;\n"
+      },
+      {
+        "Class": "accent-rose-900",
+        "Properties": "accent-color: #881337;\n"
+      },
+      {
+        "Class": "accent-auto",
+        "Properties": "accent-color: auto;\n"
+      }
+    ]
+  },
+  {
+    "name": "Appearance",
+    "table": [
+      {
+        "Class": "appearance-none",
+        "Properties": "appearance: none;\n"
+      }
+    ]
+  },
+  {
+    "name": "Cursor",
+    "table": [
+      {
+        "Class": "cursor-auto",
+        "Properties": "cursor: auto;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-default",
+        "Properties": "cursor: default;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-pointer",
+        "Properties": "cursor: pointer;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-wait",
+        "Properties": "cursor: wait;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-text",
+        "Properties": "cursor: text;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-move",
+        "Properties": "cursor: move;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-help",
+        "Properties": "cursor: help;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-not-allowed",
+        "Properties": "cursor: not-allowed;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-none",
+        "Properties": "cursor: none;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-context-menu",
+        "Properties": "cursor: context-menu;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-progress",
+        "Properties": "cursor: progress;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-cell",
+        "Properties": "cursor: cell;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-crosshair",
+        "Properties": "cursor: crosshair;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-vertical-text",
+        "Properties": "cursor: vertical-text;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-alias",
+        "Properties": "cursor: alias;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-copy",
+        "Properties": "cursor: copy;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-no-drop",
+        "Properties": "cursor: no-drop;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-grab",
+        "Properties": "cursor: grab;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-grabbing",
+        "Properties": "cursor: grabbing;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-all-scroll",
+        "Properties": "cursor: all-scroll;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-col-resize",
+        "Properties": "cursor: col-resize;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-row-resize",
+        "Properties": "cursor: row-resize;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-n-resize",
+        "Properties": "cursor: n-resize;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-e-resize",
+        "Properties": "cursor: e-resize;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-s-resize",
+        "Properties": "cursor: s-resize;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-w-resize",
+        "Properties": "cursor: w-resize;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-ne-resize",
+        "Properties": "cursor: ne-resize;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-nw-resize",
+        "Properties": "cursor: nw-resize;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-se-resize",
+        "Properties": "cursor: se-resize;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-sw-resize",
+        "Properties": "cursor: sw-resize;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-ew-resize",
+        "Properties": "cursor: ew-resize;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-ns-resize",
+        "Properties": "cursor: ns-resize;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-nesw-resize",
+        "Properties": "cursor: nesw-resize;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-nwse-resize",
+        "Properties": "cursor: nwse-resize;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-zoom-in",
+        "Properties": "cursor: zoom-in;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      },
+      {
+        "Class": "cursor-zoom-out",
+        "Properties": "cursor: zoom-out;\n",
+        "<span class=\"sr-only\">Preview</span>&nbsp;": ""
+      }
+    ]
+  },
+  {
+    "name": "Caret Color",
+    "table": [
+      {
+        "Class": "caret-inherit",
+        "Properties": "caret-color: inherit;\n"
+      },
+      {
+        "Class": "caret-current",
+        "Properties": "caret-color: currentColor;\n"
+      },
+      {
+        "Class": "caret-transparent",
+        "Properties": "caret-color: transparent;\n"
+      },
+      {
+        "Class": "caret-black",
+        "Properties": "caret-color: #000;\n"
+      },
+      {
+        "Class": "caret-white",
+        "Properties": "caret-color: #fff;\n"
+      },
+      {
+        "Class": "caret-slate-50",
+        "Properties": "caret-color: #f8fafc;\n"
+      },
+      {
+        "Class": "caret-slate-100",
+        "Properties": "caret-color: #f1f5f9;\n"
+      },
+      {
+        "Class": "caret-slate-200",
+        "Properties": "caret-color: #e2e8f0;\n"
+      },
+      {
+        "Class": "caret-slate-300",
+        "Properties": "caret-color: #cbd5e1;\n"
+      },
+      {
+        "Class": "caret-slate-400",
+        "Properties": "caret-color: #94a3b8;\n"
+      },
+      {
+        "Class": "caret-slate-500",
+        "Properties": "caret-color: #64748b;\n"
+      },
+      {
+        "Class": "caret-slate-600",
+        "Properties": "caret-color: #475569;\n"
+      },
+      {
+        "Class": "caret-slate-700",
+        "Properties": "caret-color: #334155;\n"
+      },
+      {
+        "Class": "caret-slate-800",
+        "Properties": "caret-color: #1e293b;\n"
+      },
+      {
+        "Class": "caret-slate-900",
+        "Properties": "caret-color: #0f172a;\n"
+      },
+      {
+        "Class": "caret-gray-50",
+        "Properties": "caret-color: #f9fafb;\n"
+      },
+      {
+        "Class": "caret-gray-100",
+        "Properties": "caret-color: #f3f4f6;\n"
+      },
+      {
+        "Class": "caret-gray-200",
+        "Properties": "caret-color: #e5e7eb;\n"
+      },
+      {
+        "Class": "caret-gray-300",
+        "Properties": "caret-color: #d1d5db;\n"
+      },
+      {
+        "Class": "caret-gray-400",
+        "Properties": "caret-color: #9ca3af;\n"
+      },
+      {
+        "Class": "caret-gray-500",
+        "Properties": "caret-color: #6b7280;\n"
+      },
+      {
+        "Class": "caret-gray-600",
+        "Properties": "caret-color: #4b5563;\n"
+      },
+      {
+        "Class": "caret-gray-700",
+        "Properties": "caret-color: #374151;\n"
+      },
+      {
+        "Class": "caret-gray-800",
+        "Properties": "caret-color: #1f2937;\n"
+      },
+      {
+        "Class": "caret-gray-900",
+        "Properties": "caret-color: #111827;\n"
+      },
+      {
+        "Class": "caret-zinc-50",
+        "Properties": "caret-color: #fafafa;\n"
+      },
+      {
+        "Class": "caret-zinc-100",
+        "Properties": "caret-color: #f4f4f5;\n"
+      },
+      {
+        "Class": "caret-zinc-200",
+        "Properties": "caret-color: #e4e4e7;\n"
+      },
+      {
+        "Class": "caret-zinc-300",
+        "Properties": "caret-color: #d4d4d8;\n"
+      },
+      {
+        "Class": "caret-zinc-400",
+        "Properties": "caret-color: #a1a1aa;\n"
+      },
+      {
+        "Class": "caret-zinc-500",
+        "Properties": "caret-color: #71717a;\n"
+      },
+      {
+        "Class": "caret-zinc-600",
+        "Properties": "caret-color: #52525b;\n"
+      },
+      {
+        "Class": "caret-zinc-700",
+        "Properties": "caret-color: #3f3f46;\n"
+      },
+      {
+        "Class": "caret-zinc-800",
+        "Properties": "caret-color: #27272a;\n"
+      },
+      {
+        "Class": "caret-zinc-900",
+        "Properties": "caret-color: #18181b;\n"
+      },
+      {
+        "Class": "caret-neutral-50",
+        "Properties": "caret-color: #fafafa;\n"
+      },
+      {
+        "Class": "caret-neutral-100",
+        "Properties": "caret-color: #f5f5f5;\n"
+      },
+      {
+        "Class": "caret-neutral-200",
+        "Properties": "caret-color: #e5e5e5;\n"
+      },
+      {
+        "Class": "caret-neutral-300",
+        "Properties": "caret-color: #d4d4d4;\n"
+      },
+      {
+        "Class": "caret-neutral-400",
+        "Properties": "caret-color: #a3a3a3;\n"
+      },
+      {
+        "Class": "caret-neutral-500",
+        "Properties": "caret-color: #737373;\n"
+      },
+      {
+        "Class": "caret-neutral-600",
+        "Properties": "caret-color: #525252;\n"
+      },
+      {
+        "Class": "caret-neutral-700",
+        "Properties": "caret-color: #404040;\n"
+      },
+      {
+        "Class": "caret-neutral-800",
+        "Properties": "caret-color: #262626;\n"
+      },
+      {
+        "Class": "caret-neutral-900",
+        "Properties": "caret-color: #171717;\n"
+      },
+      {
+        "Class": "caret-stone-50",
+        "Properties": "caret-color: #fafaf9;\n"
+      },
+      {
+        "Class": "caret-stone-100",
+        "Properties": "caret-color: #f5f5f4;\n"
+      },
+      {
+        "Class": "caret-stone-200",
+        "Properties": "caret-color: #e7e5e4;\n"
+      },
+      {
+        "Class": "caret-stone-300",
+        "Properties": "caret-color: #d6d3d1;\n"
+      },
+      {
+        "Class": "caret-stone-400",
+        "Properties": "caret-color: #a8a29e;\n"
+      },
+      {
+        "Class": "caret-stone-500",
+        "Properties": "caret-color: #78716c;\n"
+      },
+      {
+        "Class": "caret-stone-600",
+        "Properties": "caret-color: #57534e;\n"
+      },
+      {
+        "Class": "caret-stone-700",
+        "Properties": "caret-color: #44403c;\n"
+      },
+      {
+        "Class": "caret-stone-800",
+        "Properties": "caret-color: #292524;\n"
+      },
+      {
+        "Class": "caret-stone-900",
+        "Properties": "caret-color: #1c1917;\n"
+      },
+      {
+        "Class": "caret-red-50",
+        "Properties": "caret-color: #fef2f2;\n"
+      },
+      {
+        "Class": "caret-red-100",
+        "Properties": "caret-color: #fee2e2;\n"
+      },
+      {
+        "Class": "caret-red-200",
+        "Properties": "caret-color: #fecaca;\n"
+      },
+      {
+        "Class": "caret-red-300",
+        "Properties": "caret-color: #fca5a5;\n"
+      },
+      {
+        "Class": "caret-red-400",
+        "Properties": "caret-color: #f87171;\n"
+      },
+      {
+        "Class": "caret-red-500",
+        "Properties": "caret-color: #ef4444;\n"
+      },
+      {
+        "Class": "caret-red-600",
+        "Properties": "caret-color: #dc2626;\n"
+      },
+      {
+        "Class": "caret-red-700",
+        "Properties": "caret-color: #b91c1c;\n"
+      },
+      {
+        "Class": "caret-red-800",
+        "Properties": "caret-color: #991b1b;\n"
+      },
+      {
+        "Class": "caret-red-900",
+        "Properties": "caret-color: #7f1d1d;\n"
+      },
+      {
+        "Class": "caret-orange-50",
+        "Properties": "caret-color: #fff7ed;\n"
+      },
+      {
+        "Class": "caret-orange-100",
+        "Properties": "caret-color: #ffedd5;\n"
+      },
+      {
+        "Class": "caret-orange-200",
+        "Properties": "caret-color: #fed7aa;\n"
+      },
+      {
+        "Class": "caret-orange-300",
+        "Properties": "caret-color: #fdba74;\n"
+      },
+      {
+        "Class": "caret-orange-400",
+        "Properties": "caret-color: #fb923c;\n"
+      },
+      {
+        "Class": "caret-orange-500",
+        "Properties": "caret-color: #f97316;\n"
+      },
+      {
+        "Class": "caret-orange-600",
+        "Properties": "caret-color: #ea580c;\n"
+      },
+      {
+        "Class": "caret-orange-700",
+        "Properties": "caret-color: #c2410c;\n"
+      },
+      {
+        "Class": "caret-orange-800",
+        "Properties": "caret-color: #9a3412;\n"
+      },
+      {
+        "Class": "caret-orange-900",
+        "Properties": "caret-color: #7c2d12;\n"
+      },
+      {
+        "Class": "caret-amber-50",
+        "Properties": "caret-color: #fffbeb;\n"
+      },
+      {
+        "Class": "caret-amber-100",
+        "Properties": "caret-color: #fef3c7;\n"
+      },
+      {
+        "Class": "caret-amber-200",
+        "Properties": "caret-color: #fde68a;\n"
+      },
+      {
+        "Class": "caret-amber-300",
+        "Properties": "caret-color: #fcd34d;\n"
+      },
+      {
+        "Class": "caret-amber-400",
+        "Properties": "caret-color: #fbbf24;\n"
+      },
+      {
+        "Class": "caret-amber-500",
+        "Properties": "caret-color: #f59e0b;\n"
+      },
+      {
+        "Class": "caret-amber-600",
+        "Properties": "caret-color: #d97706;\n"
+      },
+      {
+        "Class": "caret-amber-700",
+        "Properties": "caret-color: #b45309;\n"
+      },
+      {
+        "Class": "caret-amber-800",
+        "Properties": "caret-color: #92400e;\n"
+      },
+      {
+        "Class": "caret-amber-900",
+        "Properties": "caret-color: #78350f;\n"
+      },
+      {
+        "Class": "caret-yellow-50",
+        "Properties": "caret-color: #fefce8;\n"
+      },
+      {
+        "Class": "caret-yellow-100",
+        "Properties": "caret-color: #fef9c3;\n"
+      },
+      {
+        "Class": "caret-yellow-200",
+        "Properties": "caret-color: #fef08a;\n"
+      },
+      {
+        "Class": "caret-yellow-300",
+        "Properties": "caret-color: #fde047;\n"
+      },
+      {
+        "Class": "caret-yellow-400",
+        "Properties": "caret-color: #facc15;\n"
+      },
+      {
+        "Class": "caret-yellow-500",
+        "Properties": "caret-color: #eab308;\n"
+      },
+      {
+        "Class": "caret-yellow-600",
+        "Properties": "caret-color: #ca8a04;\n"
+      },
+      {
+        "Class": "caret-yellow-700",
+        "Properties": "caret-color: #a16207;\n"
+      },
+      {
+        "Class": "caret-yellow-800",
+        "Properties": "caret-color: #854d0e;\n"
+      },
+      {
+        "Class": "caret-yellow-900",
+        "Properties": "caret-color: #713f12;\n"
+      },
+      {
+        "Class": "caret-lime-50",
+        "Properties": "caret-color: #f7fee7;\n"
+      },
+      {
+        "Class": "caret-lime-100",
+        "Properties": "caret-color: #ecfccb;\n"
+      },
+      {
+        "Class": "caret-lime-200",
+        "Properties": "caret-color: #d9f99d;\n"
+      },
+      {
+        "Class": "caret-lime-300",
+        "Properties": "caret-color: #bef264;\n"
+      },
+      {
+        "Class": "caret-lime-400",
+        "Properties": "caret-color: #a3e635;\n"
+      },
+      {
+        "Class": "caret-lime-500",
+        "Properties": "caret-color: #84cc16;\n"
+      },
+      {
+        "Class": "caret-lime-600",
+        "Properties": "caret-color: #65a30d;\n"
+      },
+      {
+        "Class": "caret-lime-700",
+        "Properties": "caret-color: #4d7c0f;\n"
+      },
+      {
+        "Class": "caret-lime-800",
+        "Properties": "caret-color: #3f6212;\n"
+      },
+      {
+        "Class": "caret-lime-900",
+        "Properties": "caret-color: #365314;\n"
+      },
+      {
+        "Class": "caret-green-50",
+        "Properties": "caret-color: #f0fdf4;\n"
+      },
+      {
+        "Class": "caret-green-100",
+        "Properties": "caret-color: #dcfce7;\n"
+      },
+      {
+        "Class": "caret-green-200",
+        "Properties": "caret-color: #bbf7d0;\n"
+      },
+      {
+        "Class": "caret-green-300",
+        "Properties": "caret-color: #86efac;\n"
+      },
+      {
+        "Class": "caret-green-400",
+        "Properties": "caret-color: #4ade80;\n"
+      },
+      {
+        "Class": "caret-green-500",
+        "Properties": "caret-color: #22c55e;\n"
+      },
+      {
+        "Class": "caret-green-600",
+        "Properties": "caret-color: #16a34a;\n"
+      },
+      {
+        "Class": "caret-green-700",
+        "Properties": "caret-color: #15803d;\n"
+      },
+      {
+        "Class": "caret-green-800",
+        "Properties": "caret-color: #166534;\n"
+      },
+      {
+        "Class": "caret-green-900",
+        "Properties": "caret-color: #14532d;\n"
+      },
+      {
+        "Class": "caret-emerald-50",
+        "Properties": "caret-color: #ecfdf5;\n"
+      },
+      {
+        "Class": "caret-emerald-100",
+        "Properties": "caret-color: #d1fae5;\n"
+      },
+      {
+        "Class": "caret-emerald-200",
+        "Properties": "caret-color: #a7f3d0;\n"
+      },
+      {
+        "Class": "caret-emerald-300",
+        "Properties": "caret-color: #6ee7b7;\n"
+      },
+      {
+        "Class": "caret-emerald-400",
+        "Properties": "caret-color: #34d399;\n"
+      },
+      {
+        "Class": "caret-emerald-500",
+        "Properties": "caret-color: #10b981;\n"
+      },
+      {
+        "Class": "caret-emerald-600",
+        "Properties": "caret-color: #059669;\n"
+      },
+      {
+        "Class": "caret-emerald-700",
+        "Properties": "caret-color: #047857;\n"
+      },
+      {
+        "Class": "caret-emerald-800",
+        "Properties": "caret-color: #065f46;\n"
+      },
+      {
+        "Class": "caret-emerald-900",
+        "Properties": "caret-color: #064e3b;\n"
+      },
+      {
+        "Class": "caret-teal-50",
+        "Properties": "caret-color: #f0fdfa;\n"
+      },
+      {
+        "Class": "caret-teal-100",
+        "Properties": "caret-color: #ccfbf1;\n"
+      },
+      {
+        "Class": "caret-teal-200",
+        "Properties": "caret-color: #99f6e4;\n"
+      },
+      {
+        "Class": "caret-teal-300",
+        "Properties": "caret-color: #5eead4;\n"
+      },
+      {
+        "Class": "caret-teal-400",
+        "Properties": "caret-color: #2dd4bf;\n"
+      },
+      {
+        "Class": "caret-teal-500",
+        "Properties": "caret-color: #14b8a6;\n"
+      },
+      {
+        "Class": "caret-teal-600",
+        "Properties": "caret-color: #0d9488;\n"
+      },
+      {
+        "Class": "caret-teal-700",
+        "Properties": "caret-color: #0f766e;\n"
+      },
+      {
+        "Class": "caret-teal-800",
+        "Properties": "caret-color: #115e59;\n"
+      },
+      {
+        "Class": "caret-teal-900",
+        "Properties": "caret-color: #134e4a;\n"
+      },
+      {
+        "Class": "caret-cyan-50",
+        "Properties": "caret-color: #ecfeff;\n"
+      },
+      {
+        "Class": "caret-cyan-100",
+        "Properties": "caret-color: #cffafe;\n"
+      },
+      {
+        "Class": "caret-cyan-200",
+        "Properties": "caret-color: #a5f3fc;\n"
+      },
+      {
+        "Class": "caret-cyan-300",
+        "Properties": "caret-color: #67e8f9;\n"
+      },
+      {
+        "Class": "caret-cyan-400",
+        "Properties": "caret-color: #22d3ee;\n"
+      },
+      {
+        "Class": "caret-cyan-500",
+        "Properties": "caret-color: #06b6d4;\n"
+      },
+      {
+        "Class": "caret-cyan-600",
+        "Properties": "caret-color: #0891b2;\n"
+      },
+      {
+        "Class": "caret-cyan-700",
+        "Properties": "caret-color: #0e7490;\n"
+      },
+      {
+        "Class": "caret-cyan-800",
+        "Properties": "caret-color: #155e75;\n"
+      },
+      {
+        "Class": "caret-cyan-900",
+        "Properties": "caret-color: #164e63;\n"
+      },
+      {
+        "Class": "caret-sky-50",
+        "Properties": "caret-color: #f0f9ff;\n"
+      },
+      {
+        "Class": "caret-sky-100",
+        "Properties": "caret-color: #e0f2fe;\n"
+      },
+      {
+        "Class": "caret-sky-200",
+        "Properties": "caret-color: #bae6fd;\n"
+      },
+      {
+        "Class": "caret-sky-300",
+        "Properties": "caret-color: #7dd3fc;\n"
+      },
+      {
+        "Class": "caret-sky-400",
+        "Properties": "caret-color: #38bdf8;\n"
+      },
+      {
+        "Class": "caret-sky-500",
+        "Properties": "caret-color: #0ea5e9;\n"
+      },
+      {
+        "Class": "caret-sky-600",
+        "Properties": "caret-color: #0284c7;\n"
+      },
+      {
+        "Class": "caret-sky-700",
+        "Properties": "caret-color: #0369a1;\n"
+      },
+      {
+        "Class": "caret-sky-800",
+        "Properties": "caret-color: #075985;\n"
+      },
+      {
+        "Class": "caret-sky-900",
+        "Properties": "caret-color: #0c4a6e;\n"
+      },
+      {
+        "Class": "caret-blue-50",
+        "Properties": "caret-color: #eff6ff;\n"
+      },
+      {
+        "Class": "caret-blue-100",
+        "Properties": "caret-color: #dbeafe;\n"
+      },
+      {
+        "Class": "caret-blue-200",
+        "Properties": "caret-color: #bfdbfe;\n"
+      },
+      {
+        "Class": "caret-blue-300",
+        "Properties": "caret-color: #93c5fd;\n"
+      },
+      {
+        "Class": "caret-blue-400",
+        "Properties": "caret-color: #60a5fa;\n"
+      },
+      {
+        "Class": "caret-blue-500",
+        "Properties": "caret-color: #3b82f6;\n"
+      },
+      {
+        "Class": "caret-blue-600",
+        "Properties": "caret-color: #2563eb;\n"
+      },
+      {
+        "Class": "caret-blue-700",
+        "Properties": "caret-color: #1d4ed8;\n"
+      },
+      {
+        "Class": "caret-blue-800",
+        "Properties": "caret-color: #1e40af;\n"
+      },
+      {
+        "Class": "caret-blue-900",
+        "Properties": "caret-color: #1e3a8a;\n"
+      },
+      {
+        "Class": "caret-indigo-50",
+        "Properties": "caret-color: #eef2ff;\n"
+      },
+      {
+        "Class": "caret-indigo-100",
+        "Properties": "caret-color: #e0e7ff;\n"
+      },
+      {
+        "Class": "caret-indigo-200",
+        "Properties": "caret-color: #c7d2fe;\n"
+      },
+      {
+        "Class": "caret-indigo-300",
+        "Properties": "caret-color: #a5b4fc;\n"
+      },
+      {
+        "Class": "caret-indigo-400",
+        "Properties": "caret-color: #818cf8;\n"
+      },
+      {
+        "Class": "caret-indigo-500",
+        "Properties": "caret-color: #6366f1;\n"
+      },
+      {
+        "Class": "caret-indigo-600",
+        "Properties": "caret-color: #4f46e5;\n"
+      },
+      {
+        "Class": "caret-indigo-700",
+        "Properties": "caret-color: #4338ca;\n"
+      },
+      {
+        "Class": "caret-indigo-800",
+        "Properties": "caret-color: #3730a3;\n"
+      },
+      {
+        "Class": "caret-indigo-900",
+        "Properties": "caret-color: #312e81;\n"
+      },
+      {
+        "Class": "caret-violet-50",
+        "Properties": "caret-color: #f5f3ff;\n"
+      },
+      {
+        "Class": "caret-violet-100",
+        "Properties": "caret-color: #ede9fe;\n"
+      },
+      {
+        "Class": "caret-violet-200",
+        "Properties": "caret-color: #ddd6fe;\n"
+      },
+      {
+        "Class": "caret-violet-300",
+        "Properties": "caret-color: #c4b5fd;\n"
+      },
+      {
+        "Class": "caret-violet-400",
+        "Properties": "caret-color: #a78bfa;\n"
+      },
+      {
+        "Class": "caret-violet-500",
+        "Properties": "caret-color: #8b5cf6;\n"
+      },
+      {
+        "Class": "caret-violet-600",
+        "Properties": "caret-color: #7c3aed;\n"
+      },
+      {
+        "Class": "caret-violet-700",
+        "Properties": "caret-color: #6d28d9;\n"
+      },
+      {
+        "Class": "caret-violet-800",
+        "Properties": "caret-color: #5b21b6;\n"
+      },
+      {
+        "Class": "caret-violet-900",
+        "Properties": "caret-color: #4c1d95;\n"
+      },
+      {
+        "Class": "caret-purple-50",
+        "Properties": "caret-color: #faf5ff;\n"
+      },
+      {
+        "Class": "caret-purple-100",
+        "Properties": "caret-color: #f3e8ff;\n"
+      },
+      {
+        "Class": "caret-purple-200",
+        "Properties": "caret-color: #e9d5ff;\n"
+      },
+      {
+        "Class": "caret-purple-300",
+        "Properties": "caret-color: #d8b4fe;\n"
+      },
+      {
+        "Class": "caret-purple-400",
+        "Properties": "caret-color: #c084fc;\n"
+      },
+      {
+        "Class": "caret-purple-500",
+        "Properties": "caret-color: #a855f7;\n"
+      },
+      {
+        "Class": "caret-purple-600",
+        "Properties": "caret-color: #9333ea;\n"
+      },
+      {
+        "Class": "caret-purple-700",
+        "Properties": "caret-color: #7e22ce;\n"
+      },
+      {
+        "Class": "caret-purple-800",
+        "Properties": "caret-color: #6b21a8;\n"
+      },
+      {
+        "Class": "caret-purple-900",
+        "Properties": "caret-color: #581c87;\n"
+      },
+      {
+        "Class": "caret-fuchsia-50",
+        "Properties": "caret-color: #fdf4ff;\n"
+      },
+      {
+        "Class": "caret-fuchsia-100",
+        "Properties": "caret-color: #fae8ff;\n"
+      },
+      {
+        "Class": "caret-fuchsia-200",
+        "Properties": "caret-color: #f5d0fe;\n"
+      },
+      {
+        "Class": "caret-fuchsia-300",
+        "Properties": "caret-color: #f0abfc;\n"
+      },
+      {
+        "Class": "caret-fuchsia-400",
+        "Properties": "caret-color: #e879f9;\n"
+      },
+      {
+        "Class": "caret-fuchsia-500",
+        "Properties": "caret-color: #d946ef;\n"
+      },
+      {
+        "Class": "caret-fuchsia-600",
+        "Properties": "caret-color: #c026d3;\n"
+      },
+      {
+        "Class": "caret-fuchsia-700",
+        "Properties": "caret-color: #a21caf;\n"
+      },
+      {
+        "Class": "caret-fuchsia-800",
+        "Properties": "caret-color: #86198f;\n"
+      },
+      {
+        "Class": "caret-fuchsia-900",
+        "Properties": "caret-color: #701a75;\n"
+      },
+      {
+        "Class": "caret-pink-50",
+        "Properties": "caret-color: #fdf2f8;\n"
+      },
+      {
+        "Class": "caret-pink-100",
+        "Properties": "caret-color: #fce7f3;\n"
+      },
+      {
+        "Class": "caret-pink-200",
+        "Properties": "caret-color: #fbcfe8;\n"
+      },
+      {
+        "Class": "caret-pink-300",
+        "Properties": "caret-color: #f9a8d4;\n"
+      },
+      {
+        "Class": "caret-pink-400",
+        "Properties": "caret-color: #f472b6;\n"
+      },
+      {
+        "Class": "caret-pink-500",
+        "Properties": "caret-color: #ec4899;\n"
+      },
+      {
+        "Class": "caret-pink-600",
+        "Properties": "caret-color: #db2777;\n"
+      },
+      {
+        "Class": "caret-pink-700",
+        "Properties": "caret-color: #be185d;\n"
+      },
+      {
+        "Class": "caret-pink-800",
+        "Properties": "caret-color: #9d174d;\n"
+      },
+      {
+        "Class": "caret-pink-900",
+        "Properties": "caret-color: #831843;\n"
+      },
+      {
+        "Class": "caret-rose-50",
+        "Properties": "caret-color: #fff1f2;\n"
+      },
+      {
+        "Class": "caret-rose-100",
+        "Properties": "caret-color: #ffe4e6;\n"
+      },
+      {
+        "Class": "caret-rose-200",
+        "Properties": "caret-color: #fecdd3;\n"
+      },
+      {
+        "Class": "caret-rose-300",
+        "Properties": "caret-color: #fda4af;\n"
+      },
+      {
+        "Class": "caret-rose-400",
+        "Properties": "caret-color: #fb7185;\n"
+      },
+      {
+        "Class": "caret-rose-500",
+        "Properties": "caret-color: #f43f5e;\n"
+      },
+      {
+        "Class": "caret-rose-600",
+        "Properties": "caret-color: #e11d48;\n"
+      },
+      {
+        "Class": "caret-rose-700",
+        "Properties": "caret-color: #be123c;\n"
+      },
+      {
+        "Class": "caret-rose-800",
+        "Properties": "caret-color: #9f1239;\n"
+      },
+      {
+        "Class": "caret-rose-900",
+        "Properties": "caret-color: #881337;\n"
+      }
+    ]
+  },
+  {
+    "name": "Pointer Events",
+    "table": [
+      {
+        "Class": "pointer-events-none",
+        "Properties": "pointer-events: none;\n"
+      },
+      {
+        "Class": "pointer-events-auto",
+        "Properties": "pointer-events: auto;\n"
+      }
+    ]
+  },
+  {
+    "name": "Resize",
+    "table": [
+      {
+        "Class": "resize-none",
+        "Properties": "resize: none;\n"
+      },
+      {
+        "Class": "resize-y",
+        "Properties": "resize: vertical;\n"
+      },
+      {
+        "Class": "resize-x",
+        "Properties": "resize: horizontal;\n"
+      },
+      {
+        "Class": "resize",
+        "Properties": "resize: both;\n"
+      }
+    ]
+  },
+  {
+    "name": "Scroll Behavior",
+    "table": [
+      {
+        "Class": "scroll-auto",
+        "Properties": "scroll-behavior: auto;\n"
+      },
+      {
+        "Class": "scroll-smooth",
+        "Properties": "scroll-behavior: smooth;\n"
+      }
+    ]
+  },
+  {
+    "name": "Scroll Margin",
+    "table": [
+      {
+        "Class": "scroll-m-0",
+        "Properties": "scroll-margin: 0px;\n"
+      },
+      {
+        "Class": "scroll-mx-0",
+        "Properties": "scroll-margin-left: 0px;\nscroll-margin-right: 0px;\n"
+      },
+      {
+        "Class": "scroll-my-0",
+        "Properties": "scroll-margin-top: 0px;\nscroll-margin-bottom: 0px;\n"
+      },
+      {
+        "Class": "scroll-mt-0",
+        "Properties": "scroll-margin-top: 0px;\n"
+      },
+      {
+        "Class": "scroll-mr-0",
+        "Properties": "scroll-margin-right: 0px;\n"
+      },
+      {
+        "Class": "scroll-mb-0",
+        "Properties": "scroll-margin-bottom: 0px;\n"
+      },
+      {
+        "Class": "scroll-ml-0",
+        "Properties": "scroll-margin-left: 0px;\n"
+      },
+      {
+        "Class": "scroll-m-px",
+        "Properties": "scroll-margin: 1px;\n"
+      },
+      {
+        "Class": "scroll-mx-px",
+        "Properties": "scroll-margin-left: 1px;\nscroll-margin-right: 1px;\n"
+      },
+      {
+        "Class": "scroll-my-px",
+        "Properties": "scroll-margin-top: 1px;\nscroll-margin-bottom: 1px;\n"
+      },
+      {
+        "Class": "scroll-mt-px",
+        "Properties": "scroll-margin-top: 1px;\n"
+      },
+      {
+        "Class": "scroll-mr-px",
+        "Properties": "scroll-margin-right: 1px;\n"
+      },
+      {
+        "Class": "scroll-mb-px",
+        "Properties": "scroll-margin-bottom: 1px;\n"
+      },
+      {
+        "Class": "scroll-ml-px",
+        "Properties": "scroll-margin-left: 1px;\n"
+      },
+      {
+        "Class": "scroll-m-0.5",
+        "Properties": "scroll-margin: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "scroll-mx-0.5",
+        "Properties": "scroll-margin-left: 0.125rem; /* 2px */\nscroll-margin-right: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "scroll-my-0.5",
+        "Properties": "scroll-margin-top: 0.125rem; /* 2px */\nscroll-margin-bottom: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "scroll-mt-0.5",
+        "Properties": "scroll-margin-top: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "scroll-mr-0.5",
+        "Properties": "scroll-margin-right: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "scroll-mb-0.5",
+        "Properties": "scroll-margin-bottom: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "scroll-ml-0.5",
+        "Properties": "scroll-margin-left: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "scroll-m-1",
+        "Properties": "scroll-margin: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "scroll-mx-1",
+        "Properties": "scroll-margin-left: 0.25rem; /* 4px */\nscroll-margin-right: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "scroll-my-1",
+        "Properties": "scroll-margin-top: 0.25rem; /* 4px */\nscroll-margin-bottom: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "scroll-mt-1",
+        "Properties": "scroll-margin-top: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "scroll-mr-1",
+        "Properties": "scroll-margin-right: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "scroll-mb-1",
+        "Properties": "scroll-margin-bottom: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "scroll-ml-1",
+        "Properties": "scroll-margin-left: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "scroll-m-1.5",
+        "Properties": "scroll-margin: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "scroll-mx-1.5",
+        "Properties": "scroll-margin-left: 0.375rem; /* 6px */\nscroll-margin-right: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "scroll-my-1.5",
+        "Properties": "scroll-margin-top: 0.375rem; /* 6px */\nscroll-margin-bottom: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "scroll-mt-1.5",
+        "Properties": "scroll-margin-top: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "scroll-mr-1.5",
+        "Properties": "scroll-margin-right: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "scroll-mb-1.5",
+        "Properties": "scroll-margin-bottom: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "scroll-ml-1.5",
+        "Properties": "scroll-margin-left: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "scroll-m-2",
+        "Properties": "scroll-margin: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "scroll-mx-2",
+        "Properties": "scroll-margin-left: 0.5rem; /* 8px */\nscroll-margin-right: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "scroll-my-2",
+        "Properties": "scroll-margin-top: 0.5rem; /* 8px */\nscroll-margin-bottom: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "scroll-mt-2",
+        "Properties": "scroll-margin-top: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "scroll-mr-2",
+        "Properties": "scroll-margin-right: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "scroll-mb-2",
+        "Properties": "scroll-margin-bottom: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "scroll-ml-2",
+        "Properties": "scroll-margin-left: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "scroll-m-2.5",
+        "Properties": "scroll-margin: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "scroll-mx-2.5",
+        "Properties": "scroll-margin-left: 0.625rem; /* 10px */\nscroll-margin-right: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "scroll-my-2.5",
+        "Properties": "scroll-margin-top: 0.625rem; /* 10px */\nscroll-margin-bottom: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "scroll-mt-2.5",
+        "Properties": "scroll-margin-top: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "scroll-mr-2.5",
+        "Properties": "scroll-margin-right: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "scroll-mb-2.5",
+        "Properties": "scroll-margin-bottom: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "scroll-ml-2.5",
+        "Properties": "scroll-margin-left: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "scroll-m-3",
+        "Properties": "scroll-margin: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "scroll-mx-3",
+        "Properties": "scroll-margin-left: 0.75rem; /* 12px */\nscroll-margin-right: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "scroll-my-3",
+        "Properties": "scroll-margin-top: 0.75rem; /* 12px */\nscroll-margin-bottom: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "scroll-mt-3",
+        "Properties": "scroll-margin-top: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "scroll-mr-3",
+        "Properties": "scroll-margin-right: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "scroll-mb-3",
+        "Properties": "scroll-margin-bottom: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "scroll-ml-3",
+        "Properties": "scroll-margin-left: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "scroll-m-3.5",
+        "Properties": "scroll-margin: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "scroll-mx-3.5",
+        "Properties": "scroll-margin-left: 0.875rem; /* 14px */\nscroll-margin-right: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "scroll-my-3.5",
+        "Properties": "scroll-margin-top: 0.875rem; /* 14px */\nscroll-margin-bottom: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "scroll-mt-3.5",
+        "Properties": "scroll-margin-top: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "scroll-mr-3.5",
+        "Properties": "scroll-margin-right: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "scroll-mb-3.5",
+        "Properties": "scroll-margin-bottom: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "scroll-ml-3.5",
+        "Properties": "scroll-margin-left: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "scroll-m-4",
+        "Properties": "scroll-margin: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "scroll-mx-4",
+        "Properties": "scroll-margin-left: 1rem; /* 16px */\nscroll-margin-right: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "scroll-my-4",
+        "Properties": "scroll-margin-top: 1rem; /* 16px */\nscroll-margin-bottom: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "scroll-mt-4",
+        "Properties": "scroll-margin-top: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "scroll-mr-4",
+        "Properties": "scroll-margin-right: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "scroll-mb-4",
+        "Properties": "scroll-margin-bottom: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "scroll-ml-4",
+        "Properties": "scroll-margin-left: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "scroll-m-5",
+        "Properties": "scroll-margin: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "scroll-mx-5",
+        "Properties": "scroll-margin-left: 1.25rem; /* 20px */\nscroll-margin-right: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "scroll-my-5",
+        "Properties": "scroll-margin-top: 1.25rem; /* 20px */\nscroll-margin-bottom: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "scroll-mt-5",
+        "Properties": "scroll-margin-top: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "scroll-mr-5",
+        "Properties": "scroll-margin-right: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "scroll-mb-5",
+        "Properties": "scroll-margin-bottom: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "scroll-ml-5",
+        "Properties": "scroll-margin-left: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "scroll-m-6",
+        "Properties": "scroll-margin: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "scroll-mx-6",
+        "Properties": "scroll-margin-left: 1.5rem; /* 24px */\nscroll-margin-right: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "scroll-my-6",
+        "Properties": "scroll-margin-top: 1.5rem; /* 24px */\nscroll-margin-bottom: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "scroll-mt-6",
+        "Properties": "scroll-margin-top: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "scroll-mr-6",
+        "Properties": "scroll-margin-right: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "scroll-mb-6",
+        "Properties": "scroll-margin-bottom: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "scroll-ml-6",
+        "Properties": "scroll-margin-left: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "scroll-m-7",
+        "Properties": "scroll-margin: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "scroll-mx-7",
+        "Properties": "scroll-margin-left: 1.75rem; /* 28px */\nscroll-margin-right: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "scroll-my-7",
+        "Properties": "scroll-margin-top: 1.75rem; /* 28px */\nscroll-margin-bottom: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "scroll-mt-7",
+        "Properties": "scroll-margin-top: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "scroll-mr-7",
+        "Properties": "scroll-margin-right: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "scroll-mb-7",
+        "Properties": "scroll-margin-bottom: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "scroll-ml-7",
+        "Properties": "scroll-margin-left: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "scroll-m-8",
+        "Properties": "scroll-margin: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "scroll-mx-8",
+        "Properties": "scroll-margin-left: 2rem; /* 32px */\nscroll-margin-right: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "scroll-my-8",
+        "Properties": "scroll-margin-top: 2rem; /* 32px */\nscroll-margin-bottom: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "scroll-mt-8",
+        "Properties": "scroll-margin-top: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "scroll-mr-8",
+        "Properties": "scroll-margin-right: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "scroll-mb-8",
+        "Properties": "scroll-margin-bottom: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "scroll-ml-8",
+        "Properties": "scroll-margin-left: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "scroll-m-9",
+        "Properties": "scroll-margin: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "scroll-mx-9",
+        "Properties": "scroll-margin-left: 2.25rem; /* 36px */\nscroll-margin-right: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "scroll-my-9",
+        "Properties": "scroll-margin-top: 2.25rem; /* 36px */\nscroll-margin-bottom: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "scroll-mt-9",
+        "Properties": "scroll-margin-top: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "scroll-mr-9",
+        "Properties": "scroll-margin-right: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "scroll-mb-9",
+        "Properties": "scroll-margin-bottom: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "scroll-ml-9",
+        "Properties": "scroll-margin-left: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "scroll-m-10",
+        "Properties": "scroll-margin: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "scroll-mx-10",
+        "Properties": "scroll-margin-left: 2.5rem; /* 40px */\nscroll-margin-right: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "scroll-my-10",
+        "Properties": "scroll-margin-top: 2.5rem; /* 40px */\nscroll-margin-bottom: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "scroll-mt-10",
+        "Properties": "scroll-margin-top: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "scroll-mr-10",
+        "Properties": "scroll-margin-right: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "scroll-mb-10",
+        "Properties": "scroll-margin-bottom: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "scroll-ml-10",
+        "Properties": "scroll-margin-left: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "scroll-m-11",
+        "Properties": "scroll-margin: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "scroll-mx-11",
+        "Properties": "scroll-margin-left: 2.75rem; /* 44px */\nscroll-margin-right: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "scroll-my-11",
+        "Properties": "scroll-margin-top: 2.75rem; /* 44px */\nscroll-margin-bottom: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "scroll-mt-11",
+        "Properties": "scroll-margin-top: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "scroll-mr-11",
+        "Properties": "scroll-margin-right: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "scroll-mb-11",
+        "Properties": "scroll-margin-bottom: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "scroll-ml-11",
+        "Properties": "scroll-margin-left: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "scroll-m-12",
+        "Properties": "scroll-margin: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "scroll-mx-12",
+        "Properties": "scroll-margin-left: 3rem; /* 48px */\nscroll-margin-right: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "scroll-my-12",
+        "Properties": "scroll-margin-top: 3rem; /* 48px */\nscroll-margin-bottom: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "scroll-mt-12",
+        "Properties": "scroll-margin-top: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "scroll-mr-12",
+        "Properties": "scroll-margin-right: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "scroll-mb-12",
+        "Properties": "scroll-margin-bottom: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "scroll-ml-12",
+        "Properties": "scroll-margin-left: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "scroll-m-14",
+        "Properties": "scroll-margin: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "scroll-mx-14",
+        "Properties": "scroll-margin-left: 3.5rem; /* 56px */\nscroll-margin-right: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "scroll-my-14",
+        "Properties": "scroll-margin-top: 3.5rem; /* 56px */\nscroll-margin-bottom: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "scroll-mt-14",
+        "Properties": "scroll-margin-top: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "scroll-mr-14",
+        "Properties": "scroll-margin-right: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "scroll-mb-14",
+        "Properties": "scroll-margin-bottom: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "scroll-ml-14",
+        "Properties": "scroll-margin-left: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "scroll-m-16",
+        "Properties": "scroll-margin: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "scroll-mx-16",
+        "Properties": "scroll-margin-left: 4rem; /* 64px */\nscroll-margin-right: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "scroll-my-16",
+        "Properties": "scroll-margin-top: 4rem; /* 64px */\nscroll-margin-bottom: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "scroll-mt-16",
+        "Properties": "scroll-margin-top: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "scroll-mr-16",
+        "Properties": "scroll-margin-right: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "scroll-mb-16",
+        "Properties": "scroll-margin-bottom: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "scroll-ml-16",
+        "Properties": "scroll-margin-left: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "scroll-m-20",
+        "Properties": "scroll-margin: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "scroll-mx-20",
+        "Properties": "scroll-margin-left: 5rem; /* 80px */\nscroll-margin-right: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "scroll-my-20",
+        "Properties": "scroll-margin-top: 5rem; /* 80px */\nscroll-margin-bottom: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "scroll-mt-20",
+        "Properties": "scroll-margin-top: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "scroll-mr-20",
+        "Properties": "scroll-margin-right: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "scroll-mb-20",
+        "Properties": "scroll-margin-bottom: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "scroll-ml-20",
+        "Properties": "scroll-margin-left: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "scroll-m-24",
+        "Properties": "scroll-margin: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "scroll-mx-24",
+        "Properties": "scroll-margin-left: 6rem; /* 96px */\nscroll-margin-right: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "scroll-my-24",
+        "Properties": "scroll-margin-top: 6rem; /* 96px */\nscroll-margin-bottom: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "scroll-mt-24",
+        "Properties": "scroll-margin-top: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "scroll-mr-24",
+        "Properties": "scroll-margin-right: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "scroll-mb-24",
+        "Properties": "scroll-margin-bottom: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "scroll-ml-24",
+        "Properties": "scroll-margin-left: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "scroll-m-28",
+        "Properties": "scroll-margin: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "scroll-mx-28",
+        "Properties": "scroll-margin-left: 7rem; /* 112px */\nscroll-margin-right: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "scroll-my-28",
+        "Properties": "scroll-margin-top: 7rem; /* 112px */\nscroll-margin-bottom: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "scroll-mt-28",
+        "Properties": "scroll-margin-top: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "scroll-mr-28",
+        "Properties": "scroll-margin-right: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "scroll-mb-28",
+        "Properties": "scroll-margin-bottom: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "scroll-ml-28",
+        "Properties": "scroll-margin-left: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "scroll-m-32",
+        "Properties": "scroll-margin: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "scroll-mx-32",
+        "Properties": "scroll-margin-left: 8rem; /* 128px */\nscroll-margin-right: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "scroll-my-32",
+        "Properties": "scroll-margin-top: 8rem; /* 128px */\nscroll-margin-bottom: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "scroll-mt-32",
+        "Properties": "scroll-margin-top: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "scroll-mr-32",
+        "Properties": "scroll-margin-right: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "scroll-mb-32",
+        "Properties": "scroll-margin-bottom: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "scroll-ml-32",
+        "Properties": "scroll-margin-left: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "scroll-m-36",
+        "Properties": "scroll-margin: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "scroll-mx-36",
+        "Properties": "scroll-margin-left: 9rem; /* 144px */\nscroll-margin-right: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "scroll-my-36",
+        "Properties": "scroll-margin-top: 9rem; /* 144px */\nscroll-margin-bottom: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "scroll-mt-36",
+        "Properties": "scroll-margin-top: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "scroll-mr-36",
+        "Properties": "scroll-margin-right: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "scroll-mb-36",
+        "Properties": "scroll-margin-bottom: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "scroll-ml-36",
+        "Properties": "scroll-margin-left: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "scroll-m-40",
+        "Properties": "scroll-margin: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "scroll-mx-40",
+        "Properties": "scroll-margin-left: 10rem; /* 160px */\nscroll-margin-right: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "scroll-my-40",
+        "Properties": "scroll-margin-top: 10rem; /* 160px */\nscroll-margin-bottom: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "scroll-mt-40",
+        "Properties": "scroll-margin-top: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "scroll-mr-40",
+        "Properties": "scroll-margin-right: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "scroll-mb-40",
+        "Properties": "scroll-margin-bottom: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "scroll-ml-40",
+        "Properties": "scroll-margin-left: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "scroll-m-44",
+        "Properties": "scroll-margin: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "scroll-mx-44",
+        "Properties": "scroll-margin-left: 11rem; /* 176px */\nscroll-margin-right: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "scroll-my-44",
+        "Properties": "scroll-margin-top: 11rem; /* 176px */\nscroll-margin-bottom: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "scroll-mt-44",
+        "Properties": "scroll-margin-top: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "scroll-mr-44",
+        "Properties": "scroll-margin-right: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "scroll-mb-44",
+        "Properties": "scroll-margin-bottom: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "scroll-ml-44",
+        "Properties": "scroll-margin-left: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "scroll-m-48",
+        "Properties": "scroll-margin: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "scroll-mx-48",
+        "Properties": "scroll-margin-left: 12rem; /* 192px */\nscroll-margin-right: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "scroll-my-48",
+        "Properties": "scroll-margin-top: 12rem; /* 192px */\nscroll-margin-bottom: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "scroll-mt-48",
+        "Properties": "scroll-margin-top: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "scroll-mr-48",
+        "Properties": "scroll-margin-right: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "scroll-mb-48",
+        "Properties": "scroll-margin-bottom: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "scroll-ml-48",
+        "Properties": "scroll-margin-left: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "scroll-m-52",
+        "Properties": "scroll-margin: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "scroll-mx-52",
+        "Properties": "scroll-margin-left: 13rem; /* 208px */\nscroll-margin-right: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "scroll-my-52",
+        "Properties": "scroll-margin-top: 13rem; /* 208px */\nscroll-margin-bottom: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "scroll-mt-52",
+        "Properties": "scroll-margin-top: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "scroll-mr-52",
+        "Properties": "scroll-margin-right: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "scroll-mb-52",
+        "Properties": "scroll-margin-bottom: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "scroll-ml-52",
+        "Properties": "scroll-margin-left: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "scroll-m-56",
+        "Properties": "scroll-margin: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "scroll-mx-56",
+        "Properties": "scroll-margin-left: 14rem; /* 224px */\nscroll-margin-right: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "scroll-my-56",
+        "Properties": "scroll-margin-top: 14rem; /* 224px */\nscroll-margin-bottom: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "scroll-mt-56",
+        "Properties": "scroll-margin-top: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "scroll-mr-56",
+        "Properties": "scroll-margin-right: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "scroll-mb-56",
+        "Properties": "scroll-margin-bottom: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "scroll-ml-56",
+        "Properties": "scroll-margin-left: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "scroll-m-60",
+        "Properties": "scroll-margin: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "scroll-mx-60",
+        "Properties": "scroll-margin-left: 15rem; /* 240px */\nscroll-margin-right: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "scroll-my-60",
+        "Properties": "scroll-margin-top: 15rem; /* 240px */\nscroll-margin-bottom: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "scroll-mt-60",
+        "Properties": "scroll-margin-top: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "scroll-mr-60",
+        "Properties": "scroll-margin-right: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "scroll-mb-60",
+        "Properties": "scroll-margin-bottom: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "scroll-ml-60",
+        "Properties": "scroll-margin-left: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "scroll-m-64",
+        "Properties": "scroll-margin: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "scroll-mx-64",
+        "Properties": "scroll-margin-left: 16rem; /* 256px */\nscroll-margin-right: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "scroll-my-64",
+        "Properties": "scroll-margin-top: 16rem; /* 256px */\nscroll-margin-bottom: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "scroll-mt-64",
+        "Properties": "scroll-margin-top: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "scroll-mr-64",
+        "Properties": "scroll-margin-right: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "scroll-mb-64",
+        "Properties": "scroll-margin-bottom: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "scroll-ml-64",
+        "Properties": "scroll-margin-left: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "scroll-m-72",
+        "Properties": "scroll-margin: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "scroll-mx-72",
+        "Properties": "scroll-margin-left: 18rem; /* 288px */\nscroll-margin-right: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "scroll-my-72",
+        "Properties": "scroll-margin-top: 18rem; /* 288px */\nscroll-margin-bottom: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "scroll-mt-72",
+        "Properties": "scroll-margin-top: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "scroll-mr-72",
+        "Properties": "scroll-margin-right: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "scroll-mb-72",
+        "Properties": "scroll-margin-bottom: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "scroll-ml-72",
+        "Properties": "scroll-margin-left: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "scroll-m-80",
+        "Properties": "scroll-margin: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "scroll-mx-80",
+        "Properties": "scroll-margin-left: 20rem; /* 320px */\nscroll-margin-right: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "scroll-my-80",
+        "Properties": "scroll-margin-top: 20rem; /* 320px */\nscroll-margin-bottom: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "scroll-mt-80",
+        "Properties": "scroll-margin-top: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "scroll-mr-80",
+        "Properties": "scroll-margin-right: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "scroll-mb-80",
+        "Properties": "scroll-margin-bottom: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "scroll-ml-80",
+        "Properties": "scroll-margin-left: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "scroll-m-96",
+        "Properties": "scroll-margin: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "scroll-mx-96",
+        "Properties": "scroll-margin-left: 24rem; /* 384px */\nscroll-margin-right: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "scroll-my-96",
+        "Properties": "scroll-margin-top: 24rem; /* 384px */\nscroll-margin-bottom: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "scroll-mt-96",
+        "Properties": "scroll-margin-top: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "scroll-mr-96",
+        "Properties": "scroll-margin-right: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "scroll-mb-96",
+        "Properties": "scroll-margin-bottom: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "scroll-ml-96",
+        "Properties": "scroll-margin-left: 24rem; /* 384px */\n"
+      }
+    ]
+  },
+  {
+    "name": "Scroll Padding",
+    "table": [
+      {
+        "Class": "scroll-p-0",
+        "Properties": "scroll-padding: 0px;\n"
+      },
+      {
+        "Class": "scroll-px-0",
+        "Properties": "scroll-padding-left: 0px;\nscroll-padding-right: 0px;\n"
+      },
+      {
+        "Class": "scroll-py-0",
+        "Properties": "scroll-padding-top: 0px;\nscroll-padding-bottom: 0px;\n"
+      },
+      {
+        "Class": "scroll-pt-0",
+        "Properties": "scroll-padding-top: 0px;\n"
+      },
+      {
+        "Class": "scroll-pr-0",
+        "Properties": "scroll-padding-right: 0px;\n"
+      },
+      {
+        "Class": "scroll-pb-0",
+        "Properties": "scroll-padding-bottom: 0px;\n"
+      },
+      {
+        "Class": "scroll-pl-0",
+        "Properties": "scroll-padding-left: 0px;\n"
+      },
+      {
+        "Class": "scroll-p-px",
+        "Properties": "scroll-padding: 1px;\n"
+      },
+      {
+        "Class": "scroll-px-px",
+        "Properties": "scroll-padding-left: 1px;\nscroll-padding-right: 1px;\n"
+      },
+      {
+        "Class": "scroll-py-px",
+        "Properties": "scroll-padding-top: 1px;\nscroll-padding-bottom: 1px;\n"
+      },
+      {
+        "Class": "scroll-pt-px",
+        "Properties": "scroll-padding-top: 1px;\n"
+      },
+      {
+        "Class": "scroll-pr-px",
+        "Properties": "scroll-padding-right: 1px;\n"
+      },
+      {
+        "Class": "scroll-pb-px",
+        "Properties": "scroll-padding-bottom: 1px;\n"
+      },
+      {
+        "Class": "scroll-pl-px",
+        "Properties": "scroll-padding-left: 1px;\n"
+      },
+      {
+        "Class": "scroll-p-0.5",
+        "Properties": "scroll-padding: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "scroll-px-0.5",
+        "Properties": "scroll-padding-left: 0.125rem; /* 2px */\nscroll-padding-right: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "scroll-py-0.5",
+        "Properties": "scroll-padding-top: 0.125rem; /* 2px */\nscroll-padding-bottom: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "scroll-pt-0.5",
+        "Properties": "scroll-padding-top: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "scroll-pr-0.5",
+        "Properties": "scroll-padding-right: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "scroll-pb-0.5",
+        "Properties": "scroll-padding-bottom: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "scroll-pl-0.5",
+        "Properties": "scroll-padding-left: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "scroll-p-1",
+        "Properties": "scroll-padding: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "scroll-px-1",
+        "Properties": "scroll-padding-left: 0.25rem; /* 4px */\nscroll-padding-right: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "scroll-py-1",
+        "Properties": "scroll-padding-top: 0.25rem; /* 4px */\nscroll-padding-bottom: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "scroll-pt-1",
+        "Properties": "scroll-padding-top: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "scroll-pr-1",
+        "Properties": "scroll-padding-right: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "scroll-pb-1",
+        "Properties": "scroll-padding-bottom: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "scroll-pl-1",
+        "Properties": "scroll-padding-left: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "scroll-p-1.5",
+        "Properties": "scroll-padding: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "scroll-px-1.5",
+        "Properties": "scroll-padding-left: 0.375rem; /* 6px */\nscroll-padding-right: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "scroll-py-1.5",
+        "Properties": "scroll-padding-top: 0.375rem; /* 6px */\nscroll-padding-bottom: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "scroll-pt-1.5",
+        "Properties": "scroll-padding-top: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "scroll-pr-1.5",
+        "Properties": "scroll-padding-right: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "scroll-pb-1.5",
+        "Properties": "scroll-padding-bottom: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "scroll-pl-1.5",
+        "Properties": "scroll-padding-left: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "scroll-p-2",
+        "Properties": "scroll-padding: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "scroll-px-2",
+        "Properties": "scroll-padding-left: 0.5rem; /* 8px */\nscroll-padding-right: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "scroll-py-2",
+        "Properties": "scroll-padding-top: 0.5rem; /* 8px */\nscroll-padding-bottom: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "scroll-pt-2",
+        "Properties": "scroll-padding-top: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "scroll-pr-2",
+        "Properties": "scroll-padding-right: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "scroll-pb-2",
+        "Properties": "scroll-padding-bottom: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "scroll-pl-2",
+        "Properties": "scroll-padding-left: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "scroll-p-2.5",
+        "Properties": "scroll-padding: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "scroll-px-2.5",
+        "Properties": "scroll-padding-left: 0.625rem; /* 10px */\nscroll-padding-right: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "scroll-py-2.5",
+        "Properties": "scroll-padding-top: 0.625rem; /* 10px */\nscroll-padding-bottom: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "scroll-pt-2.5",
+        "Properties": "scroll-padding-top: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "scroll-pr-2.5",
+        "Properties": "scroll-padding-right: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "scroll-pb-2.5",
+        "Properties": "scroll-padding-bottom: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "scroll-pl-2.5",
+        "Properties": "scroll-padding-left: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "scroll-p-3",
+        "Properties": "scroll-padding: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "scroll-px-3",
+        "Properties": "scroll-padding-left: 0.75rem; /* 12px */\nscroll-padding-right: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "scroll-py-3",
+        "Properties": "scroll-padding-top: 0.75rem; /* 12px */\nscroll-padding-bottom: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "scroll-pt-3",
+        "Properties": "scroll-padding-top: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "scroll-pr-3",
+        "Properties": "scroll-padding-right: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "scroll-pb-3",
+        "Properties": "scroll-padding-bottom: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "scroll-pl-3",
+        "Properties": "scroll-padding-left: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "scroll-p-3.5",
+        "Properties": "scroll-padding: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "scroll-px-3.5",
+        "Properties": "scroll-padding-left: 0.875rem; /* 14px */\nscroll-padding-right: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "scroll-py-3.5",
+        "Properties": "scroll-padding-top: 0.875rem; /* 14px */\nscroll-padding-bottom: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "scroll-pt-3.5",
+        "Properties": "scroll-padding-top: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "scroll-pr-3.5",
+        "Properties": "scroll-padding-right: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "scroll-pb-3.5",
+        "Properties": "scroll-padding-bottom: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "scroll-pl-3.5",
+        "Properties": "scroll-padding-left: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "scroll-p-4",
+        "Properties": "scroll-padding: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "scroll-px-4",
+        "Properties": "scroll-padding-left: 1rem; /* 16px */\nscroll-padding-right: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "scroll-py-4",
+        "Properties": "scroll-padding-top: 1rem; /* 16px */\nscroll-padding-bottom: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "scroll-pt-4",
+        "Properties": "scroll-padding-top: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "scroll-pr-4",
+        "Properties": "scroll-padding-right: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "scroll-pb-4",
+        "Properties": "scroll-padding-bottom: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "scroll-pl-4",
+        "Properties": "scroll-padding-left: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "scroll-p-5",
+        "Properties": "scroll-padding: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "scroll-px-5",
+        "Properties": "scroll-padding-left: 1.25rem; /* 20px */\nscroll-padding-right: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "scroll-py-5",
+        "Properties": "scroll-padding-top: 1.25rem; /* 20px */\nscroll-padding-bottom: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "scroll-pt-5",
+        "Properties": "scroll-padding-top: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "scroll-pr-5",
+        "Properties": "scroll-padding-right: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "scroll-pb-5",
+        "Properties": "scroll-padding-bottom: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "scroll-pl-5",
+        "Properties": "scroll-padding-left: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "scroll-p-6",
+        "Properties": "scroll-padding: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "scroll-px-6",
+        "Properties": "scroll-padding-left: 1.5rem; /* 24px */\nscroll-padding-right: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "scroll-py-6",
+        "Properties": "scroll-padding-top: 1.5rem; /* 24px */\nscroll-padding-bottom: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "scroll-pt-6",
+        "Properties": "scroll-padding-top: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "scroll-pr-6",
+        "Properties": "scroll-padding-right: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "scroll-pb-6",
+        "Properties": "scroll-padding-bottom: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "scroll-pl-6",
+        "Properties": "scroll-padding-left: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "scroll-p-7",
+        "Properties": "scroll-padding: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "scroll-px-7",
+        "Properties": "scroll-padding-left: 1.75rem; /* 28px */\nscroll-padding-right: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "scroll-py-7",
+        "Properties": "scroll-padding-top: 1.75rem; /* 28px */\nscroll-padding-bottom: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "scroll-pt-7",
+        "Properties": "scroll-padding-top: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "scroll-pr-7",
+        "Properties": "scroll-padding-right: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "scroll-pb-7",
+        "Properties": "scroll-padding-bottom: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "scroll-pl-7",
+        "Properties": "scroll-padding-left: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "scroll-p-8",
+        "Properties": "scroll-padding: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "scroll-px-8",
+        "Properties": "scroll-padding-left: 2rem; /* 32px */\nscroll-padding-right: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "scroll-py-8",
+        "Properties": "scroll-padding-top: 2rem; /* 32px */\nscroll-padding-bottom: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "scroll-pt-8",
+        "Properties": "scroll-padding-top: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "scroll-pr-8",
+        "Properties": "scroll-padding-right: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "scroll-pb-8",
+        "Properties": "scroll-padding-bottom: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "scroll-pl-8",
+        "Properties": "scroll-padding-left: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "scroll-p-9",
+        "Properties": "scroll-padding: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "scroll-px-9",
+        "Properties": "scroll-padding-left: 2.25rem; /* 36px */\nscroll-padding-right: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "scroll-py-9",
+        "Properties": "scroll-padding-top: 2.25rem; /* 36px */\nscroll-padding-bottom: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "scroll-pt-9",
+        "Properties": "scroll-padding-top: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "scroll-pr-9",
+        "Properties": "scroll-padding-right: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "scroll-pb-9",
+        "Properties": "scroll-padding-bottom: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "scroll-pl-9",
+        "Properties": "scroll-padding-left: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "scroll-p-10",
+        "Properties": "scroll-padding: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "scroll-px-10",
+        "Properties": "scroll-padding-left: 2.5rem; /* 40px */\nscroll-padding-right: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "scroll-py-10",
+        "Properties": "scroll-padding-top: 2.5rem; /* 40px */\nscroll-padding-bottom: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "scroll-pt-10",
+        "Properties": "scroll-padding-top: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "scroll-pr-10",
+        "Properties": "scroll-padding-right: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "scroll-pb-10",
+        "Properties": "scroll-padding-bottom: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "scroll-pl-10",
+        "Properties": "scroll-padding-left: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "scroll-p-11",
+        "Properties": "scroll-padding: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "scroll-px-11",
+        "Properties": "scroll-padding-left: 2.75rem; /* 44px */\nscroll-padding-right: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "scroll-py-11",
+        "Properties": "scroll-padding-top: 2.75rem; /* 44px */\nscroll-padding-bottom: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "scroll-pt-11",
+        "Properties": "scroll-padding-top: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "scroll-pr-11",
+        "Properties": "scroll-padding-right: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "scroll-pb-11",
+        "Properties": "scroll-padding-bottom: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "scroll-pl-11",
+        "Properties": "scroll-padding-left: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "scroll-p-12",
+        "Properties": "scroll-padding: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "scroll-px-12",
+        "Properties": "scroll-padding-left: 3rem; /* 48px */\nscroll-padding-right: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "scroll-py-12",
+        "Properties": "scroll-padding-top: 3rem; /* 48px */\nscroll-padding-bottom: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "scroll-pt-12",
+        "Properties": "scroll-padding-top: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "scroll-pr-12",
+        "Properties": "scroll-padding-right: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "scroll-pb-12",
+        "Properties": "scroll-padding-bottom: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "scroll-pl-12",
+        "Properties": "scroll-padding-left: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "scroll-p-14",
+        "Properties": "scroll-padding: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "scroll-px-14",
+        "Properties": "scroll-padding-left: 3.5rem; /* 56px */\nscroll-padding-right: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "scroll-py-14",
+        "Properties": "scroll-padding-top: 3.5rem; /* 56px */\nscroll-padding-bottom: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "scroll-pt-14",
+        "Properties": "scroll-padding-top: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "scroll-pr-14",
+        "Properties": "scroll-padding-right: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "scroll-pb-14",
+        "Properties": "scroll-padding-bottom: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "scroll-pl-14",
+        "Properties": "scroll-padding-left: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "scroll-p-16",
+        "Properties": "scroll-padding: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "scroll-px-16",
+        "Properties": "scroll-padding-left: 4rem; /* 64px */\nscroll-padding-right: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "scroll-py-16",
+        "Properties": "scroll-padding-top: 4rem; /* 64px */\nscroll-padding-bottom: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "scroll-pt-16",
+        "Properties": "scroll-padding-top: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "scroll-pr-16",
+        "Properties": "scroll-padding-right: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "scroll-pb-16",
+        "Properties": "scroll-padding-bottom: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "scroll-pl-16",
+        "Properties": "scroll-padding-left: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "scroll-p-20",
+        "Properties": "scroll-padding: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "scroll-px-20",
+        "Properties": "scroll-padding-left: 5rem; /* 80px */\nscroll-padding-right: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "scroll-py-20",
+        "Properties": "scroll-padding-top: 5rem; /* 80px */\nscroll-padding-bottom: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "scroll-pt-20",
+        "Properties": "scroll-padding-top: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "scroll-pr-20",
+        "Properties": "scroll-padding-right: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "scroll-pb-20",
+        "Properties": "scroll-padding-bottom: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "scroll-pl-20",
+        "Properties": "scroll-padding-left: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "scroll-p-24",
+        "Properties": "scroll-padding: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "scroll-px-24",
+        "Properties": "scroll-padding-left: 6rem; /* 96px */\nscroll-padding-right: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "scroll-py-24",
+        "Properties": "scroll-padding-top: 6rem; /* 96px */\nscroll-padding-bottom: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "scroll-pt-24",
+        "Properties": "scroll-padding-top: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "scroll-pr-24",
+        "Properties": "scroll-padding-right: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "scroll-pb-24",
+        "Properties": "scroll-padding-bottom: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "scroll-pl-24",
+        "Properties": "scroll-padding-left: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "scroll-p-28",
+        "Properties": "scroll-padding: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "scroll-px-28",
+        "Properties": "scroll-padding-left: 7rem; /* 112px */\nscroll-padding-right: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "scroll-py-28",
+        "Properties": "scroll-padding-top: 7rem; /* 112px */\nscroll-padding-bottom: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "scroll-pt-28",
+        "Properties": "scroll-padding-top: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "scroll-pr-28",
+        "Properties": "scroll-padding-right: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "scroll-pb-28",
+        "Properties": "scroll-padding-bottom: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "scroll-pl-28",
+        "Properties": "scroll-padding-left: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "scroll-p-32",
+        "Properties": "scroll-padding: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "scroll-px-32",
+        "Properties": "scroll-padding-left: 8rem; /* 128px */\nscroll-padding-right: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "scroll-py-32",
+        "Properties": "scroll-padding-top: 8rem; /* 128px */\nscroll-padding-bottom: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "scroll-pt-32",
+        "Properties": "scroll-padding-top: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "scroll-pr-32",
+        "Properties": "scroll-padding-right: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "scroll-pb-32",
+        "Properties": "scroll-padding-bottom: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "scroll-pl-32",
+        "Properties": "scroll-padding-left: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "scroll-p-36",
+        "Properties": "scroll-padding: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "scroll-px-36",
+        "Properties": "scroll-padding-left: 9rem; /* 144px */\nscroll-padding-right: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "scroll-py-36",
+        "Properties": "scroll-padding-top: 9rem; /* 144px */\nscroll-padding-bottom: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "scroll-pt-36",
+        "Properties": "scroll-padding-top: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "scroll-pr-36",
+        "Properties": "scroll-padding-right: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "scroll-pb-36",
+        "Properties": "scroll-padding-bottom: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "scroll-pl-36",
+        "Properties": "scroll-padding-left: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "scroll-p-40",
+        "Properties": "scroll-padding: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "scroll-px-40",
+        "Properties": "scroll-padding-left: 10rem; /* 160px */\nscroll-padding-right: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "scroll-py-40",
+        "Properties": "scroll-padding-top: 10rem; /* 160px */\nscroll-padding-bottom: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "scroll-pt-40",
+        "Properties": "scroll-padding-top: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "scroll-pr-40",
+        "Properties": "scroll-padding-right: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "scroll-pb-40",
+        "Properties": "scroll-padding-bottom: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "scroll-pl-40",
+        "Properties": "scroll-padding-left: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "scroll-p-44",
+        "Properties": "scroll-padding: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "scroll-px-44",
+        "Properties": "scroll-padding-left: 11rem; /* 176px */\nscroll-padding-right: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "scroll-py-44",
+        "Properties": "scroll-padding-top: 11rem; /* 176px */\nscroll-padding-bottom: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "scroll-pt-44",
+        "Properties": "scroll-padding-top: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "scroll-pr-44",
+        "Properties": "scroll-padding-right: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "scroll-pb-44",
+        "Properties": "scroll-padding-bottom: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "scroll-pl-44",
+        "Properties": "scroll-padding-left: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "scroll-p-48",
+        "Properties": "scroll-padding: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "scroll-px-48",
+        "Properties": "scroll-padding-left: 12rem; /* 192px */\nscroll-padding-right: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "scroll-py-48",
+        "Properties": "scroll-padding-top: 12rem; /* 192px */\nscroll-padding-bottom: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "scroll-pt-48",
+        "Properties": "scroll-padding-top: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "scroll-pr-48",
+        "Properties": "scroll-padding-right: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "scroll-pb-48",
+        "Properties": "scroll-padding-bottom: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "scroll-pl-48",
+        "Properties": "scroll-padding-left: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "scroll-p-52",
+        "Properties": "scroll-padding: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "scroll-px-52",
+        "Properties": "scroll-padding-left: 13rem; /* 208px */\nscroll-padding-right: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "scroll-py-52",
+        "Properties": "scroll-padding-top: 13rem; /* 208px */\nscroll-padding-bottom: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "scroll-pt-52",
+        "Properties": "scroll-padding-top: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "scroll-pr-52",
+        "Properties": "scroll-padding-right: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "scroll-pb-52",
+        "Properties": "scroll-padding-bottom: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "scroll-pl-52",
+        "Properties": "scroll-padding-left: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "scroll-p-56",
+        "Properties": "scroll-padding: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "scroll-px-56",
+        "Properties": "scroll-padding-left: 14rem; /* 224px */\nscroll-padding-right: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "scroll-py-56",
+        "Properties": "scroll-padding-top: 14rem; /* 224px */\nscroll-padding-bottom: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "scroll-pt-56",
+        "Properties": "scroll-padding-top: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "scroll-pr-56",
+        "Properties": "scroll-padding-right: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "scroll-pb-56",
+        "Properties": "scroll-padding-bottom: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "scroll-pl-56",
+        "Properties": "scroll-padding-left: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "scroll-p-60",
+        "Properties": "scroll-padding: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "scroll-px-60",
+        "Properties": "scroll-padding-left: 15rem; /* 240px */\nscroll-padding-right: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "scroll-py-60",
+        "Properties": "scroll-padding-top: 15rem; /* 240px */\nscroll-padding-bottom: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "scroll-pt-60",
+        "Properties": "scroll-padding-top: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "scroll-pr-60",
+        "Properties": "scroll-padding-right: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "scroll-pb-60",
+        "Properties": "scroll-padding-bottom: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "scroll-pl-60",
+        "Properties": "scroll-padding-left: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "scroll-p-64",
+        "Properties": "scroll-padding: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "scroll-px-64",
+        "Properties": "scroll-padding-left: 16rem; /* 256px */\nscroll-padding-right: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "scroll-py-64",
+        "Properties": "scroll-padding-top: 16rem; /* 256px */\nscroll-padding-bottom: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "scroll-pt-64",
+        "Properties": "scroll-padding-top: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "scroll-pr-64",
+        "Properties": "scroll-padding-right: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "scroll-pb-64",
+        "Properties": "scroll-padding-bottom: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "scroll-pl-64",
+        "Properties": "scroll-padding-left: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "scroll-p-72",
+        "Properties": "scroll-padding: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "scroll-px-72",
+        "Properties": "scroll-padding-left: 18rem; /* 288px */\nscroll-padding-right: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "scroll-py-72",
+        "Properties": "scroll-padding-top: 18rem; /* 288px */\nscroll-padding-bottom: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "scroll-pt-72",
+        "Properties": "scroll-padding-top: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "scroll-pr-72",
+        "Properties": "scroll-padding-right: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "scroll-pb-72",
+        "Properties": "scroll-padding-bottom: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "scroll-pl-72",
+        "Properties": "scroll-padding-left: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "scroll-p-80",
+        "Properties": "scroll-padding: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "scroll-px-80",
+        "Properties": "scroll-padding-left: 20rem; /* 320px */\nscroll-padding-right: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "scroll-py-80",
+        "Properties": "scroll-padding-top: 20rem; /* 320px */\nscroll-padding-bottom: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "scroll-pt-80",
+        "Properties": "scroll-padding-top: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "scroll-pr-80",
+        "Properties": "scroll-padding-right: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "scroll-pb-80",
+        "Properties": "scroll-padding-bottom: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "scroll-pl-80",
+        "Properties": "scroll-padding-left: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "scroll-p-96",
+        "Properties": "scroll-padding: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "scroll-px-96",
+        "Properties": "scroll-padding-left: 24rem; /* 384px */\nscroll-padding-right: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "scroll-py-96",
+        "Properties": "scroll-padding-top: 24rem; /* 384px */\nscroll-padding-bottom: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "scroll-pt-96",
+        "Properties": "scroll-padding-top: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "scroll-pr-96",
+        "Properties": "scroll-padding-right: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "scroll-pb-96",
+        "Properties": "scroll-padding-bottom: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "scroll-pl-96",
+        "Properties": "scroll-padding-left: 24rem; /* 384px */\n"
+      }
+    ]
+  },
+  {
+    "name": "Scroll Snap Align",
+    "table": [
+      {
+        "Class": "snap-start",
+        "Properties": "scroll-snap-align: start;\n"
+      },
+      {
+        "Class": "snap-end",
+        "Properties": "scroll-snap-align: end;\n"
+      },
+      {
+        "Class": "snap-center",
+        "Properties": "scroll-snap-align: center;\n"
+      },
+      {
+        "Class": "snap-align-none",
+        "Properties": "scroll-snap-align: none;\n"
+      }
+    ]
+  },
+  {
+    "name": "Scroll Snap Stop",
+    "table": [
+      {
+        "Class": "snap-normal",
+        "Properties": "scroll-snap-stop: normal;\n"
+      },
+      {
+        "Class": "snap-always",
+        "Properties": "scroll-snap-stop: always;\n"
+      }
+    ]
+  },
+  {
+    "name": "Scroll Snap Type",
+    "table": [
+      {
+        "Class": "snap-none",
+        "Properties": "scroll-snap-type: none;\n"
+      },
+      {
+        "Class": "snap-x",
+        "Properties": "scroll-snap-type: x var(--tw-scroll-snap-strictness);\n"
+      },
+      {
+        "Class": "snap-y",
+        "Properties": "scroll-snap-type: y var(--tw-scroll-snap-strictness);\n"
+      },
+      {
+        "Class": "snap-both",
+        "Properties": "scroll-snap-type: both var(--tw-scroll-snap-strictness);\n"
+      },
+      {
+        "Class": "snap-mandatory",
+        "Properties": "--tw-scroll-snap-strictness: mandatory;\n"
+      },
+      {
+        "Class": "snap-proximity",
+        "Properties": "--tw-scroll-snap-strictness: proximity;\n"
+      }
+    ]
+  },
+  {
+    "name": "Touch Action",
+    "table": [
+      {
+        "Class": "touch-auto",
+        "Properties": "touch-action: auto;\n"
+      },
+      {
+        "Class": "touch-none",
+        "Properties": "touch-action: none;\n"
+      },
+      {
+        "Class": "touch-pan-x",
+        "Properties": "touch-action: pan-x;\n"
+      },
+      {
+        "Class": "touch-pan-left",
+        "Properties": "touch-action: pan-left;\n"
+      },
+      {
+        "Class": "touch-pan-right",
+        "Properties": "touch-action: pan-right;\n"
+      },
+      {
+        "Class": "touch-pan-y",
+        "Properties": "touch-action: pan-y;\n"
+      },
+      {
+        "Class": "touch-pan-up",
+        "Properties": "touch-action: pan-up;\n"
+      },
+      {
+        "Class": "touch-pan-down",
+        "Properties": "touch-action: pan-down;\n"
+      },
+      {
+        "Class": "touch-pinch-zoom",
+        "Properties": "touch-action: pinch-zoom;\n"
+      },
+      {
+        "Class": "touch-manipulation",
+        "Properties": "touch-action: manipulation;\n"
+      }
+    ]
+  },
+  {
+    "name": "User Select",
+    "table": [
+      {
+        "Class": "select-none",
+        "Properties": "user-select: none;\n"
+      },
+      {
+        "Class": "select-text",
+        "Properties": "user-select: text;\n"
+      },
+      {
+        "Class": "select-all",
+        "Properties": "user-select: all;\n"
+      },
+      {
+        "Class": "select-auto",
+        "Properties": "user-select: auto;\n"
+      }
+    ]
+  },
+  {
+    "name": "Will Change",
+    "table": [
+      {
+        "Class": "will-change-auto",
+        "Properties": "will-change: auto;\n"
+      },
+      {
+        "Class": "will-change-scroll",
+        "Properties": "will-change: scroll-position;\n"
+      },
+      {
+        "Class": "will-change-contents",
+        "Properties": "will-change: contents;\n"
+      },
+      {
+        "Class": "will-change-transform",
+        "Properties": "will-change: transform;\n"
+      }
+    ]
+  }
+]

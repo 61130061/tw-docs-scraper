@@ -1,0 +1,1151 @@
+[
+  {
+    "name": "Box Shadow",
+    "table": [
+      {
+        "Class": "shadow-sm",
+        "Properties": "box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);\n"
+      },
+      {
+        "Class": "shadow",
+        "Properties": "box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);\n"
+      },
+      {
+        "Class": "shadow-md",
+        "Properties": "box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);\n"
+      },
+      {
+        "Class": "shadow-lg",
+        "Properties": "box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);\n"
+      },
+      {
+        "Class": "shadow-xl",
+        "Properties": "box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);\n"
+      },
+      {
+        "Class": "shadow-2xl",
+        "Properties": "box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);\n"
+      },
+      {
+        "Class": "shadow-inner",
+        "Properties": "box-shadow: inset 0 2px 4px 0 rgb(0 0 0 / 0.05);\n"
+      },
+      {
+        "Class": "shadow-none",
+        "Properties": "box-shadow: 0 0 #0000;\n"
+      }
+    ]
+  },
+  {
+    "name": "Box Shadow Color",
+    "table": [
+      {
+        "Class": "shadow-inherit",
+        "Properties": "--tw-shadow-color: inherit;\n"
+      },
+      {
+        "Class": "shadow-current",
+        "Properties": "--tw-shadow-color: currentColor;\n"
+      },
+      {
+        "Class": "shadow-transparent",
+        "Properties": "--tw-shadow-color: transparent;\n"
+      },
+      {
+        "Class": "shadow-black",
+        "Properties": "--tw-shadow-color: #000;\n"
+      },
+      {
+        "Class": "shadow-white",
+        "Properties": "--tw-shadow-color: #fff;\n"
+      },
+      {
+        "Class": "shadow-slate-50",
+        "Properties": "--tw-shadow-color: #f8fafc;\n"
+      },
+      {
+        "Class": "shadow-slate-100",
+        "Properties": "--tw-shadow-color: #f1f5f9;\n"
+      },
+      {
+        "Class": "shadow-slate-200",
+        "Properties": "--tw-shadow-color: #e2e8f0;\n"
+      },
+      {
+        "Class": "shadow-slate-300",
+        "Properties": "--tw-shadow-color: #cbd5e1;\n"
+      },
+      {
+        "Class": "shadow-slate-400",
+        "Properties": "--tw-shadow-color: #94a3b8;\n"
+      },
+      {
+        "Class": "shadow-slate-500",
+        "Properties": "--tw-shadow-color: #64748b;\n"
+      },
+      {
+        "Class": "shadow-slate-600",
+        "Properties": "--tw-shadow-color: #475569;\n"
+      },
+      {
+        "Class": "shadow-slate-700",
+        "Properties": "--tw-shadow-color: #334155;\n"
+      },
+      {
+        "Class": "shadow-slate-800",
+        "Properties": "--tw-shadow-color: #1e293b;\n"
+      },
+      {
+        "Class": "shadow-slate-900",
+        "Properties": "--tw-shadow-color: #0f172a;\n"
+      },
+      {
+        "Class": "shadow-gray-50",
+        "Properties": "--tw-shadow-color: #f9fafb;\n"
+      },
+      {
+        "Class": "shadow-gray-100",
+        "Properties": "--tw-shadow-color: #f3f4f6;\n"
+      },
+      {
+        "Class": "shadow-gray-200",
+        "Properties": "--tw-shadow-color: #e5e7eb;\n"
+      },
+      {
+        "Class": "shadow-gray-300",
+        "Properties": "--tw-shadow-color: #d1d5db;\n"
+      },
+      {
+        "Class": "shadow-gray-400",
+        "Properties": "--tw-shadow-color: #9ca3af;\n"
+      },
+      {
+        "Class": "shadow-gray-500",
+        "Properties": "--tw-shadow-color: #6b7280;\n"
+      },
+      {
+        "Class": "shadow-gray-600",
+        "Properties": "--tw-shadow-color: #4b5563;\n"
+      },
+      {
+        "Class": "shadow-gray-700",
+        "Properties": "--tw-shadow-color: #374151;\n"
+      },
+      {
+        "Class": "shadow-gray-800",
+        "Properties": "--tw-shadow-color: #1f2937;\n"
+      },
+      {
+        "Class": "shadow-gray-900",
+        "Properties": "--tw-shadow-color: #111827;\n"
+      },
+      {
+        "Class": "shadow-zinc-50",
+        "Properties": "--tw-shadow-color: #fafafa;\n"
+      },
+      {
+        "Class": "shadow-zinc-100",
+        "Properties": "--tw-shadow-color: #f4f4f5;\n"
+      },
+      {
+        "Class": "shadow-zinc-200",
+        "Properties": "--tw-shadow-color: #e4e4e7;\n"
+      },
+      {
+        "Class": "shadow-zinc-300",
+        "Properties": "--tw-shadow-color: #d4d4d8;\n"
+      },
+      {
+        "Class": "shadow-zinc-400",
+        "Properties": "--tw-shadow-color: #a1a1aa;\n"
+      },
+      {
+        "Class": "shadow-zinc-500",
+        "Properties": "--tw-shadow-color: #71717a;\n"
+      },
+      {
+        "Class": "shadow-zinc-600",
+        "Properties": "--tw-shadow-color: #52525b;\n"
+      },
+      {
+        "Class": "shadow-zinc-700",
+        "Properties": "--tw-shadow-color: #3f3f46;\n"
+      },
+      {
+        "Class": "shadow-zinc-800",
+        "Properties": "--tw-shadow-color: #27272a;\n"
+      },
+      {
+        "Class": "shadow-zinc-900",
+        "Properties": "--tw-shadow-color: #18181b;\n"
+      },
+      {
+        "Class": "shadow-neutral-50",
+        "Properties": "--tw-shadow-color: #fafafa;\n"
+      },
+      {
+        "Class": "shadow-neutral-100",
+        "Properties": "--tw-shadow-color: #f5f5f5;\n"
+      },
+      {
+        "Class": "shadow-neutral-200",
+        "Properties": "--tw-shadow-color: #e5e5e5;\n"
+      },
+      {
+        "Class": "shadow-neutral-300",
+        "Properties": "--tw-shadow-color: #d4d4d4;\n"
+      },
+      {
+        "Class": "shadow-neutral-400",
+        "Properties": "--tw-shadow-color: #a3a3a3;\n"
+      },
+      {
+        "Class": "shadow-neutral-500",
+        "Properties": "--tw-shadow-color: #737373;\n"
+      },
+      {
+        "Class": "shadow-neutral-600",
+        "Properties": "--tw-shadow-color: #525252;\n"
+      },
+      {
+        "Class": "shadow-neutral-700",
+        "Properties": "--tw-shadow-color: #404040;\n"
+      },
+      {
+        "Class": "shadow-neutral-800",
+        "Properties": "--tw-shadow-color: #262626;\n"
+      },
+      {
+        "Class": "shadow-neutral-900",
+        "Properties": "--tw-shadow-color: #171717;\n"
+      },
+      {
+        "Class": "shadow-stone-50",
+        "Properties": "--tw-shadow-color: #fafaf9;\n"
+      },
+      {
+        "Class": "shadow-stone-100",
+        "Properties": "--tw-shadow-color: #f5f5f4;\n"
+      },
+      {
+        "Class": "shadow-stone-200",
+        "Properties": "--tw-shadow-color: #e7e5e4;\n"
+      },
+      {
+        "Class": "shadow-stone-300",
+        "Properties": "--tw-shadow-color: #d6d3d1;\n"
+      },
+      {
+        "Class": "shadow-stone-400",
+        "Properties": "--tw-shadow-color: #a8a29e;\n"
+      },
+      {
+        "Class": "shadow-stone-500",
+        "Properties": "--tw-shadow-color: #78716c;\n"
+      },
+      {
+        "Class": "shadow-stone-600",
+        "Properties": "--tw-shadow-color: #57534e;\n"
+      },
+      {
+        "Class": "shadow-stone-700",
+        "Properties": "--tw-shadow-color: #44403c;\n"
+      },
+      {
+        "Class": "shadow-stone-800",
+        "Properties": "--tw-shadow-color: #292524;\n"
+      },
+      {
+        "Class": "shadow-stone-900",
+        "Properties": "--tw-shadow-color: #1c1917;\n"
+      },
+      {
+        "Class": "shadow-red-50",
+        "Properties": "--tw-shadow-color: #fef2f2;\n"
+      },
+      {
+        "Class": "shadow-red-100",
+        "Properties": "--tw-shadow-color: #fee2e2;\n"
+      },
+      {
+        "Class": "shadow-red-200",
+        "Properties": "--tw-shadow-color: #fecaca;\n"
+      },
+      {
+        "Class": "shadow-red-300",
+        "Properties": "--tw-shadow-color: #fca5a5;\n"
+      },
+      {
+        "Class": "shadow-red-400",
+        "Properties": "--tw-shadow-color: #f87171;\n"
+      },
+      {
+        "Class": "shadow-red-500",
+        "Properties": "--tw-shadow-color: #ef4444;\n"
+      },
+      {
+        "Class": "shadow-red-600",
+        "Properties": "--tw-shadow-color: #dc2626;\n"
+      },
+      {
+        "Class": "shadow-red-700",
+        "Properties": "--tw-shadow-color: #b91c1c;\n"
+      },
+      {
+        "Class": "shadow-red-800",
+        "Properties": "--tw-shadow-color: #991b1b;\n"
+      },
+      {
+        "Class": "shadow-red-900",
+        "Properties": "--tw-shadow-color: #7f1d1d;\n"
+      },
+      {
+        "Class": "shadow-orange-50",
+        "Properties": "--tw-shadow-color: #fff7ed;\n"
+      },
+      {
+        "Class": "shadow-orange-100",
+        "Properties": "--tw-shadow-color: #ffedd5;\n"
+      },
+      {
+        "Class": "shadow-orange-200",
+        "Properties": "--tw-shadow-color: #fed7aa;\n"
+      },
+      {
+        "Class": "shadow-orange-300",
+        "Properties": "--tw-shadow-color: #fdba74;\n"
+      },
+      {
+        "Class": "shadow-orange-400",
+        "Properties": "--tw-shadow-color: #fb923c;\n"
+      },
+      {
+        "Class": "shadow-orange-500",
+        "Properties": "--tw-shadow-color: #f97316;\n"
+      },
+      {
+        "Class": "shadow-orange-600",
+        "Properties": "--tw-shadow-color: #ea580c;\n"
+      },
+      {
+        "Class": "shadow-orange-700",
+        "Properties": "--tw-shadow-color: #c2410c;\n"
+      },
+      {
+        "Class": "shadow-orange-800",
+        "Properties": "--tw-shadow-color: #9a3412;\n"
+      },
+      {
+        "Class": "shadow-orange-900",
+        "Properties": "--tw-shadow-color: #7c2d12;\n"
+      },
+      {
+        "Class": "shadow-amber-50",
+        "Properties": "--tw-shadow-color: #fffbeb;\n"
+      },
+      {
+        "Class": "shadow-amber-100",
+        "Properties": "--tw-shadow-color: #fef3c7;\n"
+      },
+      {
+        "Class": "shadow-amber-200",
+        "Properties": "--tw-shadow-color: #fde68a;\n"
+      },
+      {
+        "Class": "shadow-amber-300",
+        "Properties": "--tw-shadow-color: #fcd34d;\n"
+      },
+      {
+        "Class": "shadow-amber-400",
+        "Properties": "--tw-shadow-color: #fbbf24;\n"
+      },
+      {
+        "Class": "shadow-amber-500",
+        "Properties": "--tw-shadow-color: #f59e0b;\n"
+      },
+      {
+        "Class": "shadow-amber-600",
+        "Properties": "--tw-shadow-color: #d97706;\n"
+      },
+      {
+        "Class": "shadow-amber-700",
+        "Properties": "--tw-shadow-color: #b45309;\n"
+      },
+      {
+        "Class": "shadow-amber-800",
+        "Properties": "--tw-shadow-color: #92400e;\n"
+      },
+      {
+        "Class": "shadow-amber-900",
+        "Properties": "--tw-shadow-color: #78350f;\n"
+      },
+      {
+        "Class": "shadow-yellow-50",
+        "Properties": "--tw-shadow-color: #fefce8;\n"
+      },
+      {
+        "Class": "shadow-yellow-100",
+        "Properties": "--tw-shadow-color: #fef9c3;\n"
+      },
+      {
+        "Class": "shadow-yellow-200",
+        "Properties": "--tw-shadow-color: #fef08a;\n"
+      },
+      {
+        "Class": "shadow-yellow-300",
+        "Properties": "--tw-shadow-color: #fde047;\n"
+      },
+      {
+        "Class": "shadow-yellow-400",
+        "Properties": "--tw-shadow-color: #facc15;\n"
+      },
+      {
+        "Class": "shadow-yellow-500",
+        "Properties": "--tw-shadow-color: #eab308;\n"
+      },
+      {
+        "Class": "shadow-yellow-600",
+        "Properties": "--tw-shadow-color: #ca8a04;\n"
+      },
+      {
+        "Class": "shadow-yellow-700",
+        "Properties": "--tw-shadow-color: #a16207;\n"
+      },
+      {
+        "Class": "shadow-yellow-800",
+        "Properties": "--tw-shadow-color: #854d0e;\n"
+      },
+      {
+        "Class": "shadow-yellow-900",
+        "Properties": "--tw-shadow-color: #713f12;\n"
+      },
+      {
+        "Class": "shadow-lime-50",
+        "Properties": "--tw-shadow-color: #f7fee7;\n"
+      },
+      {
+        "Class": "shadow-lime-100",
+        "Properties": "--tw-shadow-color: #ecfccb;\n"
+      },
+      {
+        "Class": "shadow-lime-200",
+        "Properties": "--tw-shadow-color: #d9f99d;\n"
+      },
+      {
+        "Class": "shadow-lime-300",
+        "Properties": "--tw-shadow-color: #bef264;\n"
+      },
+      {
+        "Class": "shadow-lime-400",
+        "Properties": "--tw-shadow-color: #a3e635;\n"
+      },
+      {
+        "Class": "shadow-lime-500",
+        "Properties": "--tw-shadow-color: #84cc16;\n"
+      },
+      {
+        "Class": "shadow-lime-600",
+        "Properties": "--tw-shadow-color: #65a30d;\n"
+      },
+      {
+        "Class": "shadow-lime-700",
+        "Properties": "--tw-shadow-color: #4d7c0f;\n"
+      },
+      {
+        "Class": "shadow-lime-800",
+        "Properties": "--tw-shadow-color: #3f6212;\n"
+      },
+      {
+        "Class": "shadow-lime-900",
+        "Properties": "--tw-shadow-color: #365314;\n"
+      },
+      {
+        "Class": "shadow-green-50",
+        "Properties": "--tw-shadow-color: #f0fdf4;\n"
+      },
+      {
+        "Class": "shadow-green-100",
+        "Properties": "--tw-shadow-color: #dcfce7;\n"
+      },
+      {
+        "Class": "shadow-green-200",
+        "Properties": "--tw-shadow-color: #bbf7d0;\n"
+      },
+      {
+        "Class": "shadow-green-300",
+        "Properties": "--tw-shadow-color: #86efac;\n"
+      },
+      {
+        "Class": "shadow-green-400",
+        "Properties": "--tw-shadow-color: #4ade80;\n"
+      },
+      {
+        "Class": "shadow-green-500",
+        "Properties": "--tw-shadow-color: #22c55e;\n"
+      },
+      {
+        "Class": "shadow-green-600",
+        "Properties": "--tw-shadow-color: #16a34a;\n"
+      },
+      {
+        "Class": "shadow-green-700",
+        "Properties": "--tw-shadow-color: #15803d;\n"
+      },
+      {
+        "Class": "shadow-green-800",
+        "Properties": "--tw-shadow-color: #166534;\n"
+      },
+      {
+        "Class": "shadow-green-900",
+        "Properties": "--tw-shadow-color: #14532d;\n"
+      },
+      {
+        "Class": "shadow-emerald-50",
+        "Properties": "--tw-shadow-color: #ecfdf5;\n"
+      },
+      {
+        "Class": "shadow-emerald-100",
+        "Properties": "--tw-shadow-color: #d1fae5;\n"
+      },
+      {
+        "Class": "shadow-emerald-200",
+        "Properties": "--tw-shadow-color: #a7f3d0;\n"
+      },
+      {
+        "Class": "shadow-emerald-300",
+        "Properties": "--tw-shadow-color: #6ee7b7;\n"
+      },
+      {
+        "Class": "shadow-emerald-400",
+        "Properties": "--tw-shadow-color: #34d399;\n"
+      },
+      {
+        "Class": "shadow-emerald-500",
+        "Properties": "--tw-shadow-color: #10b981;\n"
+      },
+      {
+        "Class": "shadow-emerald-600",
+        "Properties": "--tw-shadow-color: #059669;\n"
+      },
+      {
+        "Class": "shadow-emerald-700",
+        "Properties": "--tw-shadow-color: #047857;\n"
+      },
+      {
+        "Class": "shadow-emerald-800",
+        "Properties": "--tw-shadow-color: #065f46;\n"
+      },
+      {
+        "Class": "shadow-emerald-900",
+        "Properties": "--tw-shadow-color: #064e3b;\n"
+      },
+      {
+        "Class": "shadow-teal-50",
+        "Properties": "--tw-shadow-color: #f0fdfa;\n"
+      },
+      {
+        "Class": "shadow-teal-100",
+        "Properties": "--tw-shadow-color: #ccfbf1;\n"
+      },
+      {
+        "Class": "shadow-teal-200",
+        "Properties": "--tw-shadow-color: #99f6e4;\n"
+      },
+      {
+        "Class": "shadow-teal-300",
+        "Properties": "--tw-shadow-color: #5eead4;\n"
+      },
+      {
+        "Class": "shadow-teal-400",
+        "Properties": "--tw-shadow-color: #2dd4bf;\n"
+      },
+      {
+        "Class": "shadow-teal-500",
+        "Properties": "--tw-shadow-color: #14b8a6;\n"
+      },
+      {
+        "Class": "shadow-teal-600",
+        "Properties": "--tw-shadow-color: #0d9488;\n"
+      },
+      {
+        "Class": "shadow-teal-700",
+        "Properties": "--tw-shadow-color: #0f766e;\n"
+      },
+      {
+        "Class": "shadow-teal-800",
+        "Properties": "--tw-shadow-color: #115e59;\n"
+      },
+      {
+        "Class": "shadow-teal-900",
+        "Properties": "--tw-shadow-color: #134e4a;\n"
+      },
+      {
+        "Class": "shadow-cyan-50",
+        "Properties": "--tw-shadow-color: #ecfeff;\n"
+      },
+      {
+        "Class": "shadow-cyan-100",
+        "Properties": "--tw-shadow-color: #cffafe;\n"
+      },
+      {
+        "Class": "shadow-cyan-200",
+        "Properties": "--tw-shadow-color: #a5f3fc;\n"
+      },
+      {
+        "Class": "shadow-cyan-300",
+        "Properties": "--tw-shadow-color: #67e8f9;\n"
+      },
+      {
+        "Class": "shadow-cyan-400",
+        "Properties": "--tw-shadow-color: #22d3ee;\n"
+      },
+      {
+        "Class": "shadow-cyan-500",
+        "Properties": "--tw-shadow-color: #06b6d4;\n"
+      },
+      {
+        "Class": "shadow-cyan-600",
+        "Properties": "--tw-shadow-color: #0891b2;\n"
+      },
+      {
+        "Class": "shadow-cyan-700",
+        "Properties": "--tw-shadow-color: #0e7490;\n"
+      },
+      {
+        "Class": "shadow-cyan-800",
+        "Properties": "--tw-shadow-color: #155e75;\n"
+      },
+      {
+        "Class": "shadow-cyan-900",
+        "Properties": "--tw-shadow-color: #164e63;\n"
+      },
+      {
+        "Class": "shadow-sky-50",
+        "Properties": "--tw-shadow-color: #f0f9ff;\n"
+      },
+      {
+        "Class": "shadow-sky-100",
+        "Properties": "--tw-shadow-color: #e0f2fe;\n"
+      },
+      {
+        "Class": "shadow-sky-200",
+        "Properties": "--tw-shadow-color: #bae6fd;\n"
+      },
+      {
+        "Class": "shadow-sky-300",
+        "Properties": "--tw-shadow-color: #7dd3fc;\n"
+      },
+      {
+        "Class": "shadow-sky-400",
+        "Properties": "--tw-shadow-color: #38bdf8;\n"
+      },
+      {
+        "Class": "shadow-sky-500",
+        "Properties": "--tw-shadow-color: #0ea5e9;\n"
+      },
+      {
+        "Class": "shadow-sky-600",
+        "Properties": "--tw-shadow-color: #0284c7;\n"
+      },
+      {
+        "Class": "shadow-sky-700",
+        "Properties": "--tw-shadow-color: #0369a1;\n"
+      },
+      {
+        "Class": "shadow-sky-800",
+        "Properties": "--tw-shadow-color: #075985;\n"
+      },
+      {
+        "Class": "shadow-sky-900",
+        "Properties": "--tw-shadow-color: #0c4a6e;\n"
+      },
+      {
+        "Class": "shadow-blue-50",
+        "Properties": "--tw-shadow-color: #eff6ff;\n"
+      },
+      {
+        "Class": "shadow-blue-100",
+        "Properties": "--tw-shadow-color: #dbeafe;\n"
+      },
+      {
+        "Class": "shadow-blue-200",
+        "Properties": "--tw-shadow-color: #bfdbfe;\n"
+      },
+      {
+        "Class": "shadow-blue-300",
+        "Properties": "--tw-shadow-color: #93c5fd;\n"
+      },
+      {
+        "Class": "shadow-blue-400",
+        "Properties": "--tw-shadow-color: #60a5fa;\n"
+      },
+      {
+        "Class": "shadow-blue-500",
+        "Properties": "--tw-shadow-color: #3b82f6;\n"
+      },
+      {
+        "Class": "shadow-blue-600",
+        "Properties": "--tw-shadow-color: #2563eb;\n"
+      },
+      {
+        "Class": "shadow-blue-700",
+        "Properties": "--tw-shadow-color: #1d4ed8;\n"
+      },
+      {
+        "Class": "shadow-blue-800",
+        "Properties": "--tw-shadow-color: #1e40af;\n"
+      },
+      {
+        "Class": "shadow-blue-900",
+        "Properties": "--tw-shadow-color: #1e3a8a;\n"
+      },
+      {
+        "Class": "shadow-indigo-50",
+        "Properties": "--tw-shadow-color: #eef2ff;\n"
+      },
+      {
+        "Class": "shadow-indigo-100",
+        "Properties": "--tw-shadow-color: #e0e7ff;\n"
+      },
+      {
+        "Class": "shadow-indigo-200",
+        "Properties": "--tw-shadow-color: #c7d2fe;\n"
+      },
+      {
+        "Class": "shadow-indigo-300",
+        "Properties": "--tw-shadow-color: #a5b4fc;\n"
+      },
+      {
+        "Class": "shadow-indigo-400",
+        "Properties": "--tw-shadow-color: #818cf8;\n"
+      },
+      {
+        "Class": "shadow-indigo-500",
+        "Properties": "--tw-shadow-color: #6366f1;\n"
+      },
+      {
+        "Class": "shadow-indigo-600",
+        "Properties": "--tw-shadow-color: #4f46e5;\n"
+      },
+      {
+        "Class": "shadow-indigo-700",
+        "Properties": "--tw-shadow-color: #4338ca;\n"
+      },
+      {
+        "Class": "shadow-indigo-800",
+        "Properties": "--tw-shadow-color: #3730a3;\n"
+      },
+      {
+        "Class": "shadow-indigo-900",
+        "Properties": "--tw-shadow-color: #312e81;\n"
+      },
+      {
+        "Class": "shadow-violet-50",
+        "Properties": "--tw-shadow-color: #f5f3ff;\n"
+      },
+      {
+        "Class": "shadow-violet-100",
+        "Properties": "--tw-shadow-color: #ede9fe;\n"
+      },
+      {
+        "Class": "shadow-violet-200",
+        "Properties": "--tw-shadow-color: #ddd6fe;\n"
+      },
+      {
+        "Class": "shadow-violet-300",
+        "Properties": "--tw-shadow-color: #c4b5fd;\n"
+      },
+      {
+        "Class": "shadow-violet-400",
+        "Properties": "--tw-shadow-color: #a78bfa;\n"
+      },
+      {
+        "Class": "shadow-violet-500",
+        "Properties": "--tw-shadow-color: #8b5cf6;\n"
+      },
+      {
+        "Class": "shadow-violet-600",
+        "Properties": "--tw-shadow-color: #7c3aed;\n"
+      },
+      {
+        "Class": "shadow-violet-700",
+        "Properties": "--tw-shadow-color: #6d28d9;\n"
+      },
+      {
+        "Class": "shadow-violet-800",
+        "Properties": "--tw-shadow-color: #5b21b6;\n"
+      },
+      {
+        "Class": "shadow-violet-900",
+        "Properties": "--tw-shadow-color: #4c1d95;\n"
+      },
+      {
+        "Class": "shadow-purple-50",
+        "Properties": "--tw-shadow-color: #faf5ff;\n"
+      },
+      {
+        "Class": "shadow-purple-100",
+        "Properties": "--tw-shadow-color: #f3e8ff;\n"
+      },
+      {
+        "Class": "shadow-purple-200",
+        "Properties": "--tw-shadow-color: #e9d5ff;\n"
+      },
+      {
+        "Class": "shadow-purple-300",
+        "Properties": "--tw-shadow-color: #d8b4fe;\n"
+      },
+      {
+        "Class": "shadow-purple-400",
+        "Properties": "--tw-shadow-color: #c084fc;\n"
+      },
+      {
+        "Class": "shadow-purple-500",
+        "Properties": "--tw-shadow-color: #a855f7;\n"
+      },
+      {
+        "Class": "shadow-purple-600",
+        "Properties": "--tw-shadow-color: #9333ea;\n"
+      },
+      {
+        "Class": "shadow-purple-700",
+        "Properties": "--tw-shadow-color: #7e22ce;\n"
+      },
+      {
+        "Class": "shadow-purple-800",
+        "Properties": "--tw-shadow-color: #6b21a8;\n"
+      },
+      {
+        "Class": "shadow-purple-900",
+        "Properties": "--tw-shadow-color: #581c87;\n"
+      },
+      {
+        "Class": "shadow-fuchsia-50",
+        "Properties": "--tw-shadow-color: #fdf4ff;\n"
+      },
+      {
+        "Class": "shadow-fuchsia-100",
+        "Properties": "--tw-shadow-color: #fae8ff;\n"
+      },
+      {
+        "Class": "shadow-fuchsia-200",
+        "Properties": "--tw-shadow-color: #f5d0fe;\n"
+      },
+      {
+        "Class": "shadow-fuchsia-300",
+        "Properties": "--tw-shadow-color: #f0abfc;\n"
+      },
+      {
+        "Class": "shadow-fuchsia-400",
+        "Properties": "--tw-shadow-color: #e879f9;\n"
+      },
+      {
+        "Class": "shadow-fuchsia-500",
+        "Properties": "--tw-shadow-color: #d946ef;\n"
+      },
+      {
+        "Class": "shadow-fuchsia-600",
+        "Properties": "--tw-shadow-color: #c026d3;\n"
+      },
+      {
+        "Class": "shadow-fuchsia-700",
+        "Properties": "--tw-shadow-color: #a21caf;\n"
+      },
+      {
+        "Class": "shadow-fuchsia-800",
+        "Properties": "--tw-shadow-color: #86198f;\n"
+      },
+      {
+        "Class": "shadow-fuchsia-900",
+        "Properties": "--tw-shadow-color: #701a75;\n"
+      },
+      {
+        "Class": "shadow-pink-50",
+        "Properties": "--tw-shadow-color: #fdf2f8;\n"
+      },
+      {
+        "Class": "shadow-pink-100",
+        "Properties": "--tw-shadow-color: #fce7f3;\n"
+      },
+      {
+        "Class": "shadow-pink-200",
+        "Properties": "--tw-shadow-color: #fbcfe8;\n"
+      },
+      {
+        "Class": "shadow-pink-300",
+        "Properties": "--tw-shadow-color: #f9a8d4;\n"
+      },
+      {
+        "Class": "shadow-pink-400",
+        "Properties": "--tw-shadow-color: #f472b6;\n"
+      },
+      {
+        "Class": "shadow-pink-500",
+        "Properties": "--tw-shadow-color: #ec4899;\n"
+      },
+      {
+        "Class": "shadow-pink-600",
+        "Properties": "--tw-shadow-color: #db2777;\n"
+      },
+      {
+        "Class": "shadow-pink-700",
+        "Properties": "--tw-shadow-color: #be185d;\n"
+      },
+      {
+        "Class": "shadow-pink-800",
+        "Properties": "--tw-shadow-color: #9d174d;\n"
+      },
+      {
+        "Class": "shadow-pink-900",
+        "Properties": "--tw-shadow-color: #831843;\n"
+      },
+      {
+        "Class": "shadow-rose-50",
+        "Properties": "--tw-shadow-color: #fff1f2;\n"
+      },
+      {
+        "Class": "shadow-rose-100",
+        "Properties": "--tw-shadow-color: #ffe4e6;\n"
+      },
+      {
+        "Class": "shadow-rose-200",
+        "Properties": "--tw-shadow-color: #fecdd3;\n"
+      },
+      {
+        "Class": "shadow-rose-300",
+        "Properties": "--tw-shadow-color: #fda4af;\n"
+      },
+      {
+        "Class": "shadow-rose-400",
+        "Properties": "--tw-shadow-color: #fb7185;\n"
+      },
+      {
+        "Class": "shadow-rose-500",
+        "Properties": "--tw-shadow-color: #f43f5e;\n"
+      },
+      {
+        "Class": "shadow-rose-600",
+        "Properties": "--tw-shadow-color: #e11d48;\n"
+      },
+      {
+        "Class": "shadow-rose-700",
+        "Properties": "--tw-shadow-color: #be123c;\n"
+      },
+      {
+        "Class": "shadow-rose-800",
+        "Properties": "--tw-shadow-color: #9f1239;\n"
+      },
+      {
+        "Class": "shadow-rose-900",
+        "Properties": "--tw-shadow-color: #881337;\n"
+      }
+    ]
+  },
+  {
+    "name": "Opacity",
+    "table": [
+      {
+        "Class": "opacity-0",
+        "Properties": "opacity: 0;\n"
+      },
+      {
+        "Class": "opacity-5",
+        "Properties": "opacity: 0.05;\n"
+      },
+      {
+        "Class": "opacity-10",
+        "Properties": "opacity: 0.1;\n"
+      },
+      {
+        "Class": "opacity-20",
+        "Properties": "opacity: 0.2;\n"
+      },
+      {
+        "Class": "opacity-25",
+        "Properties": "opacity: 0.25;\n"
+      },
+      {
+        "Class": "opacity-30",
+        "Properties": "opacity: 0.3;\n"
+      },
+      {
+        "Class": "opacity-40",
+        "Properties": "opacity: 0.4;\n"
+      },
+      {
+        "Class": "opacity-50",
+        "Properties": "opacity: 0.5;\n"
+      },
+      {
+        "Class": "opacity-60",
+        "Properties": "opacity: 0.6;\n"
+      },
+      {
+        "Class": "opacity-70",
+        "Properties": "opacity: 0.7;\n"
+      },
+      {
+        "Class": "opacity-75",
+        "Properties": "opacity: 0.75;\n"
+      },
+      {
+        "Class": "opacity-80",
+        "Properties": "opacity: 0.8;\n"
+      },
+      {
+        "Class": "opacity-90",
+        "Properties": "opacity: 0.9;\n"
+      },
+      {
+        "Class": "opacity-95",
+        "Properties": "opacity: 0.95;\n"
+      },
+      {
+        "Class": "opacity-100",
+        "Properties": "opacity: 1;\n"
+      }
+    ]
+  },
+  {
+    "name": "Mix Blend Mode",
+    "table": [
+      {
+        "Class": "mix-blend-normal",
+        "Properties": "mix-blend-mode: normal;\n"
+      },
+      {
+        "Class": "mix-blend-multiply",
+        "Properties": "mix-blend-mode: multiply;\n"
+      },
+      {
+        "Class": "mix-blend-screen",
+        "Properties": "mix-blend-mode: screen;\n"
+      },
+      {
+        "Class": "mix-blend-overlay",
+        "Properties": "mix-blend-mode: overlay;\n"
+      },
+      {
+        "Class": "mix-blend-darken",
+        "Properties": "mix-blend-mode: darken;\n"
+      },
+      {
+        "Class": "mix-blend-lighten",
+        "Properties": "mix-blend-mode: lighten;\n"
+      },
+      {
+        "Class": "mix-blend-color-dodge",
+        "Properties": "mix-blend-mode: color-dodge;\n"
+      },
+      {
+        "Class": "mix-blend-color-burn",
+        "Properties": "mix-blend-mode: color-burn;\n"
+      },
+      {
+        "Class": "mix-blend-hard-light",
+        "Properties": "mix-blend-mode: hard-light;\n"
+      },
+      {
+        "Class": "mix-blend-soft-light",
+        "Properties": "mix-blend-mode: soft-light;\n"
+      },
+      {
+        "Class": "mix-blend-difference",
+        "Properties": "mix-blend-mode: difference;\n"
+      },
+      {
+        "Class": "mix-blend-exclusion",
+        "Properties": "mix-blend-mode: exclusion;\n"
+      },
+      {
+        "Class": "mix-blend-hue",
+        "Properties": "mix-blend-mode: hue;\n"
+      },
+      {
+        "Class": "mix-blend-saturation",
+        "Properties": "mix-blend-mode: saturation;\n"
+      },
+      {
+        "Class": "mix-blend-color",
+        "Properties": "mix-blend-mode: color;\n"
+      },
+      {
+        "Class": "mix-blend-luminosity",
+        "Properties": "mix-blend-mode: luminosity;\n"
+      },
+      {
+        "Class": "mix-blend-plus-lighter",
+        "Properties": "mix-blend-mode: plus-lighter;\n"
+      }
+    ]
+  },
+  {
+    "name": "Background Blend Mode",
+    "table": [
+      {
+        "Class": "bg-blend-normal",
+        "Properties": "background-blend-mode: normal;\n"
+      },
+      {
+        "Class": "bg-blend-multiply",
+        "Properties": "background-blend-mode: multiply;\n"
+      },
+      {
+        "Class": "bg-blend-screen",
+        "Properties": "background-blend-mode: screen;\n"
+      },
+      {
+        "Class": "bg-blend-overlay",
+        "Properties": "background-blend-mode: overlay;\n"
+      },
+      {
+        "Class": "bg-blend-darken",
+        "Properties": "background-blend-mode: darken;\n"
+      },
+      {
+        "Class": "bg-blend-lighten",
+        "Properties": "background-blend-mode: lighten;\n"
+      },
+      {
+        "Class": "bg-blend-color-dodge",
+        "Properties": "background-blend-mode: color-dodge;\n"
+      },
+      {
+        "Class": "bg-blend-color-burn",
+        "Properties": "background-blend-mode: color-burn;\n"
+      },
+      {
+        "Class": "bg-blend-hard-light",
+        "Properties": "background-blend-mode: hard-light;\n"
+      },
+      {
+        "Class": "bg-blend-soft-light",
+        "Properties": "background-blend-mode: soft-light;\n"
+      },
+      {
+        "Class": "bg-blend-difference",
+        "Properties": "background-blend-mode: difference;\n"
+      },
+      {
+        "Class": "bg-blend-exclusion",
+        "Properties": "background-blend-mode: exclusion;\n"
+      },
+      {
+        "Class": "bg-blend-hue",
+        "Properties": "background-blend-mode: hue;\n"
+      },
+      {
+        "Class": "bg-blend-saturation",
+        "Properties": "background-blend-mode: saturation;\n"
+      },
+      {
+        "Class": "bg-blend-color",
+        "Properties": "background-blend-mode: color;\n"
+      },
+      {
+        "Class": "bg-blend-luminosity",
+        "Properties": "background-blend-mode: luminosity;\n"
+      }
+    ]
+  }
+]

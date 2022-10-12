@@ -1,0 +1,14 @@
+{
+  "name": "tw-docs-scraper",
+  "version": "0.1.0",
+  "description": "Just simple use this to scrap class and property from tailwind docs website",
+  "main": "main.js",
+  "author": "6113061",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "puppeteer": "^18.2.1"
+  }
+}

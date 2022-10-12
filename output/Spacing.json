@@ -1,0 +1,2293 @@
+[
+  {
+    "name": "Padding",
+    "table": [
+      {
+        "Class": "p-0",
+        "Properties": "padding: 0px;\n"
+      },
+      {
+        "Class": "px-0",
+        "Properties": "padding-left: 0px;\npadding-right: 0px;\n"
+      },
+      {
+        "Class": "py-0",
+        "Properties": "padding-top: 0px;\npadding-bottom: 0px;\n"
+      },
+      {
+        "Class": "pt-0",
+        "Properties": "padding-top: 0px;\n"
+      },
+      {
+        "Class": "pr-0",
+        "Properties": "padding-right: 0px;\n"
+      },
+      {
+        "Class": "pb-0",
+        "Properties": "padding-bottom: 0px;\n"
+      },
+      {
+        "Class": "pl-0",
+        "Properties": "padding-left: 0px;\n"
+      },
+      {
+        "Class": "p-px",
+        "Properties": "padding: 1px;\n"
+      },
+      {
+        "Class": "px-px",
+        "Properties": "padding-left: 1px;\npadding-right: 1px;\n"
+      },
+      {
+        "Class": "py-px",
+        "Properties": "padding-top: 1px;\npadding-bottom: 1px;\n"
+      },
+      {
+        "Class": "pt-px",
+        "Properties": "padding-top: 1px;\n"
+      },
+      {
+        "Class": "pr-px",
+        "Properties": "padding-right: 1px;\n"
+      },
+      {
+        "Class": "pb-px",
+        "Properties": "padding-bottom: 1px;\n"
+      },
+      {
+        "Class": "pl-px",
+        "Properties": "padding-left: 1px;\n"
+      },
+      {
+        "Class": "p-0.5",
+        "Properties": "padding: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "px-0.5",
+        "Properties": "padding-left: 0.125rem; /* 2px */\npadding-right: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "py-0.5",
+        "Properties": "padding-top: 0.125rem; /* 2px */\npadding-bottom: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "pt-0.5",
+        "Properties": "padding-top: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "pr-0.5",
+        "Properties": "padding-right: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "pb-0.5",
+        "Properties": "padding-bottom: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "pl-0.5",
+        "Properties": "padding-left: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "p-1",
+        "Properties": "padding: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "px-1",
+        "Properties": "padding-left: 0.25rem; /* 4px */\npadding-right: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "py-1",
+        "Properties": "padding-top: 0.25rem; /* 4px */\npadding-bottom: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "pt-1",
+        "Properties": "padding-top: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "pr-1",
+        "Properties": "padding-right: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "pb-1",
+        "Properties": "padding-bottom: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "pl-1",
+        "Properties": "padding-left: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "p-1.5",
+        "Properties": "padding: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "px-1.5",
+        "Properties": "padding-left: 0.375rem; /* 6px */\npadding-right: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "py-1.5",
+        "Properties": "padding-top: 0.375rem; /* 6px */\npadding-bottom: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "pt-1.5",
+        "Properties": "padding-top: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "pr-1.5",
+        "Properties": "padding-right: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "pb-1.5",
+        "Properties": "padding-bottom: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "pl-1.5",
+        "Properties": "padding-left: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "p-2",
+        "Properties": "padding: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "px-2",
+        "Properties": "padding-left: 0.5rem; /* 8px */\npadding-right: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "py-2",
+        "Properties": "padding-top: 0.5rem; /* 8px */\npadding-bottom: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "pt-2",
+        "Properties": "padding-top: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "pr-2",
+        "Properties": "padding-right: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "pb-2",
+        "Properties": "padding-bottom: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "pl-2",
+        "Properties": "padding-left: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "p-2.5",
+        "Properties": "padding: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "px-2.5",
+        "Properties": "padding-left: 0.625rem; /* 10px */\npadding-right: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "py-2.5",
+        "Properties": "padding-top: 0.625rem; /* 10px */\npadding-bottom: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "pt-2.5",
+        "Properties": "padding-top: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "pr-2.5",
+        "Properties": "padding-right: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "pb-2.5",
+        "Properties": "padding-bottom: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "pl-2.5",
+        "Properties": "padding-left: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "p-3",
+        "Properties": "padding: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "px-3",
+        "Properties": "padding-left: 0.75rem; /* 12px */\npadding-right: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "py-3",
+        "Properties": "padding-top: 0.75rem; /* 12px */\npadding-bottom: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "pt-3",
+        "Properties": "padding-top: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "pr-3",
+        "Properties": "padding-right: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "pb-3",
+        "Properties": "padding-bottom: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "pl-3",
+        "Properties": "padding-left: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "p-3.5",
+        "Properties": "padding: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "px-3.5",
+        "Properties": "padding-left: 0.875rem; /* 14px */\npadding-right: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "py-3.5",
+        "Properties": "padding-top: 0.875rem; /* 14px */\npadding-bottom: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "pt-3.5",
+        "Properties": "padding-top: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "pr-3.5",
+        "Properties": "padding-right: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "pb-3.5",
+        "Properties": "padding-bottom: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "pl-3.5",
+        "Properties": "padding-left: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "p-4",
+        "Properties": "padding: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "px-4",
+        "Properties": "padding-left: 1rem; /* 16px */\npadding-right: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "py-4",
+        "Properties": "padding-top: 1rem; /* 16px */\npadding-bottom: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "pt-4",
+        "Properties": "padding-top: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "pr-4",
+        "Properties": "padding-right: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "pb-4",
+        "Properties": "padding-bottom: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "pl-4",
+        "Properties": "padding-left: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "p-5",
+        "Properties": "padding: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "px-5",
+        "Properties": "padding-left: 1.25rem; /* 20px */\npadding-right: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "py-5",
+        "Properties": "padding-top: 1.25rem; /* 20px */\npadding-bottom: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "pt-5",
+        "Properties": "padding-top: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "pr-5",
+        "Properties": "padding-right: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "pb-5",
+        "Properties": "padding-bottom: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "pl-5",
+        "Properties": "padding-left: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "p-6",
+        "Properties": "padding: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "px-6",
+        "Properties": "padding-left: 1.5rem; /* 24px */\npadding-right: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "py-6",
+        "Properties": "padding-top: 1.5rem; /* 24px */\npadding-bottom: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "pt-6",
+        "Properties": "padding-top: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "pr-6",
+        "Properties": "padding-right: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "pb-6",
+        "Properties": "padding-bottom: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "pl-6",
+        "Properties": "padding-left: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "p-7",
+        "Properties": "padding: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "px-7",
+        "Properties": "padding-left: 1.75rem; /* 28px */\npadding-right: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "py-7",
+        "Properties": "padding-top: 1.75rem; /* 28px */\npadding-bottom: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "pt-7",
+        "Properties": "padding-top: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "pr-7",
+        "Properties": "padding-right: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "pb-7",
+        "Properties": "padding-bottom: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "pl-7",
+        "Properties": "padding-left: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "p-8",
+        "Properties": "padding: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "px-8",
+        "Properties": "padding-left: 2rem; /* 32px */\npadding-right: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "py-8",
+        "Properties": "padding-top: 2rem; /* 32px */\npadding-bottom: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "pt-8",
+        "Properties": "padding-top: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "pr-8",
+        "Properties": "padding-right: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "pb-8",
+        "Properties": "padding-bottom: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "pl-8",
+        "Properties": "padding-left: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "p-9",
+        "Properties": "padding: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "px-9",
+        "Properties": "padding-left: 2.25rem; /* 36px */\npadding-right: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "py-9",
+        "Properties": "padding-top: 2.25rem; /* 36px */\npadding-bottom: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "pt-9",
+        "Properties": "padding-top: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "pr-9",
+        "Properties": "padding-right: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "pb-9",
+        "Properties": "padding-bottom: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "pl-9",
+        "Properties": "padding-left: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "p-10",
+        "Properties": "padding: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "px-10",
+        "Properties": "padding-left: 2.5rem; /* 40px */\npadding-right: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "py-10",
+        "Properties": "padding-top: 2.5rem; /* 40px */\npadding-bottom: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "pt-10",
+        "Properties": "padding-top: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "pr-10",
+        "Properties": "padding-right: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "pb-10",
+        "Properties": "padding-bottom: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "pl-10",
+        "Properties": "padding-left: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "p-11",
+        "Properties": "padding: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "px-11",
+        "Properties": "padding-left: 2.75rem; /* 44px */\npadding-right: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "py-11",
+        "Properties": "padding-top: 2.75rem; /* 44px */\npadding-bottom: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "pt-11",
+        "Properties": "padding-top: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "pr-11",
+        "Properties": "padding-right: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "pb-11",
+        "Properties": "padding-bottom: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "pl-11",
+        "Properties": "padding-left: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "p-12",
+        "Properties": "padding: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "px-12",
+        "Properties": "padding-left: 3rem; /* 48px */\npadding-right: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "py-12",
+        "Properties": "padding-top: 3rem; /* 48px */\npadding-bottom: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "pt-12",
+        "Properties": "padding-top: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "pr-12",
+        "Properties": "padding-right: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "pb-12",
+        "Properties": "padding-bottom: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "pl-12",
+        "Properties": "padding-left: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "p-14",
+        "Properties": "padding: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "px-14",
+        "Properties": "padding-left: 3.5rem; /* 56px */\npadding-right: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "py-14",
+        "Properties": "padding-top: 3.5rem; /* 56px */\npadding-bottom: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "pt-14",
+        "Properties": "padding-top: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "pr-14",
+        "Properties": "padding-right: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "pb-14",
+        "Properties": "padding-bottom: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "pl-14",
+        "Properties": "padding-left: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "p-16",
+        "Properties": "padding: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "px-16",
+        "Properties": "padding-left: 4rem; /* 64px */\npadding-right: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "py-16",
+        "Properties": "padding-top: 4rem; /* 64px */\npadding-bottom: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "pt-16",
+        "Properties": "padding-top: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "pr-16",
+        "Properties": "padding-right: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "pb-16",
+        "Properties": "padding-bottom: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "pl-16",
+        "Properties": "padding-left: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "p-20",
+        "Properties": "padding: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "px-20",
+        "Properties": "padding-left: 5rem; /* 80px */\npadding-right: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "py-20",
+        "Properties": "padding-top: 5rem; /* 80px */\npadding-bottom: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "pt-20",
+        "Properties": "padding-top: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "pr-20",
+        "Properties": "padding-right: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "pb-20",
+        "Properties": "padding-bottom: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "pl-20",
+        "Properties": "padding-left: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "p-24",
+        "Properties": "padding: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "px-24",
+        "Properties": "padding-left: 6rem; /* 96px */\npadding-right: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "py-24",
+        "Properties": "padding-top: 6rem; /* 96px */\npadding-bottom: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "pt-24",
+        "Properties": "padding-top: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "pr-24",
+        "Properties": "padding-right: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "pb-24",
+        "Properties": "padding-bottom: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "pl-24",
+        "Properties": "padding-left: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "p-28",
+        "Properties": "padding: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "px-28",
+        "Properties": "padding-left: 7rem; /* 112px */\npadding-right: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "py-28",
+        "Properties": "padding-top: 7rem; /* 112px */\npadding-bottom: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "pt-28",
+        "Properties": "padding-top: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "pr-28",
+        "Properties": "padding-right: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "pb-28",
+        "Properties": "padding-bottom: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "pl-28",
+        "Properties": "padding-left: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "p-32",
+        "Properties": "padding: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "px-32",
+        "Properties": "padding-left: 8rem; /* 128px */\npadding-right: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "py-32",
+        "Properties": "padding-top: 8rem; /* 128px */\npadding-bottom: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "pt-32",
+        "Properties": "padding-top: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "pr-32",
+        "Properties": "padding-right: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "pb-32",
+        "Properties": "padding-bottom: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "pl-32",
+        "Properties": "padding-left: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "p-36",
+        "Properties": "padding: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "px-36",
+        "Properties": "padding-left: 9rem; /* 144px */\npadding-right: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "py-36",
+        "Properties": "padding-top: 9rem; /* 144px */\npadding-bottom: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "pt-36",
+        "Properties": "padding-top: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "pr-36",
+        "Properties": "padding-right: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "pb-36",
+        "Properties": "padding-bottom: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "pl-36",
+        "Properties": "padding-left: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "p-40",
+        "Properties": "padding: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "px-40",
+        "Properties": "padding-left: 10rem; /* 160px */\npadding-right: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "py-40",
+        "Properties": "padding-top: 10rem; /* 160px */\npadding-bottom: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "pt-40",
+        "Properties": "padding-top: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "pr-40",
+        "Properties": "padding-right: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "pb-40",
+        "Properties": "padding-bottom: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "pl-40",
+        "Properties": "padding-left: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "p-44",
+        "Properties": "padding: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "px-44",
+        "Properties": "padding-left: 11rem; /* 176px */\npadding-right: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "py-44",
+        "Properties": "padding-top: 11rem; /* 176px */\npadding-bottom: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "pt-44",
+        "Properties": "padding-top: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "pr-44",
+        "Properties": "padding-right: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "pb-44",
+        "Properties": "padding-bottom: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "pl-44",
+        "Properties": "padding-left: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "p-48",
+        "Properties": "padding: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "px-48",
+        "Properties": "padding-left: 12rem; /* 192px */\npadding-right: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "py-48",
+        "Properties": "padding-top: 12rem; /* 192px */\npadding-bottom: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "pt-48",
+        "Properties": "padding-top: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "pr-48",
+        "Properties": "padding-right: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "pb-48",
+        "Properties": "padding-bottom: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "pl-48",
+        "Properties": "padding-left: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "p-52",
+        "Properties": "padding: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "px-52",
+        "Properties": "padding-left: 13rem; /* 208px */\npadding-right: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "py-52",
+        "Properties": "padding-top: 13rem; /* 208px */\npadding-bottom: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "pt-52",
+        "Properties": "padding-top: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "pr-52",
+        "Properties": "padding-right: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "pb-52",
+        "Properties": "padding-bottom: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "pl-52",
+        "Properties": "padding-left: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "p-56",
+        "Properties": "padding: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "px-56",
+        "Properties": "padding-left: 14rem; /* 224px */\npadding-right: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "py-56",
+        "Properties": "padding-top: 14rem; /* 224px */\npadding-bottom: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "pt-56",
+        "Properties": "padding-top: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "pr-56",
+        "Properties": "padding-right: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "pb-56",
+        "Properties": "padding-bottom: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "pl-56",
+        "Properties": "padding-left: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "p-60",
+        "Properties": "padding: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "px-60",
+        "Properties": "padding-left: 15rem; /* 240px */\npadding-right: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "py-60",
+        "Properties": "padding-top: 15rem; /* 240px */\npadding-bottom: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "pt-60",
+        "Properties": "padding-top: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "pr-60",
+        "Properties": "padding-right: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "pb-60",
+        "Properties": "padding-bottom: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "pl-60",
+        "Properties": "padding-left: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "p-64",
+        "Properties": "padding: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "px-64",
+        "Properties": "padding-left: 16rem; /* 256px */\npadding-right: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "py-64",
+        "Properties": "padding-top: 16rem; /* 256px */\npadding-bottom: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "pt-64",
+        "Properties": "padding-top: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "pr-64",
+        "Properties": "padding-right: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "pb-64",
+        "Properties": "padding-bottom: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "pl-64",
+        "Properties": "padding-left: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "p-72",
+        "Properties": "padding: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "px-72",
+        "Properties": "padding-left: 18rem; /* 288px */\npadding-right: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "py-72",
+        "Properties": "padding-top: 18rem; /* 288px */\npadding-bottom: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "pt-72",
+        "Properties": "padding-top: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "pr-72",
+        "Properties": "padding-right: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "pb-72",
+        "Properties": "padding-bottom: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "pl-72",
+        "Properties": "padding-left: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "p-80",
+        "Properties": "padding: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "px-80",
+        "Properties": "padding-left: 20rem; /* 320px */\npadding-right: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "py-80",
+        "Properties": "padding-top: 20rem; /* 320px */\npadding-bottom: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "pt-80",
+        "Properties": "padding-top: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "pr-80",
+        "Properties": "padding-right: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "pb-80",
+        "Properties": "padding-bottom: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "pl-80",
+        "Properties": "padding-left: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "p-96",
+        "Properties": "padding: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "px-96",
+        "Properties": "padding-left: 24rem; /* 384px */\npadding-right: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "py-96",
+        "Properties": "padding-top: 24rem; /* 384px */\npadding-bottom: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "pt-96",
+        "Properties": "padding-top: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "pr-96",
+        "Properties": "padding-right: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "pb-96",
+        "Properties": "padding-bottom: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "pl-96",
+        "Properties": "padding-left: 24rem; /* 384px */\n"
+      }
+    ]
+  },
+  {
+    "name": "Margin",
+    "table": [
+      {
+        "Class": "m-0",
+        "Properties": "margin: 0px;\n"
+      },
+      {
+        "Class": "mx-0",
+        "Properties": "margin-left: 0px;\nmargin-right: 0px;\n"
+      },
+      {
+        "Class": "my-0",
+        "Properties": "margin-top: 0px;\nmargin-bottom: 0px;\n"
+      },
+      {
+        "Class": "mt-0",
+        "Properties": "margin-top: 0px;\n"
+      },
+      {
+        "Class": "mr-0",
+        "Properties": "margin-right: 0px;\n"
+      },
+      {
+        "Class": "mb-0",
+        "Properties": "margin-bottom: 0px;\n"
+      },
+      {
+        "Class": "ml-0",
+        "Properties": "margin-left: 0px;\n"
+      },
+      {
+        "Class": "m-px",
+        "Properties": "margin: 1px;\n"
+      },
+      {
+        "Class": "mx-px",
+        "Properties": "margin-left: 1px;\nmargin-right: 1px;\n"
+      },
+      {
+        "Class": "my-px",
+        "Properties": "margin-top: 1px;\nmargin-bottom: 1px;\n"
+      },
+      {
+        "Class": "mt-px",
+        "Properties": "margin-top: 1px;\n"
+      },
+      {
+        "Class": "mr-px",
+        "Properties": "margin-right: 1px;\n"
+      },
+      {
+        "Class": "mb-px",
+        "Properties": "margin-bottom: 1px;\n"
+      },
+      {
+        "Class": "ml-px",
+        "Properties": "margin-left: 1px;\n"
+      },
+      {
+        "Class": "m-0.5",
+        "Properties": "margin: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "mx-0.5",
+        "Properties": "margin-left: 0.125rem; /* 2px */\nmargin-right: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "my-0.5",
+        "Properties": "margin-top: 0.125rem; /* 2px */\nmargin-bottom: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "mt-0.5",
+        "Properties": "margin-top: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "mr-0.5",
+        "Properties": "margin-right: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "mb-0.5",
+        "Properties": "margin-bottom: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "ml-0.5",
+        "Properties": "margin-left: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "m-1",
+        "Properties": "margin: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "mx-1",
+        "Properties": "margin-left: 0.25rem; /* 4px */\nmargin-right: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "my-1",
+        "Properties": "margin-top: 0.25rem; /* 4px */\nmargin-bottom: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "mt-1",
+        "Properties": "margin-top: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "mr-1",
+        "Properties": "margin-right: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "mb-1",
+        "Properties": "margin-bottom: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "ml-1",
+        "Properties": "margin-left: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "m-1.5",
+        "Properties": "margin: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "mx-1.5",
+        "Properties": "margin-left: 0.375rem; /* 6px */\nmargin-right: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "my-1.5",
+        "Properties": "margin-top: 0.375rem; /* 6px */\nmargin-bottom: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "mt-1.5",
+        "Properties": "margin-top: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "mr-1.5",
+        "Properties": "margin-right: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "mb-1.5",
+        "Properties": "margin-bottom: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "ml-1.5",
+        "Properties": "margin-left: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "m-2",
+        "Properties": "margin: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "mx-2",
+        "Properties": "margin-left: 0.5rem; /* 8px */\nmargin-right: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "my-2",
+        "Properties": "margin-top: 0.5rem; /* 8px */\nmargin-bottom: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "mt-2",
+        "Properties": "margin-top: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "mr-2",
+        "Properties": "margin-right: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "mb-2",
+        "Properties": "margin-bottom: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "ml-2",
+        "Properties": "margin-left: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "m-2.5",
+        "Properties": "margin: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "mx-2.5",
+        "Properties": "margin-left: 0.625rem; /* 10px */\nmargin-right: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "my-2.5",
+        "Properties": "margin-top: 0.625rem; /* 10px */\nmargin-bottom: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "mt-2.5",
+        "Properties": "margin-top: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "mr-2.5",
+        "Properties": "margin-right: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "mb-2.5",
+        "Properties": "margin-bottom: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "ml-2.5",
+        "Properties": "margin-left: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "m-3",
+        "Properties": "margin: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "mx-3",
+        "Properties": "margin-left: 0.75rem; /* 12px */\nmargin-right: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "my-3",
+        "Properties": "margin-top: 0.75rem; /* 12px */\nmargin-bottom: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "mt-3",
+        "Properties": "margin-top: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "mr-3",
+        "Properties": "margin-right: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "mb-3",
+        "Properties": "margin-bottom: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "ml-3",
+        "Properties": "margin-left: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "m-3.5",
+        "Properties": "margin: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "mx-3.5",
+        "Properties": "margin-left: 0.875rem; /* 14px */\nmargin-right: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "my-3.5",
+        "Properties": "margin-top: 0.875rem; /* 14px */\nmargin-bottom: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "mt-3.5",
+        "Properties": "margin-top: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "mr-3.5",
+        "Properties": "margin-right: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "mb-3.5",
+        "Properties": "margin-bottom: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "ml-3.5",
+        "Properties": "margin-left: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "m-4",
+        "Properties": "margin: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "mx-4",
+        "Properties": "margin-left: 1rem; /* 16px */\nmargin-right: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "my-4",
+        "Properties": "margin-top: 1rem; /* 16px */\nmargin-bottom: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "mt-4",
+        "Properties": "margin-top: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "mr-4",
+        "Properties": "margin-right: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "mb-4",
+        "Properties": "margin-bottom: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "ml-4",
+        "Properties": "margin-left: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "m-5",
+        "Properties": "margin: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "mx-5",
+        "Properties": "margin-left: 1.25rem; /* 20px */\nmargin-right: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "my-5",
+        "Properties": "margin-top: 1.25rem; /* 20px */\nmargin-bottom: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "mt-5",
+        "Properties": "margin-top: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "mr-5",
+        "Properties": "margin-right: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "mb-5",
+        "Properties": "margin-bottom: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "ml-5",
+        "Properties": "margin-left: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "m-6",
+        "Properties": "margin: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "mx-6",
+        "Properties": "margin-left: 1.5rem; /* 24px */\nmargin-right: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "my-6",
+        "Properties": "margin-top: 1.5rem; /* 24px */\nmargin-bottom: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "mt-6",
+        "Properties": "margin-top: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "mr-6",
+        "Properties": "margin-right: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "mb-6",
+        "Properties": "margin-bottom: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "ml-6",
+        "Properties": "margin-left: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "m-7",
+        "Properties": "margin: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "mx-7",
+        "Properties": "margin-left: 1.75rem; /* 28px */\nmargin-right: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "my-7",
+        "Properties": "margin-top: 1.75rem; /* 28px */\nmargin-bottom: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "mt-7",
+        "Properties": "margin-top: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "mr-7",
+        "Properties": "margin-right: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "mb-7",
+        "Properties": "margin-bottom: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "ml-7",
+        "Properties": "margin-left: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "m-8",
+        "Properties": "margin: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "mx-8",
+        "Properties": "margin-left: 2rem; /* 32px */\nmargin-right: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "my-8",
+        "Properties": "margin-top: 2rem; /* 32px */\nmargin-bottom: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "mt-8",
+        "Properties": "margin-top: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "mr-8",
+        "Properties": "margin-right: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "mb-8",
+        "Properties": "margin-bottom: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "ml-8",
+        "Properties": "margin-left: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "m-9",
+        "Properties": "margin: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "mx-9",
+        "Properties": "margin-left: 2.25rem; /* 36px */\nmargin-right: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "my-9",
+        "Properties": "margin-top: 2.25rem; /* 36px */\nmargin-bottom: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "mt-9",
+        "Properties": "margin-top: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "mr-9",
+        "Properties": "margin-right: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "mb-9",
+        "Properties": "margin-bottom: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "ml-9",
+        "Properties": "margin-left: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "m-10",
+        "Properties": "margin: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "mx-10",
+        "Properties": "margin-left: 2.5rem; /* 40px */\nmargin-right: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "my-10",
+        "Properties": "margin-top: 2.5rem; /* 40px */\nmargin-bottom: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "mt-10",
+        "Properties": "margin-top: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "mr-10",
+        "Properties": "margin-right: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "mb-10",
+        "Properties": "margin-bottom: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "ml-10",
+        "Properties": "margin-left: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "m-11",
+        "Properties": "margin: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "mx-11",
+        "Properties": "margin-left: 2.75rem; /* 44px */\nmargin-right: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "my-11",
+        "Properties": "margin-top: 2.75rem; /* 44px */\nmargin-bottom: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "mt-11",
+        "Properties": "margin-top: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "mr-11",
+        "Properties": "margin-right: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "mb-11",
+        "Properties": "margin-bottom: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "ml-11",
+        "Properties": "margin-left: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "m-12",
+        "Properties": "margin: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "mx-12",
+        "Properties": "margin-left: 3rem; /* 48px */\nmargin-right: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "my-12",
+        "Properties": "margin-top: 3rem; /* 48px */\nmargin-bottom: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "mt-12",
+        "Properties": "margin-top: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "mr-12",
+        "Properties": "margin-right: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "mb-12",
+        "Properties": "margin-bottom: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "ml-12",
+        "Properties": "margin-left: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "m-14",
+        "Properties": "margin: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "mx-14",
+        "Properties": "margin-left: 3.5rem; /* 56px */\nmargin-right: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "my-14",
+        "Properties": "margin-top: 3.5rem; /* 56px */\nmargin-bottom: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "mt-14",
+        "Properties": "margin-top: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "mr-14",
+        "Properties": "margin-right: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "mb-14",
+        "Properties": "margin-bottom: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "ml-14",
+        "Properties": "margin-left: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "m-16",
+        "Properties": "margin: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "mx-16",
+        "Properties": "margin-left: 4rem; /* 64px */\nmargin-right: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "my-16",
+        "Properties": "margin-top: 4rem; /* 64px */\nmargin-bottom: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "mt-16",
+        "Properties": "margin-top: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "mr-16",
+        "Properties": "margin-right: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "mb-16",
+        "Properties": "margin-bottom: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "ml-16",
+        "Properties": "margin-left: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "m-20",
+        "Properties": "margin: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "mx-20",
+        "Properties": "margin-left: 5rem; /* 80px */\nmargin-right: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "my-20",
+        "Properties": "margin-top: 5rem; /* 80px */\nmargin-bottom: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "mt-20",
+        "Properties": "margin-top: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "mr-20",
+        "Properties": "margin-right: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "mb-20",
+        "Properties": "margin-bottom: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "ml-20",
+        "Properties": "margin-left: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "m-24",
+        "Properties": "margin: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "mx-24",
+        "Properties": "margin-left: 6rem; /* 96px */\nmargin-right: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "my-24",
+        "Properties": "margin-top: 6rem; /* 96px */\nmargin-bottom: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "mt-24",
+        "Properties": "margin-top: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "mr-24",
+        "Properties": "margin-right: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "mb-24",
+        "Properties": "margin-bottom: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "ml-24",
+        "Properties": "margin-left: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "m-28",
+        "Properties": "margin: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "mx-28",
+        "Properties": "margin-left: 7rem; /* 112px */\nmargin-right: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "my-28",
+        "Properties": "margin-top: 7rem; /* 112px */\nmargin-bottom: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "mt-28",
+        "Properties": "margin-top: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "mr-28",
+        "Properties": "margin-right: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "mb-28",
+        "Properties": "margin-bottom: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "ml-28",
+        "Properties": "margin-left: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "m-32",
+        "Properties": "margin: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "mx-32",
+        "Properties": "margin-left: 8rem; /* 128px */\nmargin-right: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "my-32",
+        "Properties": "margin-top: 8rem; /* 128px */\nmargin-bottom: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "mt-32",
+        "Properties": "margin-top: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "mr-32",
+        "Properties": "margin-right: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "mb-32",
+        "Properties": "margin-bottom: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "ml-32",
+        "Properties": "margin-left: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "m-36",
+        "Properties": "margin: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "mx-36",
+        "Properties": "margin-left: 9rem; /* 144px */\nmargin-right: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "my-36",
+        "Properties": "margin-top: 9rem; /* 144px */\nmargin-bottom: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "mt-36",
+        "Properties": "margin-top: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "mr-36",
+        "Properties": "margin-right: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "mb-36",
+        "Properties": "margin-bottom: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "ml-36",
+        "Properties": "margin-left: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "m-40",
+        "Properties": "margin: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "mx-40",
+        "Properties": "margin-left: 10rem; /* 160px */\nmargin-right: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "my-40",
+        "Properties": "margin-top: 10rem; /* 160px */\nmargin-bottom: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "mt-40",
+        "Properties": "margin-top: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "mr-40",
+        "Properties": "margin-right: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "mb-40",
+        "Properties": "margin-bottom: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "ml-40",
+        "Properties": "margin-left: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "m-44",
+        "Properties": "margin: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "mx-44",
+        "Properties": "margin-left: 11rem; /* 176px */\nmargin-right: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "my-44",
+        "Properties": "margin-top: 11rem; /* 176px */\nmargin-bottom: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "mt-44",
+        "Properties": "margin-top: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "mr-44",
+        "Properties": "margin-right: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "mb-44",
+        "Properties": "margin-bottom: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "ml-44",
+        "Properties": "margin-left: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "m-48",
+        "Properties": "margin: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "mx-48",
+        "Properties": "margin-left: 12rem; /* 192px */\nmargin-right: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "my-48",
+        "Properties": "margin-top: 12rem; /* 192px */\nmargin-bottom: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "mt-48",
+        "Properties": "margin-top: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "mr-48",
+        "Properties": "margin-right: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "mb-48",
+        "Properties": "margin-bottom: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "ml-48",
+        "Properties": "margin-left: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "m-52",
+        "Properties": "margin: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "mx-52",
+        "Properties": "margin-left: 13rem; /* 208px */\nmargin-right: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "my-52",
+        "Properties": "margin-top: 13rem; /* 208px */\nmargin-bottom: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "mt-52",
+        "Properties": "margin-top: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "mr-52",
+        "Properties": "margin-right: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "mb-52",
+        "Properties": "margin-bottom: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "ml-52",
+        "Properties": "margin-left: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "m-56",
+        "Properties": "margin: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "mx-56",
+        "Properties": "margin-left: 14rem; /* 224px */\nmargin-right: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "my-56",
+        "Properties": "margin-top: 14rem; /* 224px */\nmargin-bottom: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "mt-56",
+        "Properties": "margin-top: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "mr-56",
+        "Properties": "margin-right: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "mb-56",
+        "Properties": "margin-bottom: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "ml-56",
+        "Properties": "margin-left: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "m-60",
+        "Properties": "margin: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "mx-60",
+        "Properties": "margin-left: 15rem; /* 240px */\nmargin-right: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "my-60",
+        "Properties": "margin-top: 15rem; /* 240px */\nmargin-bottom: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "mt-60",
+        "Properties": "margin-top: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "mr-60",
+        "Properties": "margin-right: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "mb-60",
+        "Properties": "margin-bottom: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "ml-60",
+        "Properties": "margin-left: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "m-64",
+        "Properties": "margin: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "mx-64",
+        "Properties": "margin-left: 16rem; /* 256px */\nmargin-right: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "my-64",
+        "Properties": "margin-top: 16rem; /* 256px */\nmargin-bottom: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "mt-64",
+        "Properties": "margin-top: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "mr-64",
+        "Properties": "margin-right: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "mb-64",
+        "Properties": "margin-bottom: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "ml-64",
+        "Properties": "margin-left: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "m-72",
+        "Properties": "margin: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "mx-72",
+        "Properties": "margin-left: 18rem; /* 288px */\nmargin-right: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "my-72",
+        "Properties": "margin-top: 18rem; /* 288px */\nmargin-bottom: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "mt-72",
+        "Properties": "margin-top: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "mr-72",
+        "Properties": "margin-right: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "mb-72",
+        "Properties": "margin-bottom: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "ml-72",
+        "Properties": "margin-left: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "m-80",
+        "Properties": "margin: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "mx-80",
+        "Properties": "margin-left: 20rem; /* 320px */\nmargin-right: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "my-80",
+        "Properties": "margin-top: 20rem; /* 320px */\nmargin-bottom: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "mt-80",
+        "Properties": "margin-top: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "mr-80",
+        "Properties": "margin-right: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "mb-80",
+        "Properties": "margin-bottom: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "ml-80",
+        "Properties": "margin-left: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "m-96",
+        "Properties": "margin: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "mx-96",
+        "Properties": "margin-left: 24rem; /* 384px */\nmargin-right: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "my-96",
+        "Properties": "margin-top: 24rem; /* 384px */\nmargin-bottom: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "mt-96",
+        "Properties": "margin-top: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "mr-96",
+        "Properties": "margin-right: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "mb-96",
+        "Properties": "margin-bottom: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "ml-96",
+        "Properties": "margin-left: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "m-auto",
+        "Properties": "margin: auto;\n"
+      },
+      {
+        "Class": "mx-auto",
+        "Properties": "margin-left: auto;\nmargin-right: auto;\n"
+      },
+      {
+        "Class": "my-auto",
+        "Properties": "margin-top: auto;\nmargin-bottom: auto;\n"
+      },
+      {
+        "Class": "mt-auto",
+        "Properties": "margin-top: auto;\n"
+      },
+      {
+        "Class": "mr-auto",
+        "Properties": "margin-right: auto;\n"
+      },
+      {
+        "Class": "mb-auto",
+        "Properties": "margin-bottom: auto;\n"
+      },
+      {
+        "Class": "ml-auto",
+        "Properties": "margin-left: auto;\n"
+      }
+    ]
+  },
+  {
+    "name": "Space Between",
+    "table": [
+      {
+        "Class": "space-x-0 > * + *",
+        "Properties": "margin-left: 0px;\n"
+      },
+      {
+        "Class": "space-y-0 > * + *",
+        "Properties": "margin-top: 0px;\n"
+      },
+      {
+        "Class": "space-x-0.5 > * + *",
+        "Properties": "margin-left: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "space-y-0.5 > * + *",
+        "Properties": "margin-top: 0.125rem; /* 2px */\n"
+      },
+      {
+        "Class": "space-x-1 > * + *",
+        "Properties": "margin-left: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "space-y-1 > * + *",
+        "Properties": "margin-top: 0.25rem; /* 4px */\n"
+      },
+      {
+        "Class": "space-x-1.5 > * + *",
+        "Properties": "margin-left: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "space-y-1.5 > * + *",
+        "Properties": "margin-top: 0.375rem; /* 6px */\n"
+      },
+      {
+        "Class": "space-x-2 > * + *",
+        "Properties": "margin-left: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "space-y-2 > * + *",
+        "Properties": "margin-top: 0.5rem; /* 8px */\n"
+      },
+      {
+        "Class": "space-x-2.5 > * + *",
+        "Properties": "margin-left: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "space-y-2.5 > * + *",
+        "Properties": "margin-top: 0.625rem; /* 10px */\n"
+      },
+      {
+        "Class": "space-x-3 > * + *",
+        "Properties": "margin-left: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "space-y-3 > * + *",
+        "Properties": "margin-top: 0.75rem; /* 12px */\n"
+      },
+      {
+        "Class": "space-x-3.5 > * + *",
+        "Properties": "margin-left: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "space-y-3.5 > * + *",
+        "Properties": "margin-top: 0.875rem; /* 14px */\n"
+      },
+      {
+        "Class": "space-x-4 > * + *",
+        "Properties": "margin-left: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "space-y-4 > * + *",
+        "Properties": "margin-top: 1rem; /* 16px */\n"
+      },
+      {
+        "Class": "space-x-5 > * + *",
+        "Properties": "margin-left: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "space-y-5 > * + *",
+        "Properties": "margin-top: 1.25rem; /* 20px */\n"
+      },
+      {
+        "Class": "space-x-6 > * + *",
+        "Properties": "margin-left: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "space-y-6 > * + *",
+        "Properties": "margin-top: 1.5rem; /* 24px */\n"
+      },
+      {
+        "Class": "space-x-7 > * + *",
+        "Properties": "margin-left: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "space-y-7 > * + *",
+        "Properties": "margin-top: 1.75rem; /* 28px */\n"
+      },
+      {
+        "Class": "space-x-8 > * + *",
+        "Properties": "margin-left: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "space-y-8 > * + *",
+        "Properties": "margin-top: 2rem; /* 32px */\n"
+      },
+      {
+        "Class": "space-x-9 > * + *",
+        "Properties": "margin-left: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "space-y-9 > * + *",
+        "Properties": "margin-top: 2.25rem; /* 36px */\n"
+      },
+      {
+        "Class": "space-x-10 > * + *",
+        "Properties": "margin-left: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "space-y-10 > * + *",
+        "Properties": "margin-top: 2.5rem; /* 40px */\n"
+      },
+      {
+        "Class": "space-x-11 > * + *",
+        "Properties": "margin-left: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "space-y-11 > * + *",
+        "Properties": "margin-top: 2.75rem; /* 44px */\n"
+      },
+      {
+        "Class": "space-x-12 > * + *",
+        "Properties": "margin-left: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "space-y-12 > * + *",
+        "Properties": "margin-top: 3rem; /* 48px */\n"
+      },
+      {
+        "Class": "space-x-14 > * + *",
+        "Properties": "margin-left: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "space-y-14 > * + *",
+        "Properties": "margin-top: 3.5rem; /* 56px */\n"
+      },
+      {
+        "Class": "space-x-16 > * + *",
+        "Properties": "margin-left: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "space-y-16 > * + *",
+        "Properties": "margin-top: 4rem; /* 64px */\n"
+      },
+      {
+        "Class": "space-x-20 > * + *",
+        "Properties": "margin-left: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "space-y-20 > * + *",
+        "Properties": "margin-top: 5rem; /* 80px */\n"
+      },
+      {
+        "Class": "space-x-24 > * + *",
+        "Properties": "margin-left: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "space-y-24 > * + *",
+        "Properties": "margin-top: 6rem; /* 96px */\n"
+      },
+      {
+        "Class": "space-x-28 > * + *",
+        "Properties": "margin-left: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "space-y-28 > * + *",
+        "Properties": "margin-top: 7rem; /* 112px */\n"
+      },
+      {
+        "Class": "space-x-32 > * + *",
+        "Properties": "margin-left: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "space-y-32 > * + *",
+        "Properties": "margin-top: 8rem; /* 128px */\n"
+      },
+      {
+        "Class": "space-x-36 > * + *",
+        "Properties": "margin-left: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "space-y-36 > * + *",
+        "Properties": "margin-top: 9rem; /* 144px */\n"
+      },
+      {
+        "Class": "space-x-40 > * + *",
+        "Properties": "margin-left: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "space-y-40 > * + *",
+        "Properties": "margin-top: 10rem; /* 160px */\n"
+      },
+      {
+        "Class": "space-x-44 > * + *",
+        "Properties": "margin-left: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "space-y-44 > * + *",
+        "Properties": "margin-top: 11rem; /* 176px */\n"
+      },
+      {
+        "Class": "space-x-48 > * + *",
+        "Properties": "margin-left: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "space-y-48 > * + *",
+        "Properties": "margin-top: 12rem; /* 192px */\n"
+      },
+      {
+        "Class": "space-x-52 > * + *",
+        "Properties": "margin-left: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "space-y-52 > * + *",
+        "Properties": "margin-top: 13rem; /* 208px */\n"
+      },
+      {
+        "Class": "space-x-56 > * + *",
+        "Properties": "margin-left: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "space-y-56 > * + *",
+        "Properties": "margin-top: 14rem; /* 224px */\n"
+      },
+      {
+        "Class": "space-x-60 > * + *",
+        "Properties": "margin-left: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "space-y-60 > * + *",
+        "Properties": "margin-top: 15rem; /* 240px */\n"
+      },
+      {
+        "Class": "space-x-64 > * + *",
+        "Properties": "margin-left: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "space-y-64 > * + *",
+        "Properties": "margin-top: 16rem; /* 256px */\n"
+      },
+      {
+        "Class": "space-x-72 > * + *",
+        "Properties": "margin-left: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "space-y-72 > * + *",
+        "Properties": "margin-top: 18rem; /* 288px */\n"
+      },
+      {
+        "Class": "space-x-80 > * + *",
+        "Properties": "margin-left: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "space-y-80 > * + *",
+        "Properties": "margin-top: 20rem; /* 320px */\n"
+      },
+      {
+        "Class": "space-x-96 > * + *",
+        "Properties": "margin-left: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "space-y-96 > * + *",
+        "Properties": "margin-top: 24rem; /* 384px */\n"
+      },
+      {
+        "Class": "space-x-px > * + *",
+        "Properties": "margin-left: 1px;\n"
+      },
+      {
+        "Class": "space-y-px > * + *",
+        "Properties": "margin-top: 1px;\n"
+      },
+      {
+        "Class": "space-y-reverse > * + *",
+        "Properties": "--tw-space-y-reverse: 1;\n"
+      },
+      {
+        "Class": "space-x-reverse > * + *",
+        "Properties": "--tw-space-x-reverse: 1;\n"
+      }
+    ]
+  }
+]

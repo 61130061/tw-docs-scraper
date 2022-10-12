@@ -1,0 +1,524 @@
+[
+  {
+    "name": "Blur",
+    "table": [
+      {
+        "Class": "blur-none",
+        "Properties": "filter: blur(0);\n"
+      },
+      {
+        "Class": "blur-sm",
+        "Properties": "filter: blur(4px);\n"
+      },
+      {
+        "Class": "blur",
+        "Properties": "filter: blur(8px);\n"
+      },
+      {
+        "Class": "blur-md",
+        "Properties": "filter: blur(12px);\n"
+      },
+      {
+        "Class": "blur-lg",
+        "Properties": "filter: blur(16px);\n"
+      },
+      {
+        "Class": "blur-xl",
+        "Properties": "filter: blur(24px);\n"
+      },
+      {
+        "Class": "blur-2xl",
+        "Properties": "filter: blur(40px);\n"
+      },
+      {
+        "Class": "blur-3xl",
+        "Properties": "filter: blur(64px);\n"
+      }
+    ]
+  },
+  {
+    "name": "Brightness",
+    "table": [
+      {
+        "Class": "brightness-0",
+        "Properties": "filter: brightness(0);\n"
+      },
+      {
+        "Class": "brightness-50",
+        "Properties": "filter: brightness(.5);\n"
+      },
+      {
+        "Class": "brightness-75",
+        "Properties": "filter: brightness(.75);\n"
+      },
+      {
+        "Class": "brightness-90",
+        "Properties": "filter: brightness(.9);\n"
+      },
+      {
+        "Class": "brightness-95",
+        "Properties": "filter: brightness(.95);\n"
+      },
+      {
+        "Class": "brightness-100",
+        "Properties": "filter: brightness(1);\n"
+      },
+      {
+        "Class": "brightness-105",
+        "Properties": "filter: brightness(1.05);\n"
+      },
+      {
+        "Class": "brightness-110",
+        "Properties": "filter: brightness(1.1);\n"
+      },
+      {
+        "Class": "brightness-125",
+        "Properties": "filter: brightness(1.25);\n"
+      },
+      {
+        "Class": "brightness-150",
+        "Properties": "filter: brightness(1.5);\n"
+      },
+      {
+        "Class": "brightness-200",
+        "Properties": "filter: brightness(2);\n"
+      }
+    ]
+  },
+  {
+    "name": "Contrast",
+    "table": [
+      {
+        "Class": "contrast-0",
+        "Properties": "filter: contrast(0);\n"
+      },
+      {
+        "Class": "contrast-50",
+        "Properties": "filter: contrast(.5);\n"
+      },
+      {
+        "Class": "contrast-75",
+        "Properties": "filter: contrast(.75);\n"
+      },
+      {
+        "Class": "contrast-100",
+        "Properties": "filter: contrast(1);\n"
+      },
+      {
+        "Class": "contrast-125",
+        "Properties": "filter: contrast(1.25);\n"
+      },
+      {
+        "Class": "contrast-150",
+        "Properties": "filter: contrast(1.5);\n"
+      },
+      {
+        "Class": "contrast-200",
+        "Properties": "filter: contrast(2);\n"
+      }
+    ]
+  },
+  {
+    "name": "Drop Shadow",
+    "table": [
+      {
+        "Class": "drop-shadow-sm",
+        "Properties": "filter: drop-shadow(0 1px 1px rgb(0 0 0 / 0.05));\n"
+      },
+      {
+        "Class": "drop-shadow",
+        "Properties": "filter: drop-shadow(0 1px 2px rgb(0 0 0 / 0.1)) drop-shadow(0 1px 1px rgb(0 0 0 / 0.06));\n"
+      },
+      {
+        "Class": "drop-shadow-md",
+        "Properties": "filter: drop-shadow(0 4px 3px rgb(0 0 0 / 0.07)) drop-shadow(0 2px 2px rgb(0 0 0 / 0.06));\n"
+      },
+      {
+        "Class": "drop-shadow-lg",
+        "Properties": "filter: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));\n"
+      },
+      {
+        "Class": "drop-shadow-xl",
+        "Properties": "filter: drop-shadow(0 20px 13px rgb(0 0 0 / 0.03)) drop-shadow(0 8px 5px rgb(0 0 0 / 0.08));\n"
+      },
+      {
+        "Class": "drop-shadow-2xl",
+        "Properties": "filter: drop-shadow(0 25px 25px rgb(0 0 0 / 0.15));\n"
+      },
+      {
+        "Class": "drop-shadow-none",
+        "Properties": "filter: drop-shadow(0 0 #0000);\n"
+      }
+    ]
+  },
+  {
+    "name": "Grayscale",
+    "table": [
+      {
+        "Class": "grayscale-0",
+        "Properties": "filter: grayscale(0);\n"
+      },
+      {
+        "Class": "grayscale",
+        "Properties": "filter: grayscale(100%);\n"
+      }
+    ]
+  },
+  {
+    "name": "Hue Rotate",
+    "table": [
+      {
+        "Class": "hue-rotate-0",
+        "Properties": "filter: hue-rotate(0deg);\n"
+      },
+      {
+        "Class": "hue-rotate-15",
+        "Properties": "filter: hue-rotate(15deg);\n"
+      },
+      {
+        "Class": "hue-rotate-30",
+        "Properties": "filter: hue-rotate(30deg);\n"
+      },
+      {
+        "Class": "hue-rotate-60",
+        "Properties": "filter: hue-rotate(60deg);\n"
+      },
+      {
+        "Class": "hue-rotate-90",
+        "Properties": "filter: hue-rotate(90deg);\n"
+      },
+      {
+        "Class": "hue-rotate-180",
+        "Properties": "filter: hue-rotate(180deg);\n"
+      }
+    ]
+  },
+  {
+    "name": "Invert",
+    "table": [
+      {
+        "Class": "invert-0",
+        "Properties": "filter: invert(0);\n"
+      },
+      {
+        "Class": "invert",
+        "Properties": "filter: invert(100%);\n"
+      }
+    ]
+  },
+  {
+    "name": "Saturate",
+    "table": [
+      {
+        "Class": "saturate-0",
+        "Properties": "filter: saturate(0);\n"
+      },
+      {
+        "Class": "saturate-50",
+        "Properties": "filter: saturate(.5);\n"
+      },
+      {
+        "Class": "saturate-100",
+        "Properties": "filter: saturate(1);\n"
+      },
+      {
+        "Class": "saturate-150",
+        "Properties": "filter: saturate(1.5);\n"
+      },
+      {
+        "Class": "saturate-200",
+        "Properties": "filter: saturate(2);\n"
+      }
+    ]
+  },
+  {
+    "name": "Sepia",
+    "table": [
+      {
+        "Class": "sepia-0",
+        "Properties": "filter: sepia(0);\n"
+      },
+      {
+        "Class": "sepia",
+        "Properties": "filter: sepia(100%);\n"
+      }
+    ]
+  },
+  {
+    "name": "Backdrop Blur",
+    "table": [
+      {
+        "Class": "backdrop-blur-none",
+        "Properties": "backdrop-filter: blur(0);\n"
+      },
+      {
+        "Class": "backdrop-blur-sm",
+        "Properties": "backdrop-filter: blur(4px);\n"
+      },
+      {
+        "Class": "backdrop-blur",
+        "Properties": "backdrop-filter: blur(8px);\n"
+      },
+      {
+        "Class": "backdrop-blur-md",
+        "Properties": "backdrop-filter: blur(12px);\n"
+      },
+      {
+        "Class": "backdrop-blur-lg",
+        "Properties": "backdrop-filter: blur(16px);\n"
+      },
+      {
+        "Class": "backdrop-blur-xl",
+        "Properties": "backdrop-filter: blur(24px);\n"
+      },
+      {
+        "Class": "backdrop-blur-2xl",
+        "Properties": "backdrop-filter: blur(40px);\n"
+      },
+      {
+        "Class": "backdrop-blur-3xl",
+        "Properties": "backdrop-filter: blur(64px);\n"
+      }
+    ]
+  },
+  {
+    "name": "Backdrop Brightness",
+    "table": [
+      {
+        "Class": "backdrop-brightness-0",
+        "Properties": "backdrop-filter: brightness(0);\n"
+      },
+      {
+        "Class": "backdrop-brightness-50",
+        "Properties": "backdrop-filter: brightness(.5);\n"
+      },
+      {
+        "Class": "backdrop-brightness-75",
+        "Properties": "backdrop-filter: brightness(.75);\n"
+      },
+      {
+        "Class": "backdrop-brightness-90",
+        "Properties": "backdrop-filter: brightness(.9);\n"
+      },
+      {
+        "Class": "backdrop-brightness-95",
+        "Properties": "backdrop-filter: brightness(.95);\n"
+      },
+      {
+        "Class": "backdrop-brightness-100",
+        "Properties": "backdrop-filter: brightness(1);\n"
+      },
+      {
+        "Class": "backdrop-brightness-105",
+        "Properties": "backdrop-filter: brightness(1.05);\n"
+      },
+      {
+        "Class": "backdrop-brightness-110",
+        "Properties": "backdrop-filter: brightness(1.1);\n"
+      },
+      {
+        "Class": "backdrop-brightness-125",
+        "Properties": "backdrop-filter: brightness(1.25);\n"
+      },
+      {
+        "Class": "backdrop-brightness-150",
+        "Properties": "backdrop-filter: brightness(1.5);\n"
+      },
+      {
+        "Class": "backdrop-brightness-200",
+        "Properties": "backdrop-filter: brightness(2);\n"
+      }
+    ]
+  },
+  {
+    "name": "Backdrop Contrast",
+    "table": [
+      {
+        "Class": "backdrop-contrast-0",
+        "Properties": "backdrop-filter: contrast(0);\n"
+      },
+      {
+        "Class": "backdrop-contrast-50",
+        "Properties": "backdrop-filter: contrast(.5);\n"
+      },
+      {
+        "Class": "backdrop-contrast-75",
+        "Properties": "backdrop-filter: contrast(.75);\n"
+      },
+      {
+        "Class": "backdrop-contrast-100",
+        "Properties": "backdrop-filter: contrast(1);\n"
+      },
+      {
+        "Class": "backdrop-contrast-125",
+        "Properties": "backdrop-filter: contrast(1.25);\n"
+      },
+      {
+        "Class": "backdrop-contrast-150",
+        "Properties": "backdrop-filter: contrast(1.5);\n"
+      },
+      {
+        "Class": "backdrop-contrast-200",
+        "Properties": "backdrop-filter: contrast(2);\n"
+      }
+    ]
+  },
+  {
+    "name": "Backdrop Grayscale",
+    "table": [
+      {
+        "Class": "backdrop-grayscale-0",
+        "Properties": "backdrop-filter: grayscale(0);\n"
+      },
+      {
+        "Class": "backdrop-grayscale",
+        "Properties": "backdrop-filter: grayscale(100%);\n"
+      }
+    ]
+  },
+  {
+    "name": "Backdrop Hue Rotate",
+    "table": [
+      {
+        "Class": "backdrop-hue-rotate-0",
+        "Properties": "backdrop-filter: hue-rotate(0deg);\n"
+      },
+      {
+        "Class": "backdrop-hue-rotate-15",
+        "Properties": "backdrop-filter: hue-rotate(15deg);\n"
+      },
+      {
+        "Class": "backdrop-hue-rotate-30",
+        "Properties": "backdrop-filter: hue-rotate(30deg);\n"
+      },
+      {
+        "Class": "backdrop-hue-rotate-60",
+        "Properties": "backdrop-filter: hue-rotate(60deg);\n"
+      },
+      {
+        "Class": "backdrop-hue-rotate-90",
+        "Properties": "backdrop-filter: hue-rotate(90deg);\n"
+      },
+      {
+        "Class": "backdrop-hue-rotate-180",
+        "Properties": "backdrop-filter: hue-rotate(180deg);\n"
+      }
+    ]
+  },
+  {
+    "name": "Backdrop Invert",
+    "table": [
+      {
+        "Class": "backdrop-invert-0",
+        "Properties": "backdrop-filter: invert(0);\n"
+      },
+      {
+        "Class": "backdrop-invert",
+        "Properties": "backdrop-filter: invert(100%);\n"
+      }
+    ]
+  },
+  {
+    "name": "Backdrop Opacity",
+    "table": [
+      {
+        "Class": "backdrop-opacity-0",
+        "Properties": "backdrop-filter: opacity(0);\n"
+      },
+      {
+        "Class": "backdrop-opacity-5",
+        "Properties": "backdrop-filter: opacity(0.05);\n"
+      },
+      {
+        "Class": "backdrop-opacity-10",
+        "Properties": "backdrop-filter: opacity(0.1);\n"
+      },
+      {
+        "Class": "backdrop-opacity-20",
+        "Properties": "backdrop-filter: opacity(0.2);\n"
+      },
+      {
+        "Class": "backdrop-opacity-25",
+        "Properties": "backdrop-filter: opacity(0.25);\n"
+      },
+      {
+        "Class": "backdrop-opacity-30",
+        "Properties": "backdrop-filter: opacity(0.3);\n"
+      },
+      {
+        "Class": "backdrop-opacity-40",
+        "Properties": "backdrop-filter: opacity(0.4);\n"
+      },
+      {
+        "Class": "backdrop-opacity-50",
+        "Properties": "backdrop-filter: opacity(0.5);\n"
+      },
+      {
+        "Class": "backdrop-opacity-60",
+        "Properties": "backdrop-filter: opacity(0.6);\n"
+      },
+      {
+        "Class": "backdrop-opacity-70",
+        "Properties": "backdrop-filter: opacity(0.7);\n"
+      },
+      {
+        "Class": "backdrop-opacity-75",
+        "Properties": "backdrop-filter: opacity(0.75);\n"
+      },
+      {
+        "Class": "backdrop-opacity-80",
+        "Properties": "backdrop-filter: opacity(0.8);\n"
+      },
+      {
+        "Class": "backdrop-opacity-90",
+        "Properties": "backdrop-filter: opacity(0.9);\n"
+      },
+      {
+        "Class": "backdrop-opacity-95",
+        "Properties": "backdrop-filter: opacity(0.95);\n"
+      },
+      {
+        "Class": "backdrop-opacity-100",
+        "Properties": "backdrop-filter: opacity(1);\n"
+      }
+    ]
+  },
+  {
+    "name": "Backdrop Saturate",
+    "table": [
+      {
+        "Class": "backdrop-saturate-0",
+        "Properties": "backdrop-filter: saturate(0);\n"
+      },
+      {
+        "Class": "backdrop-saturate-50",
+        "Properties": "backdrop-filter: saturate(.5);\n"
+      },
+      {
+        "Class": "backdrop-saturate-100",
+        "Properties": "backdrop-filter: saturate(1);\n"
+      },
+      {
+        "Class": "backdrop-saturate-150",
+        "Properties": "backdrop-filter: saturate(1.5);\n"
+      },
+      {
+        "Class": "backdrop-saturate-200",
+        "Properties": "backdrop-filter: saturate(2);\n"
+      }
+    ]
+  },
+  {
+    "name": "Backdrop Sepia",
+    "table": [
+      {
+        "Class": "backdrop-sepia-0",
+        "Properties": "backdrop-filter: sepia(0);\n"
+      },
+      {
+        "Class": "backdrop-sepia",
+        "Properties": "backdrop-filter: sepia(100%);\n"
+      }
+    ]
+  }
+]
